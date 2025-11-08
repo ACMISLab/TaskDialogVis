@@ -1,0 +1,22 @@
+As an expert in the field of visualization, please provide the detailed reasoning process for determining which data fields are used in the current user¡¯s utterance (compared to the previous round¡¯s chart).
+
+# Reasoning process require
+- The reasoning process for the data field must be constructed according to the following steps: First, obtain and understand the data field information used in the previous round of visualization; parse the current user¡¯s utterance to identify the possible corresponding data fields (including fields related to encoding and filtering); finally, compare the fields identified from the user¡¯s utterance with those from the previous round to determine the newly added, modified, or no longer used fields.
+- During the reasoning, please reason from the perspective of a visualization expert without using the expression ¡°reasoning process¡±. Additionally, the reasoning process should not output the original user¡¯s utterance.
+
+# Data Summary
+{data_summary}
+
+# Previous round of visualization conversation
+{pre_dialogue}
+
+# This round of user's visualization utterance
+{new_dialogue}
+
+# The results of this round¡¯s visualization data fields
+{new_result}
+
+# Output Templates
+{output_templates}
+
+You must output in JSON format. The final inference result must be consistent with the results of the visualization data fields provided earlier in this round. The reasoning process developed should avoid mirroring the expressions used in the previously provided steps of the reasoning process.

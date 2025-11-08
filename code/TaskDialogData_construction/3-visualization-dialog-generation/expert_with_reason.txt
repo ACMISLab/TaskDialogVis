@@ -1,0 +1,36 @@
+You are an excellent visualization expert. Your task is to regenerate the Vega-Lite visualization specification based on the given suggestions, with the same intent as the visualization utterance.
+
+# Request
+- Aggregate information can only be displayed in "encoding".
+- Filtering information can only be displayed in the "transform"
+- The encoding channel only contains x, y, color, theta, size.
+- The aggregation types are limited to "count", "mean", "sum", "min", and "max".
+- If the visualization chart information from the previous round of dialogue is ¡°None¡±, it proves that the current round of dialogue is the first round.
+- Vega-Lite charts only need to contain "mark", "encoding", "transform".
+- The sorting information must be expressed as -y, y, x, -x.
+- ¡°transform¡± can only contain filtered information, Filtering information can only exist one in the "transform".
+- The Output must contain analysing tasks, utterance, and chart.
+
+# Table Summary
+{summary}
+
+# User Utterance
+{utterance}
+
+# Origin Chart
+{origin_chart}
+
+# Suggestion
+{suggestion}
+
+# Output Example
+{example1}
+
+{example2}
+
+{example3}
+
+# Output Template
+{template}
+
+You have to only return the output in json format. Please refer to Chart Example to generate charts. Please return in the form of an output template.

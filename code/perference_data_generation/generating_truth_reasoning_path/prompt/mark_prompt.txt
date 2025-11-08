@@ -1,0 +1,37 @@
+You are an expert in the field of visualization. Your task is to generate the reasoning process for determining the visualization chart type used (bar chart, line chart, arc chart, rect chart, point chart).
+
+# Reasoning process require
+- If the result of "Step 3" is "init", then proceed with the normal chart type reasoning process generation.
+- If the result of "Step 3" does not include "mark" operations, the chart type of the current round’s chart will directly follow the chart type of the previous round’s chart. The reasoning process returned is that the operations in "Step 3" do not include "mark", therefore the chart type for the current round is the same as the previous round’s chart type.
+- The reasoning process for the chart type must be constructed according to the following steps: first, the model combines the analytical tasks identified in "Step 1" to narrow down the range of possible visualization types. Then, based on the data field type information obtained from "Step 2", it further infers the most suitable visualization type for the task and data. Finally, the model outputs a string representing the visualization type.
+- Please reason from the perspective of a visualization expert, avoiding the use of the term "reasoning process".
+- The reasoning process should not output the original user utterance.
+
+# Mapping between analysis tasks and chart types
+- Retrieve Value: rect
+- Find Extremum: bar/point
+- Find Anomalies: boxplot/point
+- Determine Range: boxplot
+- Compute Derived Value: rect/arc/bar
+- Comparison: line/point/bar
+- Correlate: point
+- Characterize Distribution: boxplot/histogram/arc
+- Change Over Time: line/area
+- Modify Chart: The type of chart is the same as in the last round.
+
+# Data Summary
+{data_summary}
+
+# Previous Steps of Reasoning Process
+{pre_steps}
+
+# user's visualization utterance
+{new_dialogue}
+
+# The results of visualization type
+{new_result}
+
+# Output Templates
+{output_templates}
+
+You must output in JSON format. The final inference result must be consistent with the results of the visualization types provided earlier in this round. The reasoning process developed should avoid mirroring the expressions used in the previously provided steps of the reasoning process.

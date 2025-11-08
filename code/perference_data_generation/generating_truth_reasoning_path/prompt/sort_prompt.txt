@@ -1,0 +1,27 @@
+As a visualization expert, please generate the reasoning process for the sorting information of the current round¡¯s visualization chart.
+
+# Reasoning process require
+- If the result of "Step 3" is "init", then proceed with the normal sorting information reasoning process generation.
+- If the result of "Step 3" does not include "sort" operations, the sorting information of the current round¡¯s chart will directly follow the sorting information of the previous round¡¯s chart. The reasoning process returned is that the operations in "Step 3" do not include "sort" or it¡¯s not the first iteration of the chart, therefore the sorting information for the current round is the same as the previous round¡¯s sorting information.
+- The reasoning process for the sort information must be constructed according to the following steps: First, parse the user¡¯s utterance of the current round, combine the data fields identified in "Step 2", and determine the sorting basis and direction (ascending/descending) specified by the user. Then, compare these determined sorting requirements with the sorting state of the previous round, and based on the comparison result, perform corresponding update or adjustment operations to generate the sorting information for the current round.
+- You can directly reference the information inferred from the previous steps without repeating the reasoning process.
+- Avoid using the term "reasoning process" in the reasoning. Focus only on the sorting information of the visualization chart.
+- The reasoning process should not output the original user utterance.
+
+# Data Summary
+{data_summary}
+
+# Previous Steps of Reasoning Process
+{pre_steps}
+
+# This round of user's visualization utterance
+{new_dialogue}
+
+# The results of this round¡¯s visualization sort
+{new_result}
+
+# Output Templates
+{output_templates}
+
+You must output in JSON format. It is necessary to ensure that the final inference result is consistent with the results of this round¡¯s visualization sort information. if the results of this round's visualization sort information is "[]", then the final reasoning result should also be "[]".
+The final inference result must be consistent with the sorting results of the visualization provided earlier in this round. The reasoning process developed should avoid mirroring the expressions used in the previously provided steps of the reasoning process.

@@ -1,0 +1,151 @@
+Country,Year,Total Smokers (Millions),Smoking Prevalence (%),Male Smokers (%),Female Smokers (%),Cigarette Consumption (Billion Units),Top Cigarette Brand in Country,Brand Market Share (%),Smoking-Related Deaths,Tobacco Tax Rate (%),Smoking Ban Policy
+South Africa,2010,279.6,21.5,13.3,8.2,2415.7,Peter Stuyvesant,21.3,461574,32.9,Partial
+South Africa,2022,41.8,10.2,7.5,2.7,97.0,Peter Stuyvesant,46.6,57945,42.9,Comprehensive
+South Africa,2017,262.0,30.7,22.1,8.6,161.5,Peter Stuyvesant,58.5,407834,51.4,Partial
+Germany,2016,11.3,38.2,24.1,14.1,111.5,Marlboro,15.9,13142,79.6,Partial
+Brazil,2014,241.9,27.6,18.2,9.4,2151.2,Derby,59.9,220450,56.4,None
+South Korea,2022,133.7,18.1,12.0,6.1,575.7,Esse,55.4,264200,75.2,None
+Brazil,2014,88.7,30.4,22.9,7.5,764.1,Derby,13.8,46174,76.9,Comprehensive
+UK,2012,92.8,37.4,29.2,8.2,297.3,Marlboro,30.6,101303,86.7,Partial
+Canada,2018,176.3,33.0,27.5,5.5,1358.4,Du Maurier,30.3,202734,49.9,None
+Vietnam,2020,112.5,33.9,30.4,3.5,748.9,Vinataba,10.9,104261,78.8,Partial
+Italy,2012,11.5,21.5,13.6,7.9,66.6,MS,37.9,12992,60.8,Partial
+India,2018,248.1,28.4,24.7,3.7,1467.4,Gold Flake,36.1,410247,38.1,Partial
+China,2017,217.3,38.2,34.2,4.0,1959.4,China National Tobacco Corp.,35.2,323462,30.4,None
+Vietnam,2017,134.8,26.3,22.0,4.3,1253.3,Vinataba,48.5,254908,39.9,Comprehensive
+India,2023,319.1,19.0,13.5,5.5,2137.9,Gold Flake,58.5,572968,66.9,None
+Vietnam,2022,148.3,8.6,5.2,3.4,546.0,Vinataba,19.8,255317,30.1,Comprehensive
+India,2018,217.7,8.7,5.3,3.4,446.6,Gold Flake,35.3,128149,73.3,Partial
+Brazil,2022,178.5,15.4,13.1,2.3,231.7,Derby,58.3,112810,80.5,Partial
+Mexico,2014,50.4,11.1,9.4,1.7,267.2,Marlboro,18.8,45219,86.4,Partial
+South Africa,2023,75.1,11.0,8.8,2.2,296.5,Peter Stuyvesant,19.8,76061,80.4,None
+UK,2022,237.6,32.5,26.5,6.0,895.9,Marlboro,33.7,309596,76.0,Partial
+Spain,2013,56.6,22.1,14.6,7.5,334.9,Fortuna,49.2,81291,32.3,Partial
+Russia,2018,77.5,36.0,28.2,7.8,517.0,Sobranie,11.2,57175,36.9,None
+South Africa,2017,306.8,10.6,6.6,4.0,2081.8,Peter Stuyvesant,11.4,269283,72.3,None
+Thailand,2018,320.5,6.5,4.5,2.0,1758.6,Wonder,49.7,556146,46.5,None
+Australia,2018,273.9,12.3,7.9,4.4,2433.7,Winfield,15.6,491453,45.0,Comprehensive
+Thailand,2011,259.3,28.9,20.5,8.4,1728.4,Wonder,19.9,441157,47.4,Comprehensive
+Turkey,2015,83.6,15.0,13.3,1.7,757.2,Tekel,36.5,52944,49.7,None
+Italy,2019,99.3,17.2,12.8,4.4,964.7,MS,45.7,78412,81.7,Partial
+Spain,2024,35.0,16.0,11.0,5.0,88.0,Fortuna,32.0,59083,34.4,Partial
+South Africa,2012,56.0,6.1,4.1,2.0,541.2,Peter Stuyvesant,42.9,81445,46.7,Partial
+Russia,2022,264.6,21.7,15.2,6.5,1334.8,Sobranie,28.1,476802,42.3,None
+South Korea,2016,196.4,22.5,18.9,3.6,116.4,Esse,21.8,264188,32.3,Comprehensive
+South Korea,2012,83.7,31.1,24.4,6.7,165.0,Esse,24.6,129047,51.9,None
+Japan,2010,100.7,36.1,27.0,9.1,881.2,Mevius,57.3,132048,37.4,None
+China,2012,111.7,22.5,15.3,7.2,258.4,China National Tobacco Corp.,19.2,82657,66.2,Partial
+Brazil,2010,112.8,16.2,13.6,2.6,322.1,Derby,19.0,171557,39.7,None
+South Africa,2021,138.6,27.1,19.0,8.1,1019.0,Peter Stuyvesant,49.6,92111,85.1,Partial
+Australia,2021,45.3,29.3,25.5,3.8,371.9,Winfield,24.1,30976,41.0,Partial
+China,2020,21.9,12.8,9.7,3.1,171.6,China National Tobacco Corp.,10.1,17627,48.3,None
+China,2010,13.2,38.8,28.3,10.5,68.3,China National Tobacco Corp.,56.5,15225,35.8,Comprehensive
+Spain,2013,331.0,15.4,12.0,3.4,1205.2,Fortuna,45.8,300700,89.8,Comprehensive
+Spain,2012,254.6,6.4,4.5,1.9,1368.1,Fortuna,57.8,380575,46.4,Comprehensive
+Australia,2011,44.6,22.5,19.7,2.8,219.2,Winfield,22.0,79945,84.7,Partial
+Turkey,2020,14.8,32.3,25.7,6.6,45.2,Tekel,43.9,25878,57.8,None
+China,2023,340.9,9.8,6.6,3.2,2778.6,China National Tobacco Corp.,54.0,316603,66.1,Comprehensive
+Australia,2018,289.7,28.6,19.5,9.1,1110.8,Winfield,28.8,445068,30.7,Partial
+Germany,2018,281.0,24.4,21.7,2.7,2472.5,Marlboro,51.6,465916,41.8,Comprehensive
+Russia,2015,164.5,28.2,20.0,8.2,1613.4,Sobranie,47.6,184886,74.4,Partial
+Turkey,2014,334.1,38.4,33.7,4.7,2887.5,Tekel,21.3,334531,80.6,Comprehensive
+South Korea,2010,154.1,37.6,33.1,4.5,437.3,Esse,43.1,249308,45.1,None
+South Korea,2012,319.0,24.4,15.4,9.0,2747.8,Esse,22.9,310287,46.6,Partial
+China,2024,28.7,17.5,12.6,4.9,138.3,China National Tobacco Corp.,39.3,24272,84.8,Partial
+South Africa,2013,183.5,31.7,24.3,7.4,1827.4,Peter Stuyvesant,26.6,262642,34.5,Comprehensive
+Thailand,2017,43.6,28.3,18.9,9.4,385.7,Wonder,28.8,41739,68.0,Partial
+UK,2020,28.0,7.0,5.4,1.6,147.0,Marlboro,13.6,24017,51.2,None
+Japan,2014,85.3,22.2,14.4,7.8,64.5,Mevius,23.7,97999,81.0,Partial
+Vietnam,2024,165.1,16.6,10.3,6.3,947.9,Vinataba,31.4,329244,42.2,Comprehensive
+China,2011,261.1,35.6,31.6,4.0,1254.2,China National Tobacco Corp.,17.9,422758,59.1,None
+Indonesia,2022,307.8,26.8,19.8,7.0,506.4,Gudang Garam,56.4,245653,54.0,Partial
+Germany,2012,166.0,26.8,22.0,4.8,371.1,Marlboro,30.4,281266,47.9,Partial
+Indonesia,2015,115.7,23.8,19.3,4.5,846.3,Gudang Garam,51.0,82484,64.6,Partial
+Australia,2017,190.6,36.0,31.3,4.7,841.9,Winfield,59.2,376248,71.9,None
+Mexico,2021,251.7,28.9,21.5,7.4,1370.6,Marlboro,51.2,224384,48.8,Partial
+Australia,2018,7.9,15.9,11.7,4.2,24.5,Winfield,36.5,4846,65.4,None
+Russia,2015,261.4,24.3,16.8,7.5,879.8,Sobranie,58.5,416402,67.1,Comprehensive
+Turkey,2023,295.8,22.4,15.5,6.9,2247.0,Tekel,38.3,447575,76.8,Partial
+Japan,2024,126.1,22.1,15.9,6.2,960.0,Mevius,35.9,90488,37.3,Comprehensive
+Vietnam,2020,4.8,10.7,7.9,2.8,45.2,Vinataba,49.9,4452,40.2,Partial
+China,2020,332.4,33.7,21.2,12.5,597.8,China National Tobacco Corp.,25.2,591081,84.8,None
+UK,2022,163.5,38.2,31.0,7.2,1236.3,Marlboro,43.3,276001,33.4,None
+Italy,2014,271.7,18.8,12.9,5.9,806.6,MS,32.0,451127,79.4,None
+Turkey,2024,241.4,37.9,25.9,12.0,1602.0,Tekel,28.5,399223,64.6,Comprehensive
+Indonesia,2021,161.9,21.5,15.4,6.1,1103.0,Gudang Garam,50.5,127018,55.9,Partial
+Indonesia,2016,194.5,6.3,5.3,1.0,1228.7,Gudang Garam,17.6,264254,35.1,Partial
+Japan,2017,292.4,25.1,22.3,2.8,1341.4,Mevius,18.1,244736,63.5,None
+UK,2013,224.0,24.9,17.0,7.9,502.5,Marlboro,47.1,235298,36.2,Comprehensive
+Thailand,2024,205.2,27.2,21.2,6.0,811.9,Wonder,34.8,239447,41.9,Comprehensive
+Canada,2011,16.4,14.1,9.3,4.8,31.1,Du Maurier,38.6,9912,77.3,Partial
+USA,2024,51.6,6.5,3.9,2.6,152.1,Marlboro,37.3,73405,85.6,None
+France,2020,5.0,15.5,12.5,3.0,4.9,Gauloises,51.2,4644,88.5,Partial
+Indonesia,2021,125.7,14.8,10.4,4.4,768.6,Gudang Garam,47.0,91249,54.6,Partial
+Japan,2024,142.9,39.3,31.9,7.4,887.9,Mevius,56.6,155857,39.5,None
+USA,2018,220.1,23.0,15.7,7.3,1681.6,Marlboro,18.5,397274,83.2,Partial
+South Korea,2014,36.7,24.7,21.2,3.5,219.5,Esse,12.9,72432,67.3,Comprehensive
+Indonesia,2019,237.0,37.1,32.6,4.5,2334.2,Gudang Garam,58.6,360962,52.4,Partial
+Brazil,2023,230.4,37.1,31.4,5.7,611.8,Derby,44.7,332223,46.1,None
+Brazil,2014,104.8,11.7,9.8,1.9,719.4,Derby,10.7,137948,48.6,None
+USA,2022,118.4,13.5,10.5,3.0,545.7,Marlboro,32.3,190186,68.7,Partial
+India,2015,121.8,38.4,23.2,15.2,185.9,Gold Flake,20.7,126821,43.8,Comprehensive
+China,2017,35.6,11.5,7.7,3.8,69.2,China National Tobacco Corp.,41.3,34285,79.9,Partial
+Germany,2023,15.3,23.9,17.4,6.5,39.3,Marlboro,41.0,29149,62.1,Partial
+South Korea,2024,4.1,11.9,8.2,3.7,8.3,Esse,18.5,5960,87.3,Comprehensive
+France,2021,237.1,12.6,10.3,2.3,1240.5,Gauloises,38.6,384465,78.8,Partial
+Italy,2020,80.7,32.6,20.4,12.2,552.7,MS,33.6,139100,66.9,Partial
+Turkey,2022,141.7,10.6,6.6,4.0,356.1,Tekel,17.7,195038,60.0,None
+Canada,2021,116.0,10.5,8.3,2.2,329.5,Du Maurier,30.9,99063,31.5,Partial
+USA,2022,21.7,5.9,3.8,2.1,13.1,Marlboro,45.5,30551,44.5,Comprehensive
+China,2010,253.5,20.7,17.3,3.4,1923.2,China National Tobacco Corp.,19.2,362655,42.5,Comprehensive
+UK,2015,153.6,15.1,10.6,4.5,289.4,Marlboro,23.2,132240,36.9,Partial
+South Africa,2022,142.9,28.5,18.1,10.4,401.1,Peter Stuyvesant,19.8,145721,35.9,None
+Mexico,2022,343.2,19.7,15.3,4.4,1530.8,Marlboro,36.3,198361,43.0,Comprehensive
+Spain,2023,233.0,11.2,8.8,2.4,745.3,Fortuna,34.1,184465,63.7,None
+India,2014,217.5,27.5,24.1,3.4,186.9,Gold Flake,28.4,267010,63.8,Partial
+Italy,2012,52.8,24.1,14.8,9.3,480.7,MS,25.5,43355,63.3,Partial
+Italy,2014,328.9,30.3,22.1,8.2,3238.6,MS,58.2,340971,44.3,Partial
+UK,2023,157.2,34.9,27.1,7.8,257.4,Marlboro,13.1,108736,63.9,Partial
+Canada,2015,2.7,7.5,6.6,0.9,4.3,Du Maurier,43.7,5305,43.7,Partial
+South Korea,2018,205.3,28.0,19.6,8.4,1393.9,Esse,55.0,151284,89.7,None
+India,2014,213.6,24.9,16.1,8.8,1232.4,Gold Flake,30.6,247566,66.2,Comprehensive
+South Korea,2014,184.2,20.6,14.0,6.6,1740.4,Esse,55.8,102830,85.0,Partial
+France,2024,125.7,31.4,27.9,3.5,887.9,Gauloises,36.1,79693,77.8,Comprehensive
+Italy,2014,109.5,24.4,14.9,9.5,680.9,MS,40.8,180209,41.1,Partial
+Spain,2024,247.1,20.7,18.1,2.6,2249.1,Fortuna,19.1,467701,64.2,Comprehensive
+Canada,2021,295.1,38.8,32.3,6.5,956.3,Du Maurier,44.2,352001,70.8,Partial
+Turkey,2023,152.7,19.0,12.6,6.4,509.8,Tekel,20.5,228220,33.5,None
+Russia,2024,261.1,36.5,28.5,8.0,418.9,Sobranie,19.3,406957,66.3,None
+USA,2024,319.7,30.3,20.4,9.9,947.6,Marlboro,15.7,457569,87.4,None
+Italy,2022,115.5,23.8,20.2,3.6,190.3,MS,30.7,165238,87.1,None
+India,2012,282.1,24.9,21.9,3.0,2262.9,Gold Flake,54.7,545192,47.7,Comprehensive
+Australia,2020,164.9,15.1,10.0,5.1,1508.9,Winfield,16.0,113037,49.6,Partial
+Indonesia,2018,289.9,35.9,31.9,4.0,606.9,Gudang Garam,10.9,452566,77.2,Partial
+Australia,2021,108.2,22.6,19.7,2.9,533.3,Winfield,16.3,182342,40.7,None
+USA,2023,56.4,15.9,10.3,5.6,83.0,Marlboro,34.8,30161,36.2,Partial
+France,2023,167.1,18.6,11.9,6.7,552.8,Gauloises,44.6,167146,50.0,None
+Russia,2017,27.1,36.1,23.9,12.2,102.6,Sobranie,48.1,53018,36.8,None
+Indonesia,2020,253.5,16.7,11.8,4.9,1921.5,Gudang Garam,18.2,506688,32.7,Partial
+India,2017,177.3,38.9,30.3,8.6,1115.1,Gold Flake,31.8,121136,49.9,Comprehensive
+Brazil,2011,25.9,22.3,19.7,2.6,95.1,Derby,25.7,46463,44.7,Partial
+South Africa,2024,304.9,24.8,17.9,6.9,2775.2,Peter Stuyvesant,21.0,527556,61.8,None
+Russia,2017,215.1,19.4,15.4,4.0,1852.4,Sobranie,19.9,403224,77.0,Comprehensive
+Spain,2020,161.9,28.1,21.5,6.6,284.3,Fortuna,59.7,171414,86.3,Partial
+Thailand,2022,327.5,22.3,14.0,8.3,423.6,Wonder,13.7,342873,63.9,None
+UK,2020,131.6,37.6,27.5,10.1,1213.3,Marlboro,11.3,170911,76.0,None
+Canada,2017,277.0,18.2,14.5,3.7,2443.4,Du Maurier,47.7,404740,40.2,None
+Brazil,2023,333.6,10.8,8.0,2.8,1353.1,Derby,25.0,537573,89.1,Comprehensive
+Vietnam,2012,340.3,27.2,17.2,10.0,1106.7,Vinataba,39.6,340170,44.0,Partial
+Italy,2020,216.4,36.5,32.5,4.0,2093.0,MS,58.4,286490,46.7,Partial
+Turkey,2024,257.3,16.5,13.8,2.7,295.2,Tekel,24.4,480492,36.9,None
+China,2016,94.6,8.0,5.2,2.8,371.6,China National Tobacco Corp.,15.9,99544,44.8,Comprehensive
+Mexico,2023,276.2,35.7,26.0,9.7,2015.3,Marlboro,36.2,369771,36.7,Comprehensive
+South Africa,2024,190.2,39.9,33.8,6.1,856.2,Peter Stuyvesant,36.7,310863,86.1,Partial
+Indonesia,2017,279.5,17.7,11.5,6.2,2133.4,Gudang Garam,23.8,375307,44.6,Partial
+Turkey,2013,326.1,15.2,11.8,3.4,1233.0,Tekel,33.0,179172,80.2,None
+India,2023,83.4,8.1,5.2,2.9,178.9,Gold Flake,13.4,97841,63.6,Partial
+Germany,2024,85.4,36.9,31.9,5.0,737.7,Marlboro,22.1,160190,61.1,Comprehensive
+UK,2016,186.1,19.3,12.2,7.1,509.8,Marlboro,45.5,258378,33.3,None
+Vietnam,2011,138.5,22.4,15.7,6.7,989.9,Vinataba,59.3,191345,66.7,Comprehensive
+Brazil,2014,195.2,38.8,33.8,5.0,1358.5,Derby,31.5,372393,66.9,None
+India,2022,344.1,35.9,25.4,10.5,2011.5,Gold Flake,34.8,606058,47.2,Partial

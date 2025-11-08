@@ -1,0 +1,54 @@
+Dataset,Question
+atlantic storms.csv,where are storms most common depending on the time of year
+cars.csv,which countries have the highest acceleration for cars of different cylinders
+cars.csv,count the number of cars based on their origins
+cars.csv,how many cylinders do cars manufactured in different countries have
+cars.csv,compare car cylinder count against acceleration across countries
+cars.csv,compare avg (acceleration) with cylinders | segregate the cylinders by their origin
+cars.csv,how does the acceleration of cars from different countries vary by the number of cylinders
+cars.csv,"how does mpg compare to displacement, broken out by region"
+cars.csv,"how does mpg compare to displacement, for each region"
+cars.csv,"for each region, how does a car's mpg vary with displacement"
+GunViolence.csv,what city has the highest crime rate
+GunViolence.csv,are males or females more likely to die of gun violence
+GunViolence.csv,is one sex more likely to perpetrate gun violence
+GunViolence.csv,is more gun violence committed with stolen guns or non stolen guns
+GunViolence.csv,which state/year has the most gun deaths
+International football results from 1872 to 2019.csv,which group of nations won the most games
+marry.csv,is the total attribute of one area equal to the sum of the other attributes in any area
+movies.csv,"what's the average production budget of the different rated movies, separated by creative type"
+movies.csv,what's the breakdown of production budget by creative type per content rating
+movies.csv,what is the total worldwide gross earned by each major genre and content rating
+movies.csv,"for each genre and rating, what is the total world-wide gross earnings"
+movies.csv,how much did each type of movie earn in across the whole world
+movies.csv,how much money did movies of each genre and rating make
+movies.csv,"what was the average budget for each content rating and creative type, as multiple column charts"
+movies.csv,compare imdb rating to rotten tomatoes rating
+movies.csv,how much did major genres gross in total
+movies.csv,gross across genres regarding content rating
+movies.csv,"cumulative gross for each content rating, by major genre"
+shooting_player_info.csv,they want to know what tactic is most effective during football
+shooting_player_info.csv,the clubs should be arranged by their shooting attempts
+sub-est2002-01.csv,can you tell me the state which may have the largest average population in the next year
+superstore.csv,how much is the average of profit of each state
+superstore.csv,how do the company earn in each state
+superstore.csv,what were the total sales for each date in each category
+superstore.csv,how much was sold each day for each category
+superstore.csv,what is the average profit for each state
+superstore.csv,what is the average profit of each ship mode divided by segment
+superstore.csv,what is the sales forecast for each date
+superstore.csv,"what is the total profit for each region, based on ship status"
+superstore.csv,how many products have 3 or more quantity ordered
+superstore.csv,how many products are ordered in single quantity
+superstore.csv,density of sales across regions and their profitability
+superstore.csv,what are the profits across different states
+superstore.csv,what product category has more orders placed
+superstore.csv,what is our profit based on shipping mode by customer segment
+superstore.csv,what is the sales vs profit ratio of the four regions
+superstore.csv,what is the average profit of each state
+superstore.csv,what is the sales vs profit ratio of all the zones
+superstore.csv,what is the average profit of different segments on the ship modes of transport
+superstore.csv,how much is the profit for sales for each
+superstore.csv,can you create a graph showing sales and profit by region
+Undergraduate_Postgraduate.csv,state the average income of postgraduate students in each country
+World Happiness Report 2015.csv,"what countries, other than finland, have higher happiness scores and lower gdp"

@@ -1,0 +1,56 @@
+You are a visualization expert, please, based on your understanding of the dataset and the chart from the previous round of dialogue, divide the task into seven steps, and think step by step to obtain the corresponding visualization parameters.
+
+#Task Decomposition
+- Step 1: Based on the user's natural language input, extract keywords and phrases related to visual analysis, and identify the specific analysis task type corresponding to the user's intent.
+- Step 2: Combining the visual state of the chart in the current dialogue turn with the new round of user input, identify and extract the data fields explicitly or implicitly involved by the user.
+- Step 3: By comparing the current round of user input with the previous round of chart state, determine the type of chart modification involved in the user’s current intention, including one or more operations such as “mark”, “encoding”, “filter”, and “sort”.
+- Step 4: When the user’s intention involves a change in chart type (i.e., a “mark” operation), the model needs to combine the mentioned data fields and the type of analysis task to infer the most appropriate chart type.
+- Step 5: For the “encoding” operation, the model needs to reasonably map the data fields to appropriate visual channels (such as x, y, color, theta) based on the established chart type. It also needs to determine, in conjunction with the semantic context, whether preprocessing operations such as aggregation or binning are required to meet the needs of visual expression.
+- Step 6: For the “filter” operation involving data selection, the model needs to parse the user’s statement and the filter conditions in the previous round of the chart, infer new filtering rules, including atomic conditions and their logical combinations (such as AND, OR, etc.), to achieve precise extraction of data subsets.
+- Step 7: When the user intends to adjust the data sorting (i.e., “sort” operation), the model needs to identify the sorting field and the desired sorting direction (ascending or descending), and update the sorting logic based on the configuration of the previous round of the chart.
+
+# Request
+- The aggregation types are limited to "count", "mean", "sum", "min", and "max".
+- The results of each step should be complete with chart parameters.
+- You must follow the style of the Output Example to return results.
+
+# Visualization analysis task
+- Change Over Time: Analyse how the data changes over time series.
+- Characterize Distribution: Characterize the distribution of the data over the set.
+- Comparison: Give emphasis to comparison on different entities.
+- Compute Derived Value: Compute aggregated or binned numeric derived value.
+- Correlate: Determine useful relationships between the columns.
+- Determine Range: Find the span of values within the set.
+- Find Anomalies: Identify any anomalies within the dataset.
+- Find Extremum: Find extreme values of data column.
+- Retrieve Value: Find values of specific columns.
+- Modify Chart: Based on the modifications of the previous round of Vega-Lite charts in three parts filter, encoding, and sort.
+
+# Mapping between analysis tasks and chart types
+- Retrieve Value: rect
+- Find Extremum: bar/point
+- Find Anomalies: boxplot/point
+- Determine Range: boxplot
+- Compute Derived Value: rect/arc/bar
+- Comparison: line/point/bar
+- Correlate: point
+- Characterize Distribution: boxplot/histogram/arc
+- Change Over Time: line/area
+- Modify Chart: The type of chart is the same as in the last round.
+
+# Dataset
+{dataset}
+
+# Previous round of dialogue visualization
+{pre}
+
+# Output Example
+{example1}
+
+{example2}
+
+{example3}
+
+{example4}
+
+You have to only return the output in json format. Please refer to Chart Example to generate charts. Please return in the form of an output Example.

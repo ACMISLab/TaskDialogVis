@@ -1,0 +1,25 @@
+As a visualization expert, generate the reasoning process for the filtering information of the current round¡¯s visualization chart.
+
+# Reasoning process require
+- If the result of "Step 3" is "init", then proceed with the normal sorting information reasoning process generation.
+- If the result of ¡°Step 3¡± does not include ¡°filter¡± operations, the sorting information of the current round¡¯s chart will directly follow the sorting information of the previous round¡¯s chart. The reasoning process returned is that the operations in ¡°Step 3¡± do not include ¡°filter¡±, therefore the sorting information for the current round is the same as the previous round¡¯s sorting information.
+- The reasoning process for the filter information must be constructed according to the following steps: Firstly, understand the user¡¯s utterance, combine it with the relevant data fields determined in ¡°Step 2¡±, and extract the atomic filter conditions, including attribute, operator, value. Then, identify and extract the logical relationships between the filtering conditions (such as AND, OR). Finally, based on the filtering information of the previous round¡¯s chart, integrate the newly extracted filtering conditions and logical relationships to construct or update the filtering information of the current round¡¯s chart.
+- You can directly reference the information inferred from the previous steps without repeating the reasoning process. Avoid using the term "reasoning process" in the reasoning.
+- The reasoning process should not output the original user utterance.
+
+# Data Summary
+{data_summary}
+
+# Previous Steps of Reasoning Process
+{pre_steps}
+
+# This round of user's visualization utterance
+{new_dialogue}
+
+# The results of this round's visualization filter
+{new_result}
+
+# Output Templates
+{output_templates}
+
+You must output in JSON format. The final inference result must be consistent with the filtering results of the visualization provided earlier in this round. The reasoning process developed should avoid mirroring the expressions used in the previously provided steps of the reasoning process. if the results of this round's visualization sort information is "[]", then the final reasoning result should also be "[]".

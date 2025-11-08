@@ -1,0 +1,17 @@
+Dataset,Question
+air_quality_Nov2017.csv,describe the change in air quality over one day  describe the change in each air pollutant
+atlantic storms.csv,how has wind speed changed over time
+cars.csv,how do the horsepowers of the cars from different regions change with years
+cars.csv,have cars gotten lighter over time
+cars.csv,what is the average weight of cars over time
+cars.csv,how does avg (weight) evolve over the years
+cars.csv,how has the average weight of cars changed over the years
+european-gdp-and-containerized-tra-2.csv,is there a regional concentration trend in gdp development
+GunViolence.csv,are there any visible trends in violent crime rates over the time period
+movies.csv,how production budget changes over release years
+movies.csv,what was the average production budget of movies by year
+netflix_titles.csv,is the running time of movies recently longer than it used to be
+netflix_titles.csv,determine if the running time of movies has increased in recent years
+superstore.csv,what is the sales trend of the different product categories
+World Happiness Report 2015.csv,can you tell me the area in the previous decade that increased rapidly in the happiness score
+World Happiness Report 2015.csv,within the last year have any countries experienced a sudden decrease in happiness score

@@ -1,0 +1,1025 @@
+_id,CT_ID,Collection,Coilection_ID,Subgenus,Species,Year,Month,Collecting_date,Country,Location,Latitude,Longitude,Elevation_minimum,Elevation_maximum,Collector,Caste
+1,CT#1,NHMUK,10820547,Megabombus,Bombus montivagus,1991.0,Nov,17/1/1900,Thailand,Doi Suthep-Pui NP ,18.8067,98.9164,1130,1130,I. J. Kitching,Male
+2,CT#2,NHMUK,10820548,Megabombus,Bombus montivagus,1991.0,Nov,17/11/1991,Thailand,Doi Suthep-Pui NP ,18.8067,98.9164,1130,1130,I. J. Kitching,Worker
+3,CT#3,NHMUK,10820549,Megabombus,Bombus montivagus,1920.0,May,31/05/1920,Laos,Luang Prabang,20.0656,102.6216,,,R. V. de Salvaza,Male
+4,CT#4,NHMUK,10820550,Megabombus,Bombus montivagus,1964.0,Feb,14/02/1964,Malaysia,Gunung Brinchang,4.5175,101.3825,2030,2030,H. T. Pagden,Queen
+5,CT#5,NHMUK,10820551,Megabombus,Bombus montivagus,1935.0,Jun,17/06/1935,Malaysia,Cameron highlands,4.4721,101.3801,1382,1524,H. M. Pendlebury,Worker
+6,CT#6,NHMUK,10820552,Megabombus,Bombus montivagus,1938.0,Jul,26/07/1938,Malaysia,Gunung Berembun,4.3333,101.45,1841,1841,H. M. Pendlebury,Worker
+7,CT#7,NHMUK,10820553,Megabombus,Bombus montivagus,1938.0,Jul,19/07/1938,Malaysia,Cameron highlands,4.4721,101.3801,1585,1585,H. M. Pendlebury,Worker
+8,CT#8,NHMUK,10820554,Megabombus,Bombus albopleuralis,1935.0,Mar,14/03/1935,India,Mishmi Hills,28.25,96.0,747,747,M. Steele,Queen
+9,CT#9,NHMUK,10820555,Megabombus,Bombus albopleuralis,1935.0,Mar,28/03/1935,India,Lohit River,27.7985,95.6353,,,M. Steele,Queen
+10,CT#10,NHMUK,10820556,Megabombus,Bombus albopleuralis,1938.0,Jul,27/7/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914,914,R. Kaulback,Worker
+11,CT#11,NHMUK,10820557,Megabombus,Bombus albopleuralis,1938.0,Jul,24/7/1938,Myanmar,Nam Tamai Valley,27.7,97.4,914,914,R. Kaulback,Worker
+12,CT#12,NHMUK,10820558,Megabombus,Bombus albopleuralis,1931.0,Aug,7/8/1931,Myanmar,Nam Tamai ,27.7,97.9,,,Lord Cranbrook,Worker
+13,CT#13,NHMUK,10820559,Megabombus,Bombus albopleuralis,1938.0,Jul,7/7/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914,914,R. Kaulback,Worker
+14,CT#14,NHMUK,10820560,Megabombus,Bombus albopleuralis,1938.0,Jul,7/7/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914,914,R. Kaulback,Worker
+15,CT#15,NHMUK,10820561,Megabombus,Bombus albopleuralis,1938.0,Aug,15/8/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914,914,R. Kaulback,Worker
+16,CT#16,NHMUK,10820562,Megabombus,Bombus albopleuralis,1938.0,Dec,9/12/1938,Myanmar,Nam Tamai Valley,27.8,97.8,1067,1067,R. Kaulback,Worker
+17,CT#17,NHMUK,10820563,Megabombus,Bombus albopleuralis,1938.0,Feb,8/2/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914,914,R. Kaulback,Worker
+18,CT#18,NHMUK,10820564,Megabombus,Bombus albopleuralis,1938.0,Aug,15/8/1938,Myanmar,Nam Tamai Valley,27.7,97.4,914,914,R. Kaulback,Worker
+19,CT#19,NHMUK,10820565,Megabombus,Bombus albopleuralis,1938.0,Dec,9/12/1938,Myanmar,Nam Tamai Valley,27.8,97.8,1067,1067,R. Kaulback,Worker
+20,CT#20,NHMUK,10820566,Megabombus,Bombus  irisanensis,,,,Philippines,North Luzon,16.5662,121.2626,,,,Worker
+21,CT#21,NHMUK,10820567,Megabombus,Bombus  senex,1923.0,Aug,,Indonesia,West Sumatra,-1.6967,101.2642,3048,3048,C. J. Brooks,Queen
+22,CT#22,NHMUK,10820568,Megabombus,Bombus  senex,1923.0,Aug,,Indonesia,West Sumatra,-1.6967,101.2642,3048,3048,C. J. Brooks,Worker
+23,CT#23,NHMUK,10820569,Megabombus,Bombus  senex,1914.0,May,,Indonesia,Korinchi peak,-1.6967,101.2642,3048,3048,H. T. Pagden,Queen
+24,CT#24,NHMUK,10820570,Megabombus,Bombus  senex,1929.0,Dec,27/12/1929,Indonesia,Sumatra Sibayak,3.2,98.5167,1800,2094,H. T. Pagden,Worker
+25,CT#25,NHMUK,10820571,Megabombus,Bombus  senex,1929.0,Dec,27/12/1929,Indonesia,Sumatra Sibayak,3.2,98.5167,1800,2094,H. T. Pagden,Worker
+26,CT#26,NHMUK,10820572,Megabombus,Bombus  senex,1929.0,Dec,27/12/1929,Indonesia,Sumatra Sibayak,3.2,98.5167,1800,2094,H. T. Pagden,Male
+27,CT#27,NHMUK,10820573,Megabombus,Bombus  senex,1929.0,Dec,27/12/1929,Indonesia,Sumatra Sibayak,3.2,98.5167,1800,2094,H. T. Pagden,Male
+28,CT#28,NHMUK,10820574,Megabombus,Bombus  senex,1929.0,Dec,27/12/1929,Indonesia,Sumatra Sibayak,3.2,98.5167,1800,2094,H. T. Pagden,Male
+29,CT#29,NHMUK,10820575,Orientalibombus,Bombus funerarius,1938.0,Sep,16/9/1938,Myanmar,Nam Tamai Valley,27.7,97.9,1524,1524,R. Kaulback,Worker
+30,CT#30,NHMUK,10820576,Orientalibombus,Bombus funerarius,1938.0,Sep,16/9/1938,Myanmar,Nam Tamai Valley,27.7,97.9,1524,1524,R. Kaulback,Worker
+31,CT#31,NHMUK,10820577,Orientalibombus,Bombus haemorrhoidalis,1920.0,May,31/5/1920,Laos,Luang Prabang,20.09,101.43,,,R. V. de Salvaza,Male
+32,CT#32,NHMUK,10820578,Orientalibombus,Bombus haemorrhoidalis,1918.0,Jan,12/1/1918,Laos,Tintoe,,,,,R. V. de Salvaza,Male
+33,CT#33,NHMUK,10820579,Orientalibombus,Bombus haemorrhoidalis,1891.0,Dec,,Myanmar,Tenasserim Kelido,18.53,97.2,,,C. T. Bingham,Male
+34,CT#34,NHMUK,10820580,Orientalibombus,Bombus haemorrhoidalis,1917.0,Nov,26/11/1917,Laos,Xieng Khouaug ,19.4233408,102.3493073,,,R. V. de Salvaza,Male
+35,CT#35,NHMUK,10820581,Orientalibombus,Bombus haemorrhoidalis,1918.0,Mar,14/3/1918,Laos,Luang Prabang,20.09,101.43,,,R. V. de Salvaza,Queen
+36,CT#36,NHMUK,10820582,Orientalibombus,Bombus haemorrhoidalis,1892.0,Nov,,Myanmar,Dawnat Range,17.1999989,98.0658234,,,C. T. Bingham,Worker
+37,CT#37,NHMUK,10820583,Orientalibombus,Bombus haemorrhoidalis,1928.0,Mar,24/3/1928,Thailand,Chiang Mai,18.77,98.94,,,Dr. & Mrs. J. W. McKean,Worker
+38,CT#38,NHMUK,10820584,Orientalibombus,Bombus haemorrhoidalis,1934.0,Aug,,Myanmar,Taunggyi,20.7869273,97.0149992,,,Prof. F. J. Meggit,Worker
+39,CT#39,NHMUK,10820585,Orientalibombus,Bombus haemorrhoidalis,1909.0,Jun,,India,"Naga Hills, Kohima",26.0,95.0,1402,1402,H. C. Tytler,Worker
+40,CT#40,NHMUK,10820586,Orientalibombus,Bombus haemorrhoidalis,1930.0,May,12/5/1930,Myanmar,Kachin Hills,26.4736638,97.2468668,610,610,F. Kingdon Ward,Worker
+41,CT#41,NHMUK,10820587,Orientalibombus,Bombus haemorrhoidalis,1890.0,Jul,9/7/1890,India,Margherita (Assam),27.2919823,95.6377774,,,C. T. Bingham,Worker
+42,CT#42,NHMUK,10820588,Orientalibombus,Bombus haemorrhoidalis,1909.0,Jun,,India,"Naga Hills, Kohima",26.0,95.0,,,H. C. Tytler,Queen
+43,CT#43,NHMUK,10820589,Orientalibombus,Bombus haemorrhoidalis,1930.0,Apr,12/4/1930,Myanmar,Kachin Hills,26.4736638,97.2468668,610,610,F. Kingdon Ward,Worker
+44,CT#44,NHMUK,10820590,Orientalibombus,Bombus haemorrhoidalis,1930.0,Apr,12/4/1930,Myanmar,Kachin Hills,26.4736638,97.2468668,610,610,F. Kingdon Ward,Worker
+45,CT#45,NHMUK,10820591,Orientalibombus,Bombus haemorrhoidalis,1935.0,Jan,4/1/1935,India,Mishmi Hills,28.2505763,95.9930746,,,M. Steele,Worker
+46,CT#46,NHMUK,10820592,Orientalibombus,Bombus haemorrhoidalis,1930.0,Apr,12/4/1930,Myanmar,Kachin Hills,26.4736638,97.2468668,610,610,F. Kingdon Ward,Worker
+47,CT#47,NHMUK,10820593,Orientalibombus,Bombus haemorrhoidalis,1930.0,Apr,12/4/1930,Myanmar,Kachin Hills,26.4736638,97.2468668,610,610,F. Kingdon Ward,Worker
+48,CT#48,NHMUK,10820594,Orientalibombus,Bombus haemorrhoidalis,1930.0,Jun,12/6/1930,Myanmar,Kachin Hills,26.4736638,97.2468668,610,610,F. Kingdon Ward,Worker
+49,CT#49,NHMUK,10820595,Orientalibombus,Bombus haemorrhoidalis,1935.0,,,India,Mishmi Hills,28.2505763,95.9930746,,,M. Steele,Queen
+50,CT#50,NHMUK,10820596,Orientalibombus,Bombus haemorrhoidalis,1935.0,,,India,Mishmi Hills,28.2505763,95.9930746,,,M. Steele,Queen
+51,CT#51,NHMUK,10820597,Orientalibombus,Bombus haemorrhoidalis,1935.0,Mar,19/3/1935,India,Mishmi Hills,28.2505763,95.9930746,,,M. Steele,Worker
+52,CT#52,NHMUK,10820598,Orientalibombus,Bombus haemorrhoidalis,1935.0,Mar,19/3/1935,India,Mishmi Hills,28.2505763,95.9930746,,,M. Steele,Worker
+53,CT#53,NHMUK,10820599,Orientalibombus,Bombus haemorrhoidalis,1935.0,Mar,28/3/1935,India,Mishmi Hills,28.2505763,95.9930746,,,M. Steele,Worker
+54,CT#54,NHMUK,10820600,Orientalibombus,Bombus haemorrhoidalis,1935.0,Mar,16/3/1935,India,Mishmi Hills,28.2505763,95.9930746,,,M. Steele,Worker
+55,CT#55,NHMUK,10820601,Thoracobombus,Bombus impetuosus,1915.0,Sep,,Vietnam,Dong Van ,23.2247,105.2429,,,R. V. de Salvaza,Worker
+56,CT#56,NHMUK,10820602,Alpigenobombus,Bombus genalis,1938.0,Aug,29/8/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914,914,R. Kaulback,Worker
+57,CT#57,NHMUK,10820603,Alpigenobombus,Bombus genalis,1938.0,Aug,29/8/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914,914,R. Kaulback,Worker
+58,CT#58,NHMUK,10820604,Alpigenobombus,Bombus genalis,1938.0,Aug,29/8/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914,914,R. Kaulback,Worker
+59,CT#59,NHMUK,10820605,Alpigenobombus,Bombus genalis,1938.0,Aug,29/8/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914,914,R. Kaulback,Worker
+60,CT#60,NHMUK,10820606,Alpigenobombus,Bombus genalis,1938.0,Aug,29/8/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914,914,R. Kaulback,Worker
+61,CT#61,NHMUK,10820607,Alpigenobombus,Bombus genalis,1938.0,Dec,8/12/1938,Myanmar,Nam Tamai Valley,27.7,97.9,1829,1829,R. Kaulback,Worker
+62,CT#62,NHMUK,10820608,Alpigenobombus,Bombus breviceps,1924.0,Mar,6/3/1924,Vietnam,Ngai-Tio,22.6,103.6666667,1463,1463,H. Stevens,Worker
+63,CT#63,NHMUK,10820609,Alpigenobombus,Bombus breviceps,1916.0,May,6/5/1916,Vietnam,Sa pa ,22.35,103.8666667,,,R. V. de Salvaza,Queen
+64,CT#64,NHMUK,10820610,Alpigenobombus,Bombus breviceps,1916.0,May,21/5/1916,Vietnam,Sa pa ,22.35,103.8666667,,,R. V. de Salvaza,Worker
+65,CT#65,NHMUK,10820611,Alpigenobombus,Bombus breviceps,1916.0,May,25/5/1916,Vietnam,Sa pa ,22.35,103.8666667,,,R. V. de Salvaza,Worker
+66,CT#66,NHMUK,10820612,Alpigenobombus,Bombus breviceps,,,,Vietnam,Dong Van ,,,,,R. V. de Salvaza,Queen
+67,CT#67,NHMUK,10820613,Alpigenobombus,Bombus breviceps,1915.0,Oct,30/10/1915,Vietnam,Si rai,,,,,R. V. de Salvaza,Queen
+68,CT#68,NHMUK,10820614,Alpigenobombus,Bombus breviceps,,,,Vietnam,,,,,,R. V. de Salvaza,Queen
+69,CT#69,NHMUK,10820615,Alpigenobombus,Bombus breviceps,1915.0,Mar,20/3/1915,Laos,Xieng Khouaug ,19.6093,103.7289,,,R. V. de Salvaza,Queen
+70,CT#70,NHMUK,10820616,Alpigenobombus,Bombus breviceps,1928.0,Mar,15/3/1928,Thailand,Chiang Mai,18.7877,98.9931,,,Dr. & Mrs. J. W. McKean,Queen
+71,CT#71,NHMUK,10820617,Alpigenobombus,Bombus breviceps,1918.0,Oct,12/10/1918,Laos,Muong Pek,19.583333,103.316667,,,R. V. de Salvaza,Worker
+72,CT#72,NHMUK,10820618,Alpigenobombus,Bombus breviceps,1918.0,Oct,12/10/1918,Laos,Muong Pek,19.583333,103.316667,,,R. V. de Salvaza,Male
+73,CT#73,NHMUK,10820619,Alpigenobombus,Bombus breviceps,1938.0,Jul,27/7/1938,Myanmar,Nam Tamai Valley,27.7,97.9,,,R. Kaulback,Worker
+74,CT#74,NHMUK,10820620,Alpigenobombus,Bombus breviceps,1938.0,Jul,27/7/1938,Myanmar,Nam Tamai Valley,27.7,97.9,,,R. Kaulback,Worker
+75,CT#75,NHMUK,10820621,Pyrobombus,Bombus rotundiceps,1918.0,Nov,5/11/1918,Laos,Vien Phou kha,20.6823,101.0655,,,R. V. de Salvaza,Worker
+76,CT#76,NHMUK,10820622,Pyrobombus,Bombus rotundiceps,1929.0,Jan,3/1/1929,Thailand,Doi Suthep,18.8067,98.9164,,,Mrs. Mckean,Worker
+77,CT#77,NHMUK,10820623,Pyrobombus,Bombus infrequens,1931.0,Jul,27/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+78,CT#78,NHMUK,10820624,Pyrobombus,Bombus infrequens,1931.0,Jul,27/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+79,CT#79,NHMUK,10820625,Pyrobombus,Bombus luteipes,1935.0,Jan,12/1/1935,India,Mishmi Hills,28.25,96.0,1189,1189,M. Steele,Queen
+80,CT#80,NHMUK,10820626,Pyrobombus,Bombus luteipes,1931.0,Jan,12/1/1931,Myanmar,East Irrawaddy ,27.73,97.88,914-1219,914-1220,F. Kingdon Ward,Worker
+81,CT#81,NHMUK,10820627,Pyrobombus,Bombus luteipes,1938.0,Sep,16/9/1938,Myanmar,Nam Tamai Valley,27.7,97.9,,,R. Kaulback,Worker
+82,CT#82,NHMUK,10820628,Pyrobombus,Bombus flavescens,,,,Philippines,Negros,9.7151,122.8987,1829,1829,Whitehead,Worker
+83,CT#83,NHMUK,10820629,Pyrobombus,Bombus flavescens,1925.0,May,19/5/1925,Philippines,Benguet,16.5577,120.8039,600,600,McGregor,Worker
+84,CT#84,NHMUK,10820630,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw ,14.0675,121.4925,1400,1900,C. K. Starr,Worker
+85,CT#85,NHMUK,10820631,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw ,14.0675,121.4925,1400,1900,C. K. Starr,Worker
+86,CT#86,NHMUK,10820632,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw ,14.0675,121.4925,1400,1900,C. K. Starr,Worker
+87,CT#87,NHMUK,10820633,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw ,14.0675,121.4925,1400,1900,C. K. Starr,Worker
+88,CT#88,NHMUK,10820634,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw ,14.0675,121.4925,1400,1900,C. K. Starr,Worker
+89,CT#89,NHMUK,10820635,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw ,14.0675,121.4925,1400,1900,C. K. Starr,Worker
+90,CT#90,NHMUK,10820636,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw ,14.0675,121.4925,1400,1900,C. K. Starr,Worker
+91,CT#91,NHMUK,10820637,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw ,14.0675,121.4925,1400,1900,C. K. Starr,Worker
+92,CT#92,NHMUK,10820638,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw ,14.0675,121.4925,1400,1900,C. K. Starr,Worker
+93,CT#93,NHMUK,10820639,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw ,14.0675,121.4925,1400,1900,C. K. Starr,Worker
+94,CT#94,NHMUK,10820640,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw ,14.0675,121.4925,1400,1900,C. K. Starr,Worker
+95,CT#95,NHMUK,10820641,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw ,14.0675,121.4925,1400,1900,C. K. Starr,Worker
+96,CT#96,NHMUK,10820642,Pyrobombus,Bombus flavescens,1922.0,Dec,25/12/1922,Malaysia,Gunung Tahan,4.633,102.235,1829,2164,H. M. Pendlebury,Queen
+97,CT#97,NHMUK,10820643,Pyrobombus,Bombus flavescens,1921.0,Dec,14/12/1921,Malaysia,Gunung Tahan,4.633,102.235,1981,2164,H. M. Pendlebury,Queen
+98,CT#98,NHMUK,10820644,Pyrobombus,Bombus flavescens,1921.0,Dec,13/12/1921,Malaysia,Gunung Tahan,4.633,102.235,1981,2164,H. M. Pendlebury,Queen
+99,CT#99,NHMUK,10820645,Pyrobombus,Bombus flavescens,1922.0,Dec,26/12/1922,Malaysia,Gunung Tahan,4.633,102.235,1981,2164,H. M. Pendlebury,Queen
+100,CT#100,NHMUK,10820646,Pyrobombus,Bombus flavescens,1922.0,Dec,27/12/1922,Malaysia,Gunung Tahan,4.633,102.235,1692,1692,H. M. Pendlebury,Queen
+101,CT#101,NHMUK,10820647,Pyrobombus,Bombus flavescens,1921.0,Dec,14/12/1921,Malaysia,Gunung Tahan,4.633,102.235,1981,2164,H. M. Pendlebury,Queen
+102,CT#102,NHMUK,10820648,Pyrobombus,Bombus flavescens,1922.0,Dec,27/12/1922,Malaysia,Gunung Tahan,4.633,102.235,1692,1692,H. M. Pendlebury,Worker
+103,CT#103,NHMUK,10820649,Pyrobombus,Bombus flavescens,1905.0,Jun,17/6/1905,Malaysia,Gunung Tahan,4.633,102.235,1615,1829,H. C. Robinson,Worker
+104,CT#104,NHMUK,10820650,Pyrobombus,Bombus flavescens,1905.0,Jun,17/6/1905,Malaysia,Gunung Tahan,4.633,102.235,1615,1829,H. C. Robinson,Worker
+105,CT#105,NHMUK,10820651,Pyrobombus,Bombus flavescens,1905.0,Jul,20/7/1905,Malaysia,Gunung Tahan,4.633,102.235,1554,1829,H. C. Robinson,Worker
+106,CT#106,NHMUK,10820652,Pyrobombus,Bombus flavescens,1905.0,Jul,20/7/1905,Malaysia,Gunung Tahan,4.633,102.235,1554,1829,H. C. Robinson,Worker
+107,CT#107,NHMUK,10820653,Pyrobombus,Bombus flavescens,1905.0,Jul,20/7/1905,Malaysia,Gunung Tahan,4.633,102.235,1554,1829,H. C. Robinson,Worker
+108,CT#108,NHMUK,10820654,Pyrobombus,Bombus flavescens,1905.0,Jul,20/7/1905,Malaysia,Gunung Tahan,4.633,102.235,1554,1829,H. C. Robinson,Worker
+109,CT#109,NHMUK,10820655,Pyrobombus,Bombus flavescens,1905.0,Jul,20/7/1905,Malaysia,Gunung Tahan,4.633,102.235,1554,1829,H. C. Robinson,Worker
+110,CT#110,NHMUK,10820656,Pyrobombus,Bombus flavescens,1905.0,Jul,20/7/1905,Malaysia,Gunung Tahan,4.633,102.235,1524,1829,H. C. Robinson,Worker
+111,CT#111,NHMUK,10820657,Pyrobombus,Bombus flavescens,1905.0,Jul,14/7/1905,Malaysia,Gunung Tahan,4.633,102.235,1615,1829,H. C. Robinson,Worker
+112,CT#112,NHMUK,10820658,Pyrobombus,Bombus flavescens,1905.0,Jul,14/7/1905,Malaysia,Gunung Tahan,4.633,102.235,1829,1829,H. C. Robinson,Worker
+113,CT#113,NHMUK,10820659,Pyrobombus,Bombus flavescens,1905.0,Jul,14/7/1905,Malaysia,Gunung Tahan,4.633,102.235,1829,1829,H. C. Robinson,Worker
+114,CT#114,NHMUK,10820660,Pyrobombus,Bombus flavescens,1905.0,Jul,17/7/1905,Malaysia,Gunung Tahan,4.633,102.235,1615,1829,H. C. Robinson,Worker
+115,CT#115,NHMUK,10820661,Pyrobombus,Bombus flavescens,1905.0,Jul,18/7/1905,Malaysia,Gunung Tahan,4.633,102.235,1554,2133,H. C. Robinson,Worker
+116,CT#116,NHMUK,10820662,Pyrobombus,Bombus flavescens,1905.0,Jul,19/7/1905,Malaysia,Gunung Tahan,4.633,102.235,2133,2133,H. C. Robinson,Worker
+117,CT#117,NHMUK,10820663,Pyrobombus,Bombus flavescens,1905.0,Jun,17/6/1905,Malaysia,Gunung Tahan,4.633,102.235,1615,1826,H. C. Robinson,Worker
+118,CT#118,NHMUK,10820664,Pyrobombus,Bombus flavescens,1992.0,Dec,21/12/1992,Malaysia,Gunung Tahan,4.633,102.235,1664,1664,H. M. Pendlebury,Worker
+119,CT#119,NHMUK,10820665,Pyrobombus,Bombus flavescens,,,,Malaysia,,4.633,102.235,,,,Worker
+120,CT#120,NHMUK,10820666,Pyrobombus,Bombus flavescens,,,,Malaysia,,4.633,102.235,,,,Worker
+121,CT#121,NHMUK,10820667,Pyrobombus,Bombus flavescens,,,,Malaysia,,4.633,102.235,,,,Worker
+122,CT#122,NHMUK,10820668,Pyrobombus,Bombus flavescens,,,,Malaysia,,4.633,102.235,,,,Worker
+123,CT#123,NHMUK,10820669,Pyrobombus,Bombus flavescens,,,,Malaysia,,4.633,102.235,,,,Worker
+124,CT#124,NHMUK,10820670,Pyrobombus,Bombus flavescens,,,,Malaysia,,4.633,102.235,,,,Worker
+125,CT#125,NHMUK,10820671,Pyrobombus,Bombus flavescens,,,,Malaysia,,4.633,102.235,,,,Worker
+126,CT#126,NHMUK,10820672,Pyrobombus,Bombus flavescens,,,,Malaysia,,4.633,102.235,,,,Worker
+127,CT#127,NHMUK,10820673,Pyrobombus,Bombus flavescens,,,,Malaysia,,4.633,102.235,,,,Worker
+128,CT#128,NHMUK,10820674,Pyrobombus,Bombus flavescens,,,,Malaysia,,4.633,102.235,,,,Worker
+129,CT#129,NHMUK,10820675,Pyrobombus,Bombus flavescens,,,,Malaysia,,4.633,102.235,,,,Worker
+130,CT#130,NHMUK,10820676,Pyrobombus,Bombus flavescens,,,,Malaysia,,4.633,102.235,,,,Worker
+131,CT#131,NHMUK,10820677,Pyrobombus,Bombus flavescens,1959.0,Feb,,Malaysia,Gunung Tahan,4.633,102.235,2134,2134,J. A. Habp,Queen
+132,CT#132,NHMUK,10820678,Pyrobombus,Bombus flavescens,1959.0,Feb,,Malaysia,Gunung Tahan,4.633,102.235,2134,2134,J. A. Habp,Queen
+133,CT#133,NHMUK,10820679,Pyrobombus,Bombus flavescens,1959.0,Feb,,Malaysia,Gunung Tahan,4.633,102.235,2134,2134,J. A. Habp,Worker
+134,CT#134,NHMUK,10820680,Pyrobombus,Bombus flavescens,1959.0,Feb,,Malaysia,Gunung Tahan,4.633,102.235,2134,2134,J. A. Habp,Queen
+135,CT#135,NHMUK,10820681,Pyrobombus,Bombus flavescens,1959.0,Feb,,Malaysia,Gunung Tahan,4.633,102.235,2134,2134,J. A. Habp,Queen
+136,CT#136,NHMUK,10820682,Pyrobombus,Bombus flavescens,1959.0,Feb,,Malaysia,Gunung Tahan,4.633,102.235,2134,2134,J. A. Habp,Worker
+137,CT#137,NHMUK,10820683,Pyrobombus,Bombus flavescens,1959.0,Feb,,Malaysia,Gunung Tahan,4.633,102.235,2134,2134,J. A. Habp,Queen
+138,CT#138,NHMUK,10820684,Pyrobombus,Bombus flavescens,1959.0,Feb,,Malaysia,Gunung Tahan,4.633,102.235,2134,2134,J. A. Habp,Worker
+139,CT#139,NHMUK,10820685,Pyrobombus,Bombus flavescens,1959.0,Feb,,Malaysia,Gunung Tahan,4.633,102.235,2134,2134,J. A. Habp,Worker
+140,CT#140,NHMUK,10820686,Pyrobombus,Bombus flavescens,1964.0,Feb,14/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Male
+141,CT#141,NHMUK,10820687,Pyrobombus,Bombus flavescens,1940.0,Jan,30/1/1940,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2032,2032,H. T. Pagden,Male
+142,CT#142,NHMUK,10820688,Pyrobombus,Bombus flavescens,1964.0,Feb,16/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Male
+143,CT#143,NHMUK,10814571,Pyrobombus,Bombus flavescens,1931.0,May,23/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1402,1402,H. T. Pagden,Worker
+144,CT#144,NHMUK,10814572,Pyrobombus,Bombus flavescens,1931.0,May,24/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1524,1524,H. T. Pagden,Worker
+145,CT#145,NHMUK,10814573,Pyrobombus,Bombus flavescens,1931.0,May,24/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1524,1524,H. T. Pagden,Worker
+146,CT#146,NHMUK,10814574,Pyrobombus,Bombus flavescens,1931.0,May,24/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1524,1524,H. T. Pagden,Worker
+147,CT#147,NHMUK,10814575,Pyrobombus,Bombus flavescens,1931.0,May,24/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1524,1524,H. T. Pagden,Worker
+148,CT#148,NHMUK,10814576,Pyrobombus,Bombus flavescens,1931.0,May,25/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1402,1402,H. T. Pagden,Worker
+149,CT#149,NHMUK,10814577,Pyrobombus,Bombus flavescens,1931.0,May,28/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1371,1371,H. T. Pagden,Worker
+150,CT#150,NHMUK,10814578,Pyrobombus,Bombus flavescens,1931.0,May,27/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1371,1371,H. T. Pagden,Worker
+151,CT#151,NHMUK,10814579,Pyrobombus,Bombus flavescens,1931.0,May,27/5/1931,Malaysia,Cameron highlands,4.4706,101.3766,1371,1371,H. T. Pagden,Worker
+152,CT#152,NHMUK,10814580,Pyrobombus,Bombus flavescens,1935.0,Jan,10/1/1935,Malaysia,Cameron highlands,4.4721,101.3801,,,H. T. Pagden,Worker
+153,CT#153,NHMUK,10814581,Pyrobombus,Bombus flavescens,1935.0,Sep,30/9/1935,Malaysia,Tanah Rata,4.4706,101.3766,,,H. T. Pagden,Worker
+154,CT#154,NHMUK,10814582,Pyrobombus,Bombus flavescens,1935.0,Sep,30/9/1935,Malaysia,Tanah Rata,4.4706,101.3766,,,H. T. Pagden,Worker
+155,CT#155,NHMUK,10814583,Pyrobombus,Bombus flavescens,1935.0,Sep,30/9/1935,Malaysia,Tanah Rata,4.4706,101.3766,,,H. T. Pagden,Worker
+156,CT#156,NHMUK,10814584,Pyrobombus,Bombus flavescens,1964.0,Feb,14/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Worker
+157,CT#157,NHMUK,10814585,Pyrobombus,Bombus flavescens,1964.0,Feb,14/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Worker
+158,CT#158,NHMUK,10814586,Pyrobombus,Bombus flavescens,1964.0,Feb,14/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Worker
+159,CT#159,NHMUK,10814587,Pyrobombus,Bombus flavescens,1964.0,Feb,14/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Worker
+160,CT#160,NHMUK,10814588,Pyrobombus,Bombus flavescens,1964.0,Feb,14/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Worker
+161,CT#161,NHMUK,10814589,Pyrobombus,Bombus flavescens,1964.0,Feb,16/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Worker
+162,CT#162,NHMUK,10814590,Pyrobombus,Bombus flavescens,1964.0,Feb,16/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Worker
+163,CT#163,NHMUK,10814591,Pyrobombus,Bombus flavescens,1964.0,Feb,14/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Queen
+164,CT#164,NHMUK,10814592,Pyrobombus,Bombus flavescens,1964.0,Feb,14/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Queen
+165,CT#165,NHMUK,10814593,Pyrobombus,Bombus flavescens,1964.0,Feb,14/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Queen
+166,CT#166,NHMUK,10814594,Pyrobombus,Bombus flavescens,1964.0,Feb,16/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Queen
+167,CT#167,NHMUK,10814595,Pyrobombus,Bombus flavescens,1964.0,Feb,16/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Queen
+168,CT#168,NHMUK,10814596,Pyrobombus,Bombus flavescens,1930.0,Mar,17/3/1930,Malaysia,Tanah Rata,4.4706,101.3766,1230,1230,C. E. Miller,Queen
+169,CT#169,NHMUK,10814597,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+170,CT#170,NHMUK,10814598,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+171,CT#171,NHMUK,10814599,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+172,CT#172,NHMUK,10814600,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+173,CT#173,NHMUK,10814601,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+174,CT#174,NHMUK,10814602,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Gunung Berembun,4.3333,101.45,1844,1844,H. M. Pendlebury,Male
+175,CT#175,NHMUK,10814603,Pyrobombus,Bombus flavescens,1935.0,Aug,6/8/1935,Malaysia,Cameron highlands,4.4721,101.3801,1463,1676,H. M. Pendlebury,Male
+176,CT#176,NHMUK,10814604,Pyrobombus,Bombus flavescens,1938.0,Jul,17/7/1938,Malaysia,Cameron highlands,4.4721,101.3801,1524,1524,H. M. Pendlebury,Worker
+177,CT#177,NHMUK,10814605,Pyrobombus,Bombus flavescens,1939.0,Oct,5/10/1939,Malaysia,Gunung Jerai,5.7875,100.4339,1696,1696,H. M. Pendlebury,Worker
+178,CT#178,NHMUK,10814606,Pyrobombus,Bombus flavescens,1939.0,May,27/5/1939,Malaysia,Cameron highlands,4.4721,101.3801,1524,1524,H. M. Pendlebury,Male
+179,CT#179,NHMUK,10814607,Pyrobombus,Bombus flavescens,1939.0,May,12/5/1939,Malaysia,Cameron highlands,4.4721,101.3801,1463,1524,H. M. Pendlebury,Worker
+180,CT#180,NHMUK,10814608,Pyrobombus,Bombus flavescens,1923.0,Jun,,Malaysia,Gunung Berembun Summit,4.3333,101.45,1844,1844,F.N.C.,Male
+181,CT#181,NHMUK,10814609,Pyrobombus,Bombus flavescens,1923.0,Jun,,Malaysia,Gunung Berembun Summit,4.3333,101.45,1844,1844,F.N.C.,Male
+182,CT#182,NHMUK,10814610,Pyrobombus,Bombus flavescens,1923.0,Jun,,Malaysia,Gunung Berembun Summit,4.3333,101.45,1844,1844,F.N.C.,Male
+183,CT#183,NHMUK,10814611,Pyrobombus,Bombus flavescens,1923.0,Jun,,Malaysia,Gunung Berembun Summit,4.3333,101.45,1844,1844,F.N.C.,Male
+184,CT#184,NHMUK,10814612,Pyrobombus,Bombus flavescens,1923.0,Jun,,Malaysia,Gunung Berembun Summit,4.3333,101.45,1844,1844,F.N.C.,Male
+185,CT#185,NHMUK,10814613,Pyrobombus,Bombus flavescens,1923.0,Jun,,Malaysia,Gunung Berembun Summit,4.3333,101.45,1844,1844,F.N.C.,Male
+186,CT#186,NHMUK,10814614,Pyrobombus,Bombus flavescens,1923.0,Jun,,Malaysia,Gunung Berembun Summit,4.3333,101.45,1844,1844,F.N.C.,Male
+187,CT#187,NHMUK,10814615,Pyrobombus,Bombus flavescens,1923.0,Jun,,Malaysia,Gunung Berembun Summit,4.3333,101.45,1844,1844,F.N.C.,Male
+188,CT#188,NHMUK,10814616,Pyrobombus,Bombus flavescens,1923.0,Jun,,Malaysia,Gunung Berembun Summit,4.3333,101.45,1844,1844,F.N.C.,Male
+189,CT#189,NHMUK,10814617,Pyrobombus,Bombus flavescens,1923.0,Jun,,Malaysia,Gunung Berembun Summit,4.3333,101.45,1844,1844,F.N.C.,Male
+190,CT#190,NHMUK,10814618,Pyrobombus,Bombus flavescens,1923.0,Jun,,Malaysia,Gunung Berembun Summit,4.3333,101.45,1844,1844,F.N.C.,Male
+191,CT#191,NHMUK,10814619,Pyrobombus,Bombus flavescens,1923.0,Jun,,Malaysia,Gunung Berembun Summit,4.3333,101.45,1844,1844,F.N.C.,Worker
+192,CT#192,NHMUK,10814620,Pyrobombus,Bombus flavescens,1923.0,Jun,,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,F.N.C.,Male
+193,CT#193,NHMUK,10814621,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+194,CT#194,NHMUK,10814622,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+195,CT#195,NHMUK,10814623,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+196,CT#196,NHMUK,10814624,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+197,CT#197,NHMUK,10814625,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+198,CT#198,NHMUK,10814626,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Gunung Berembun,4.3333,101.45,1844,1844,H. M. Pendlebury,Male
+199,CT#199,NHMUK,10814627,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Gunung Berembun,4.3333,101.45,1844,1844,H. M. Pendlebury,Male
+200,CT#200,NHMUK,10814628,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Gunung Berembun,4.3333,101.45,1844,1844,H. M. Pendlebury,Male
+201,CT#201,NHMUK,10814629,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1844,1844,H. M. Pendlebury,Male
+202,CT#202,NHMUK,10814630,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Gunung Berembun,4.3333,101.45,1844,1844,H. M. Pendlebury,Worker
+203,CT#203,NHMUK,10814631,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Worker
+204,CT#204,NHMUK,10814632,Pyrobombus,Bombus flavescens,1923.0,Oct,13/10/1923,Malaysia,Cameron highlands,4.4721,101.3801,1585,1585,H. M. Pendlebury,Worker
+205,CT#205,NHMUK,10814633,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+206,CT#206,NHMUK,10814634,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Gunung Berembun,4.3333,101.45,1844,1844,H. M. Pendlebury,Male
+207,CT#207,NHMUK,10814635,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+208,CT#208,NHMUK,10814636,Pyrobombus,Bombus flavescens,1931.0,May,28/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1463,1463,H. M. Pendlebury,Worker
+209,CT#209,NHMUK,10814637,Pyrobombus,Bombus flavescens,1931.0,May,24/5/1931,Malaysia,Cameron highlands,4.4721,101.3801,1433,1433,H. M. Pendlebury,Worker
+210,CT#210,NHMUK,10814638,Pyrobombus,Bombus flavescens,1931.0,May,29/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1463,1463,H. M. Pendlebury,Worker
+211,CT#211,NHMUK,10814639,Pyrobombus,Bombus flavescens,1935.0,Sep,6/9/1935,Malaysia,Cameron highlands,4.4721,101.3801,1524,1829,H. M. Pendlebury,Worker
+212,CT#212,NHMUK,10814640,Pyrobombus,Bombus flavescens,1935.0,Nov,6/11/1935,Malaysia,Cameron highlands,4.4721,101.3801,1524,1524,H. M. Pendlebury,Worker
+213,CT#213,NHMUK,10814641,Pyrobombus,Bombus flavescens,1935.0,Sep,6/9/1935,Malaysia,Cameron highlands,4.4721,101.3801,1524,1829,H. M. Pendlebury,Worker
+214,CT#214,NHMUK,10814642,Pyrobombus,Bombus flavescens,1938.0,Jul,21/7/1938,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. M. Pendlebury,Worker
+215,CT#215,NHMUK,10814643,Pyrobombus,Bombus flavescens,1938.0,Jul,21/7/1938,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. M. Pendlebury,Male
+216,CT#216,NHMUK,10814644,Pyrobombus,Bombus flavescens,1939.0,May,12/5/1939,Malaysia,Cameron highlands,4.4721,101.3801,1463,1524,H. M. Pendlebury,Worker
+217,CT#217,NHMUK,10814645,Pyrobombus,Bombus flavescens,1939.0,Dec,5/12/1939,Malaysia,Gunung Perdah,4.495182,101.358765,1554,1554,H. M. Pendlebury,Worker
+218,CT#218,NHMUK,10814646,Pyrobombus,Bombus flavescens,1935.0,Dec,6/12/1935,Malaysia,Cameron highlands,4.4721,101.3801,1524,1676,H. M. Pendlebury,Queen
+219,CT#219,NHMUK,10814647,Pyrobombus,Bombus flavescens,1923.0,Jun,"June, 1923",Malaysia,Gunung Berembun Summit,4.3333,101.45,1844,1844,F.N.C.,Male
+220,CT#220,NHMUK,10814648,Pyrobombus,Bombus flavescens,1923.0,Jul,17/7/1923,Malaysia,Gunung Berembun,4.3333,101.45,1844,1844,H. M. Pendlebury,Male
+221,CT#221,NHMUK,10814649,Pyrobombus,Bombus flavescens,1935.0,Sep,6/9/1935,Malaysia,Cameron highlands,4.4721,101.3801,1524,1829,H. M. Pendlebury,Male
+222,CT#222,NHMUK,10814650,Pyrobombus,Bombus flavescens,1938.0,Jul,21/7/1938,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. M. Pendlebury,Worker
+223,CT#223,NHMUK,10814651,Pyrobombus,Bombus flavescens,1923.0,Jun,20/6/1923,Malaysia,Tanah Rata,4.4706,101.3766,1463,1463,H. M. Pendlebury,Male
+224,CT#224,NHMUK,10814652,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+225,CT#225,NHMUK,10814653,Pyrobombus,Bombus flavescens,1923.0,Jun,21/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1585,1585,H. M. Pendlebury,Worker
+226,CT#226,NHMUK,10814654,Pyrobombus,Bombus flavescens,1935.0,Sep,6/9/1935,Malaysia,Cameron highlands,4.4721,101.3801,1524,1829,H. M. Pendlebury,Male
+227,CT#227,NHMUK,10814655,Pyrobombus,Bombus flavescens,1923.0,Jun,18/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1585,1585,H. M. Pendlebury,Worker
+228,CT#228,NHMUK,10814656,Pyrobombus,Bombus flavescens,1938.0,Jul,21/7/1938,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. M. Pendlebury,Worker
+229,CT#229,NHMUK,10814657,Pyrobombus,Bombus flavescens,1939.0,Aug,5/8/1939,Malaysia,Gunung Berembun,4.3333,101.45,1841,1841,H. M. Pendlebury,Worker
+230,CT#230,NHMUK,10814658,Pyrobombus,Bombus flavescens,1935.0,Jun,18/6/1935,Malaysia,Cameron highlands,4.4721,101.3801,1372,1676,H. M. Pendlebury,Worker
+231,CT#231,NHMUK,10814659,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Gunung Berembun,4.3333,101.45,1844,1844,H. M. Pendlebury,Worker
+232,CT#232,NHMUK,10814660,Pyrobombus,Bombus flavescens,1935.0,Jun,15/6/1935,Malaysia,Cameron highlands,4.4721,101.3801,1219,1371,H. M. Pendlebury,Worker
+233,CT#233,NHMUK,10814661,Pyrobombus,Bombus flavescens,1939.0,May,14/5/1939,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2031,2031,H. M. Pendlebury,Worker
+234,CT#234,NHMUK,10814662,Pyrobombus,Bombus flavescens,1935.0,Aug,6/8/1935,Malaysia,Cameron highlands,4.4721,101.3801,1463,1676,H. M. Pendlebury,Worker
+235,CT#235,NHMUK,10814663,Pyrobombus,Bombus flavescens,1936.0,May,21/5/1936,Malaysia,Gunung Berembun,4.3333,101.45,1840,1840,H. M. Pendlebury,Worker
+236,CT#236,NHMUK,10814664,Pyrobombus,Bombus flavescens,1931.0,Feb,6/2/1931,Malaysia,Tanah Rata,4.4706,101.3766,1463,1463,H. M. Pendlebury,Worker
+237,CT#237,NHMUK,10814665,Pyrobombus,Bombus flavescens,1923.0,Dec,6/12/1923,Malaysia,Gunung Berembun,4.3333,101.45,1844,1844,H. M. Pendlebury,Worker
+238,CT#238,NHMUK,10814666,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Gunung Berembun,4.3333,101.45,1844,1844,H. M. Pendlebury,Male
+239,CT#239,NHMUK,10814667,Pyrobombus,Bombus flavescens,1923.0,Jun,17/6/1923,Malaysia,Gunung Berembun,4.3333,101.45,1844,1844,H. M. Pendlebury,Male
+240,CT#240,NHMUK,10814668,Pyrobombus,Bombus flavescens,1935.0,Sep,6/9/1935,Malaysia,Cameron highlands,4.4721,101.3801,1524,1829,H. M. Pendlebury,Worker
+241,CT#241,NHMUK,10814669,Pyrobombus,Bombus flavescens,1939.0,Aug,5/8/1939,Malaysia,Gunung Berembun,4.3333,101.45,1840,1840,H. M. Pendlebury,Worker
+242,CT#242,NHMUK,10814670,Pyrobombus,Bombus flavescens,1935.0,Jun,21/6/1935,Malaysia,Cameron highlands,4.4721,101.3801,1219,1371,H. M. Pendlebury,Worker
+243,CT#243,NHMUK,10814671,Pyrobombus,Bombus flavescens,1939.0,May,21/5/1939,Malaysia,Gunung Berembun,4.3333,101.45,1840,1840,H. M. Pendlebury,Worker
+244,CT#244,NHMUK,10814672,Pyrobombus,Bombus flavescens,1931.0,May,29/5/1931,Malaysia,Cameron highlands,4.4721,101.3801,1402,1402,H. T. Pagden,Worker
+245,CT#245,NHMUK,10814673,Pyrobombus,Bombus flavescens,1931.0,May,23/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1402,1402,H. T. Pagden,Worker
+246,CT#246,NHMUK,10814674,Pyrobombus,Bombus flavescens,1931.0,May,29/5/1931,Malaysia,Cameron highlands,4.4721,101.3801,1402,1402,H. T. Pagden,Worker
+247,CT#247,NHMUK,10814675,Pyrobombus,Bombus flavescens,1931.0,May,25/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1402,1402,H. T. Pagden,Worker
+248,CT#248,NHMUK,10814676,Pyrobombus,Bombus flavescens,1931.0,May,25/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1402,1402,H. T. Pagden,Worker
+249,CT#249,NHMUK,10814677,Pyrobombus,Bombus flavescens,1931.0,May,23/5/1931,Malaysia,Tanah Rata,4.4706,101.3766,1402,1402,H. T. Pagden,Worker
+250,CT#250,NHMUK,10814678,Pyrobombus,Bombus flavescens,1923.0,Jun,14/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Worker
+251,CT#251,NHMUK,10814679,Pyrobombus,Bombus flavescens,1923.0,Jun,16/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+252,CT#252,NHMUK,10814680,Pyrobombus,Bombus flavescens,1923.0,Jun,16/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Male
+253,CT#253,NHMUK,10814681,Pyrobombus,Bombus flavescens,1940.0,Nov,6/11/1940,Malaysia,Gunung Brinchang,4.5155128,101.4156224,,,"Yusoff, Agri. Dept.",Worker
+254,CT#254,NHMUK,10814682,Pyrobombus,Bombus flavescens,1940.0,Nov,6/11/1940,Malaysia,Gunung Brinchang,4.5155128,101.4156224,,,"Yusoff, Agri. Dept.",Worker
+255,CT#255,NHMUK,10814683,Pyrobombus,Bombus flavescens,,,,Malaysia,,4.4721,101.3801,,,H. T. Pagden,Queen
+256,CT#256,NHMUK,10814684,Pyrobombus,Bombus flavescens,1923.0,Jun,16/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Queen
+257,CT#257,NHMUK,10814685,Pyrobombus,Bombus flavescens,1964.0,Feb,14/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. M. Pendlebury,Queen
+258,CT#258,NHMUK,10814686,Pyrobombus,Bombus flavescens,1923.0,Jun,16/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Queen
+259,CT#259,NHMUK,10814687,Pyrobombus,Bombus flavescens,1923.0,Jun,16/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Queen
+260,CT#260,NHMUK,10814688,Pyrobombus,Bombus flavescens,1923.0,Jun,16/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Queen
+261,CT#261,NHMUK,10814689,Pyrobombus,Bombus flavescens,1923.0,Jun,16/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Queen
+262,CT#262,NHMUK,10814690,Pyrobombus,Bombus flavescens,1964.0,Feb,14/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Queen
+263,CT#263,NHMUK,10814691,Pyrobombus,Bombus flavescens,1923.0,Jun,16/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Queen
+264,CT#264,NHMUK,10814692,Pyrobombus,Bombus flavescens,1939.0,May,14/5/1939,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2031,2031,H. M. Pendlebury,Queen
+265,CT#265,NHMUK,10814693,Pyrobombus,Bombus flavescens,1938.0,Jul,18/7/1938,Malaysia,Cameron highlands,4.4721,101.3801,1585,1585,H. M. Pendlebury,Queen
+266,CT#266,NHMUK,10814694,Pyrobombus,Bombus flavescens,1923.0,Jun,16/6/1923,Malaysia,Cameron highlands,4.4721,101.3801,1463,1463,H. M. Pendlebury,Queen
+267,CT#267,NHMUK,10814695,Pyrobombus,Bombus flavescens,1964.0,Feb,16/2/1964,Malaysia,Gunung Brinchang,4.5182965,101.3787402,2030,2030,H. T. Pagden,Queen
+268,CT#268,NHMUK,10814696,Melanobombus,Bombus festivus,1931.0,Jul,27/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Male
+269,CT#269,NHMUK,10814697,Melanobombus,Bombus festivus,1931.0,Jun,8/6/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Male
+270,CT#270,NHMUK,10814698,Melanobombus,Bombus festivus,1931.0,Jun,8/6/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Male
+271,CT#271,NHMUK,10814699,Melanobombus,Bombus festivus,1931.0,Aug,8/8/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Male
+272,CT#272,NHMUK,10814700,Melanobombus,Bombus festivus,1931.0,Aug,25/8/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Male
+273,CT#273,NHMUK,10814701,Melanobombus,Bombus eximius,1938.0,Dec,8/12/1938,Myanmar,Nam Tamai Valley,27.7,97.9,1829,1829,R. Kaulback,Worker
+274,CT#274,NHMUK,10814702,Melanobombus,Bombus eximius,1931.0,Oct,10/10/1931,Myanmar,Adung Valley ,28.13,97.7,1829,1829,Lord Cranbrook,Worker
+275,CT#275,NHMUK,10814703,Melanobombus,Bombus eximius,1931.0,Dec,11/12/1931,Myanmar,Adung Valley ,28.13,97.7,1829,1829,Lord Cranbrook,Queen
+276,CT#276,NHMUK,10814704,Melanobombus,Bombus eximius,1934.0,May,,Myanmar,Taunggyi,20.7888,97.0337,,,Prof. F.J. Meggitt,Worker
+277,CT#277,NHMUK,10814705,Melanobombus,Bombus eximius,1894.0,Apr,,Myanmar,Chin Hills,22.5,93.5,,,,Worker
+278,CT#278,NHMUK,10814706,Melanobombus,Bombus eximius,,,,Myanmar,Taunggyi,20.7888,97.0337,,,Prof. F.J. Meggitt,Worker
+279,CT#279,NHMUK,10814707,Melanobombus,Bombus eximius,1892.0,Feb,,Myanmar,Mulayit Taung,16.1833,98.5275,1524,1524,C. T. Bingham,Queen
+280,CT#280,NHMUK,10814708,Melanobombus,Bombus eximius,1922.0,Mar,24/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1768,1768,H. M. Pendlebury,Worker
+281,CT#281,NHMUK,10814709,Melanobombus,Bombus eximius,1922.0,Mar,30/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1768,1768,H. M. Pendlebury,Male
+282,CT#282,NHMUK,10814710,Melanobombus,Bombus eximius,1922.0,Mar,28/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1768,1768,H. M. Pendlebury,Worker
+283,CT#283,NHMUK,10814711,Melanobombus,Bombus eximius,1922.0,Mar,30/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1768,1768,H. M. Pendlebury,Worker
+284,CT#284,NHMUK,10814712,Melanobombus,Bombus eximius,1922.0,Mar,29/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1768,1768,H. M. Pendlebury,Worker
+285,CT#285,NHMUK,10814713,Melanobombus,Bombus eximius,1922.0,Jan,4/1/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1768,1768,H. M. Pendlebury,Queen
+286,CT#286,NHMUK,10814714,Melanobombus,Bombus eximius,1922.0,Mar,29/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1768,1768,H. M. Pendlebury,Worker
+287,CT#287,NHMUK,10814715,Melanobombus,Bombus eximius,1922.0,Mar,24/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1768,1768,H. M. Pendlebury,Male
+288,CT#288,NHMUK,13383964,Melanobombus,Bombus eximius,1922.0,Mar,16/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1524,1524,H. M. Pendlebury,Worker
+289,CT#289,NHMUK,13383977,Melanobombus,Bombus eximius,1922.0,Jan,4/1/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1768,1768,H. M. Pendlebury,Queen
+290,CT#290,NHMUK,13383967,Melanobombus,Bombus eximius,1922.0,Mar,30/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1768,1768,H. M. Pendlebury,Worker
+291,CT#291,NHMUK,10814716,Melanobombus,Bombus eximius,1922.0,Mar,13/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1402,1402,H. M. Pendlebury,Male
+292,CT#292,NHMUK,10814717,Melanobombus,Bombus eximius,1922.0,Mar,16/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1676,1768,H. M. Pendlebury,Worker
+293,CT#293,NHMUK,10814718,Melanobombus,Bombus eximius,1922.0,Mar,28/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1768,1768,H. M. Pendlebury,Worker
+294,CT#294,NHMUK,10814719,Melanobombus,Bombus eximius,1922.0,Mar,30/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1768,1768,H. M. Pendlebury,Queen
+295,CT#295,NHMUK,13383957,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Queen
+296,CT#296,NHMUK,10814720,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Worker
+297,CT#297,NHMUK,10814721,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Worker
+298,CT#298,NHMUK,10814722,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Queen
+299,CT#299,NHMUK,10814723,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Queen
+300,CT#300,NHMUK,10814724,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Queen
+301,CT#301,NHMUK,13383961,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Queen
+302,CT#302,NHMUK,10814725,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Queen
+303,CT#303,NHMUK,10814726,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Queen
+304,CT#304,NHMUK,10814727,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Queen
+305,CT#305,NHMUK,10814728,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Queen
+306,CT#306,NHMUK,10814729,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Worker
+307,CT#307,NHMUK,10814730,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,,,,Worker
+308,CT#308,NHMUK,10814731,Melanobombus,Bombus rufipes,1914.0,Jun,,Indonesia,Kerinci peak,-1.6967,101.2642,1219,1220,,Worker
+309,CT#309,NHMUK,10814732,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,,,,Male
+310,CT#310,NHMUK,10814733,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,,,,Male
+311,CT#311,NHMUK,10814734,Melanobombus,Bombus rufipes,1892.0,,,Indonesia,Sumatra,-1.6967,101.2642,,,,Worker
+312,CT#312,NHMUK,10814735,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,,,,Male
+313,CT#313,NHMUK,10814736,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,,,,Male
+314,CT#314,NHMUK,10814737,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,,,,Male
+315,CT#315,NHMUK,10814738,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Worker
+316,CT#316,NHMUK,10814739,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Worker
+317,CT#317,NHMUK,10814740,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,,,,Male
+318,CT#318,NHMUK,10814741,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Worker
+319,CT#319,NHMUK,10814742,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Worker
+320,CT#320,NHMUK,10814743,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Worker
+321,CT#321,NHMUK,13383959,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Worker
+322,CT#322,NHMUK,13383960,Melanobombus,Bombus rufipes,1954.0,Jan,3/1/1954,Indonesia,Kerinci Mountain,-1.6967,101.2642,,,A. H. G. Alston,Worker
+323,CT#323,NHMUK,10814744,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,,,,Male
+324,CT#324,NHMUK,10814745,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,,,,Male
+325,CT#325,NHMUK,10814746,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,3048,3048,,Queen
+326,CT#326,NHMUK,13383956,Melanobombus,Bombus rufipes,1929.0,Dec,27/12/1929,Indonesia,Sibayak,3.2,98.5167,2094,2094,H. T. Pagden,Queen
+327,CT#327,NHMUK,10814747,Melanobombus,Bombus rufipes,1929.0,Dec,22/12/1929,Indonesia,Sipiso piso ?,2.9211428,98.5242274,1940,1940,H. T. Pagden,Worker
+328,CT#328,NHMUK,10814748,Melanobombus,Bombus rufipes,1929.0,Dec,22/12/1929,Indonesia,Sipiso piso ?,2.9211428,98.5242274,1940,1940,H. T. Pagden,Worker
+329,CT#329,NHMUK,10814749,Melanobombus,Bombus rufipes,1929.0,Dec,22/12/1929,Indonesia,Sipiso piso ?,2.9211428,98.5242274,1940,1940,H. T. Pagden,Worker
+330,CT#330,NHMUK,10814750,Melanobombus,Bombus rufipes,1929.0,Dec,22/12/1929,Indonesia,Sipiso piso ?,2.9211428,98.5242274,1940,1940,H. T. Pagden,Worker
+331,CT#331,NHMUK,10814751,Melanobombus,Bombus rufipes,1929.0,Dec,22/12/1929,Indonesia,Sipiso piso ?,2.9211428,98.5242274,1940,1940,H. T. Pagden,Worker
+332,CT#332,NHMUK,10814752,Melanobombus,Bombus rufipes,1929.0,Dec,22/12/1929,Indonesia,Sipiso piso ?,2.9211428,98.5242274,1940,1940,H. T. Pagden,Worker
+333,CT#333,NHMUK,10814753,Melanobombus,Bombus rufipes,1929.0,Dec,22/12/1929,Indonesia,Sipiso piso ?,2.9211428,98.5242274,1940,1940,H. T. Pagden,Worker
+334,CT#334,NHMUK,10814754,Melanobombus,Bombus rufipes,1929.0,Dec,22/12/1929,Indonesia,Sipiso piso ?,2.9211428,98.5242274,1940,1940,H. T. Pagden,Worker
+335,CT#335,NHMUK,10814755,Melanobombus,Bombus rufipes,1929.0,Dec,25/12/1929,Indonesia,Berastagi ,3.1853,98.5049,1524,1524,H. T. Pagden,Worker
+336,CT#336,NHMUK,10814756,Melanobombus,Bombus rufipes,1929.0,Dec,25/12/1929,Indonesia,Berastagi ,3.1853,98.5049,1524,1524,H. T. Pagden,Worker
+337,CT#337,NHMUK,10814757,Melanobombus,Bombus rufipes,1929.0,Dec,27/12/1929,Indonesia,Sibayak,3.2,98.5167,1800,2094,H. T. Pagden,Worker
+338,CT#338,NHMUK,10814758,Melanobombus,Bombus rufipes,1929.0,Dec,27/12/1929,Indonesia,Sibayak,3.2,98.5167,1800,2094,H. T. Pagden,Worker
+339,CT#339,NHMUK,10814759,Melanobombus,Bombus rufipes,1929.0,Dec,27/12/1929,Indonesia,Sibayak,3.2,98.5167,2094,2094,H. T. Pagden,Worker
+340,CT#340,NHMUK,10814760,Melanobombus,Bombus rufipes,1929.0,Dec,28/12/1929,Indonesia,Sinabung,3.1685358,98.3897662,2451,2451,H. T. Pagden,Worker
+341,CT#341,NHMUK,10814761,Melanobombus,Bombus rufipes,1929.0,Dec,28/12/1929,Indonesia,Sinabung,3.170848,98.3982469,1800,1800,H. T. Pagden,Worker
+342,CT#342,NHMUK,10814762,Melanobombus,Bombus rufipes,1929.0,Dec,28/12/1929,Indonesia,Sinabung,3.170848,98.3982469,1800,1800,H. T. Pagden,Worker
+343,CT#343,NHMUK,10814763,Melanobombus,Bombus rufipes,1929.0,Dec,28/12/1929,Indonesia,Sinabung,3.1685358,98.3897662,2451,2451,H. T. Pagden,Worker
+344,CT#344,NHMUK,10814764,Melanobombus,Bombus rufipes,1929.0,Dec,28/12/1929,Indonesia,Sinabung,3.1685358,98.3897662,2451,2451,H. T. Pagden,Worker
+345,CT#345,NHMUK,10814765,Melanobombus,Bombus rufipes,1929.0,Dec,28/12/1929,Indonesia,Sinabung,3.1685358,98.3897662,2451,2451,H. T. Pagden,Worker
+346,CT#346,NHMUK,10814766,Melanobombus,Bombus rufipes,1894.0,Feb,,Indonesia,North Sumatra,3.766667,98.733333,,,Dr. L. Martin,Worker
+347,CT#347,NHMUK,10814767,Melanobombus,Bombus rufipes,1937.0,Sep,,Indonesia,Gunung Gede,-6.7878,106.9819,914,2134,K. M. Walsh,Worker
+348,CT#348,NHMUK,10814768,Melanobombus,Bombus rufipes,,,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+349,CT#349,NHMUK,10814769,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+350,CT#350,NHMUK,10814770,Melanobombus,Bombus rufipes,1938.0,Jan,,Indonesia,Mt. Djampang,-7.0909,107.6689,,,K. M. Walsh,Worker
+351,CT#351,NHMUK,10814771,Melanobombus,Bombus rufipes,1937.0,Sep,,Indonesia,Gunung Gede,-6.7878,106.9819,914,2134,K. M. Walsh,Worker
+352,CT#352,NHMUK,10814772,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+353,CT#353,NHMUK,10814773,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+354,CT#354,NHMUK,10814774,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+355,CT#355,NHMUK,10814775,Melanobombus,Bombus rufipes,,,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+356,CT#356,NHMUK,10814776,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+357,CT#357,NHMUK,10814777,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+358,CT#358,NHMUK,10814778,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+359,CT#359,NHMUK,10814779,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+360,CT#360,NHMUK,10814780,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+361,CT#361,NHMUK,10814781,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+362,CT#362,NHMUK,10814782,Melanobombus,Bombus rufipes,1937.0,Sep,,Indonesia,Gunung Gede,-6.7878,106.9819,914,2134,K. M. Walsh,Worker
+363,CT#363,NHMUK,10814783,Melanobombus,Bombus rufipes,1937.0,Aug,,Indonesia,Gunung Malang,-6.6696,106.7205,914,1219,K. M. Walsh,Worker
+364,CT#364,NHMUK,10814784,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+365,CT#365,NHMUK,10814785,Melanobombus,Bombus rufipes,1937.0,Sep,,Indonesia,Gunung Gede,-6.7878,106.9819,914,2134,K. M. Walsh,Worker
+366,CT#366,NHMUK,10814786,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+367,CT#367,NHMUK,10814787,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+368,CT#368,NHMUK,10814788,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+369,CT#369,NHMUK,10814789,Melanobombus,Bombus rufipes,1937.0,Sep,,Indonesia,Gunung Gede,-6.7878,106.9819,914,2134,K. M. Walsh,Worker
+370,CT#370,NHMUK,10814790,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+371,CT#371,NHMUK,10814791,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+372,CT#372,NHMUK,10814792,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+373,CT#373,NHMUK,10814793,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Worker
+374,CT#374,NHMUK,10814794,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-6.7878,106.9819,1219,1524,K. M. Walsh,Male
+375,CT#375,NHMUK,10814795,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Cibodas,-6.8351557,107.6646049,1219,1219,L. E. Cheesman,Worker
+376,CT#376,NHMUK,10814796,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Cibodas,-6.8351557,107.6646049,1219,1219,L. E. Cheesman,Worker
+377,CT#377,NHMUK,10814797,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Cibodas,-6.8351557,107.6646049,1219,1219,L. E. Cheesman,Worker
+378,CT#378,NHMUK,10814798,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Cibodas,-6.8351557,107.6646049,1219,1219,L. E. Cheesman,Worker
+379,CT#379,NHMUK,10814799,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Cibodas,-6.8351557,107.6646049,1219,1219,L. E. Cheesman,Worker
+380,CT#380,NHMUK,10814800,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Cibodas,-6.8351557,107.6646049,1219,1219,L. E. Cheesman,Worker
+381,CT#381,NHMUK,10814801,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Cibodas,-6.8351557,107.6646049,1219,1219,L. E. Cheesman,Worker
+382,CT#382,NHMUK,10814802,Melanobombus,Bombus rufipes,,,,Indonesia,Java,-7.6145,110.7122,,,,Worker
+383,CT#383,NHMUK,10814803,Melanobombus,Bombus rufipes,,,,Indonesia,Java,-7.6145,110.7122,,,,Male
+384,CT#384,NHMUK,10814804,Melanobombus,Bombus rufipes,,,,Indonesia,Java,-7.6145,110.7122,,,,Worker
+385,CT#385,NHMUK,10814805,Melanobombus,Bombus rufipes,,,,Indonesia,Java,-7.6145,110.7122,,,,Worker
+386,CT#386,NHMUK,10814806,Melanobombus,Bombus rufipes,,,,Indonesia,Java,-7.6145,110.7122,,,,Worker
+387,CT#387,NHMUK,10814807,Melanobombus,Bombus rufipes,1938.0,Jan,,Indonesia,Gunung Malang,-6.6696,106.7205,914,1219,K. M. Walsh,Worker
+388,CT#388,NHMUK,10814808,Melanobombus,Bombus rufipes,1938.0,Jan,,Indonesia,Gunung Malang,-6.6696,106.7205,914,1219,K. M. Walsh,Worker
+389,CT#389,NHMUK,10814809,Melanobombus,Bombus rufipes,1938.0,Jan,,Indonesia,Gunung Malang,-6.6696,106.7205,914,1219,K. M. Walsh,Worker
+390,CT#390,NHMUK,10814810,Melanobombus,Bombus rufipes,1937.0,Aug,,Indonesia,Gunung Malang,-6.6696,106.7205,914,1219,K. M. Walsh,Worker
+391,CT#391,NHMUK,10814811,Melanobombus,Bombus richardsiellus,1931.0,Jul,31/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+392,CT#392,NHMUK,10814812,Melanobombus,Bombus richardsiellus,1931.0,Feb,4/2/1931,Myanmar,Adung Valley ,28.13,97.7,1829,1829,Lord Cranbrook,Male
+393,CT#393,NHMUK,10814813,Melanobombus,Bombus richardsiellus,1931.0,Jul,8/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Male
+394,CT#394,NHMUK,10814826,Alpigenobombus,Bombus nobilis,1931.0,Jun,14/6/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,F. Kingdon Ward,Queen
+395,CT#395,NHMUK,10814827,Alpigenobombus,Bombus nobilis,1931.0,Feb,7/2/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Queen
+396,CT#396,NHMUK,10814828,Alpigenobombus,Bombus nobilis,1931.0,Jul,23/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Queen
+397,CT#397,NHMUK,10814829,Alpigenobombus,Bombus nobilis,1931.0,Sep,7/9/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Queen
+398,CT#398,NHMUK,10814830,Alpigenobombus,Bombus nobilis,1931.0,Jun,27/6/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+399,CT#399,NHMUK,10814831,Alpigenobombus,Bombus nobilis,1931.0,Sep,10/9/1931,Myanmar,Adung Valley ,28.13,97.7,1829,1829,Lord Cranbrook,Worker
+400,CT#400,NHMUK,10814832,Alpigenobombus,Bombus nobilis,1931.0,Jul,31/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+401,CT#401,NHMUK,10814833,Alpigenobombus,Bombus nobilis,1931.0,Aug,16/8/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+402,CT#402,NHMUK,10814834,Alpigenobombus,Bombus nobilis,1931.0,Feb,8/2/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+403,CT#403,NHMUK,10814835,Alpigenobombus,Bombus nobilis,1931.0,Sep,7/9/1931,Myanmar,Adung Valley ,28.13,97.7,3962,3962,Lord Cranbrook,Worker
+404,CT#404,NHMUK,10814836,Melanobombus,Bombus festivus,1931.0,Jul,27/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+405,CT#405,NHMUK,10814837,Melanobombus,Bombus festivus,1931.0,Jul,27/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+406,CT#406,NHMUK,10814838,Melanobombus,Bombus festivus,1931.0,Jul,27/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+407,CT#407,NHMUK,10814839,Melanobombus,Bombus festivus,1931.0,Jul,27/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+408,CT#408,NHMUK,10814840,Melanobombus,Bombus festivus,1931.0,Jul,27/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,F. Kingdon Ward,Worker
+409,CT#409,NHMUK,10814841,Melanobombus,Bombus festivus,1931.0,Jul,27/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+410,CT#410,NHMUK,10814842,Melanobombus,Bombus festivus,1931.0,Jul,27/7/1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+411,CT#411,NHMUK,10814843,Melanobombus,Bombus festivus,1931.0,Aug,12/8 1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+412,CT#412,NHMUK,10814844,Melanobombus,Bombus festivus,1931.0,Aug,16/8 1931,Myanmar,Adung Valley ,28.13,97.7,3658,3658,Lord Cranbrook,Worker
+413,CT#413,NHMUK,10814845,Melanobombus,Bombus festivus,1924.0,Feb,5/2/1924,Vietnam,Ngai-Tio,22.6,103.6666667,1463,1463,H. Stevens,Worker
+414,CT#414,NHMUK,10814885,Megabombus,Bombus albopleuralis,1938.0,Aug,15/8/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914.4,915.4,R. Kaulback,Male
+415,CT#415,NHMUK,10814886,Alpigenobombus,Bumbus breviceps,1917.0,Nov,14/11/1917,Laos,Muong Pek,,,,,R. V. de Salvasa,Male
+416,CT#416,NHMUK,10814887,Melanobombus,Bombus eximius,1922.0,Mar,16/3/1922,Thailand,Khao Luang,8.494166,99.7124904,,,H. M. Pendlebury,Male
+417,CT#417,NHMUK,10814888,Melanobombus,Bombus eximius,1983.0,Apr,4/4/1983,Thailand,Phu Luang Wildlife Reserve,17.28333333,101.5166667,1500,1500,David J. Dupuy,Worker
+418,CT#418,NHMUK,10814889,Melanobombus,Bombus eximius,1983.0,Apr,4/4/1983,Thailand,Phu Luang Wildlife Reserve,17.28333333,101.5166667,1500,1500,David J. Dupuy,Worker
+419,CT#419,NHMUK,10814890,Melanobombus,Bombus eximius,1983.0,Apr,4/4/1983,Thailand,Phu Luang Wildlife Reserve,17.28333333,101.5166667,1500,1500,David J. Dupuy,Worker
+420,CT#420,NHMUK,10814891,Pyrobombus,Bombus flavescens,1905.0,Jul,17/7/1905,Malaysia ,Gunung Tahan,4.633,102.235,2133.6,2133.6,H. C. Robinson,Male
+421,CT#421,NHMUK,10814892,Megabombus,Bombus senex,1914.0,Mar,,Indonesia,Kerinci,-1.6967,101.2642,1219.2,1219.2,,Male
+422,CT#422,NHMUK,10814893,Alpigenobombus,Bombus genalis,1935.0,Mar,30/3/1935,India,Lohit river,27.7985,95.6353,,,M. Steele,Worker
+423,CT#423,NHMUK,10814894,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+424,CT#424,NHMUK,10814895,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+425,CT#425,NHMUK,10814896,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+426,CT#426,NHMUK,10814897,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Mt. Gede,-6.7878,106.9819,1219.2,1524,K. M. Walsh,Worker
+427,CT#427,NHMUK,10814898,Melanobombus,Bombus rufipes,1938.0,Mar,5/3/1938,Indonesia,Tengger Highlands,-8.02,112.95,1828.8,1828.8,K. M. Walsh,Worker
+428,CT#428,NHMUK,10814899,Melanobombus,Bombus rufipes,1938.0,Feb,5/2/1938,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Male
+429,CT#429,NHMUK,10814900,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+430,CT#430,NHMUK,10814901,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+431,CT#431,NHMUK,10814902,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+432,CT#432,NHMUK,10814903,Melanobombus,Bombus rufipes,1938.0,Feb,5/2/1938,Indonesia,Tengger Highlands,-7.76,112.59,1100,1101,K. M. Walsh,Male
+433,CT#433,NHMUK,10814904,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+434,CT#434,NHMUK,10814905,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+435,CT#435,NHMUK,10814906,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+436,CT#436,NHMUK,10814907,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+437,CT#437,NHMUK,10814908,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+438,CT#438,NHMUK,10814909,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+439,CT#439,NHMUK,10814910,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+440,CT#440,NHMUK,10814911,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+441,CT#441,NHMUK,10814912,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+442,CT#442,NHMUK,10814913,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+443,CT#443,NHMUK,10814914,Melanobombus,Bombus rufipes,1937.0,Aug,,Indonesia,Gunung Gede,-6.7878,106.9819,914.4,2133.6,K. M. Walsh,Worker
+444,CT#444,NHMUK,10814915,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+445,CT#445,NHMUK,10814916,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+446,CT#446,NHMUK,10814917,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Gunung Arjuno,-7.76,112.59,,,K. M. Walsh,Worker
+447,CT#447,NHMUK,10814918,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Male
+448,CT#448,NHMUK,10814919,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Worker
+449,CT#449,NHMUK,10814920,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Worker
+450,CT#450,NHMUK,10814921,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Male
+451,CT#451,NHMUK,10814922,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Worker
+452,CT#452,NHMUK,10814923,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Worker
+453,CT#453,NHMUK,10814924,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Male
+454,CT#454,NHMUK,10814925,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Worker
+455,CT#455,NHMUK,10814926,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Male
+456,CT#456,NHMUK,10814927,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Worker
+457,CT#457,NHMUK,10814928,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Worker
+458,CT#458,NHMUK,10814929,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Worker
+459,CT#459,NHMUK,10814930,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Worker
+460,CT#460,NHMUK,10814931,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-7.76,112.59,1219.2,1524,K. M. Walsh,Worker
+461,CT#461,NHMUK,10814932,Melanobombus,Bombus rufipes,1938.0,Mar,5/3/1938,Indonesia,Tengger Highlands,-8.02,112.95,1828.8,1828.8,K. M. Walsh,Male
+462,CT#462,NHMUK,10814933,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-7.76,112.59,1219.2,1524,K. M. Walsh,Worker
+463,CT#463,NHMUK,10814934,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Worker
+464,CT#464,NHMUK,10814935,Melanobombus,Bombus rufipes,1938.0,May,,Indonesia,Tengger Highlands,-8.02,112.95,1100,1100,K. M. Walsh,Worker
+465,CT#465,NHMUK,10814936,Melanobombus,Bombus rufipes,1937.0,Oct,,Indonesia,Gunung Gede,-7.76,112.59,1219.2,1524,K. M. Walsh,Worker
+466,CT#466,NHMUK,10814846,Pyrobombus,Bombus flavescens,1960.0,Mar,7/3/1960,Malaysia ,Gunung Brinchang,4.5175,101.3825,2030,2030,H.T. pegden,Queen
+467,CT#467,NHMUK,10814847,Pyrobombus,Bombus flavescens,1964.0,Feb,16/2/1964,Malaysia ,Gunung Brinchang,4.5175,101.3825,2030,2030,H.T. pegden,Queen
+468,CT#468,NHMUK,10814848,Pyrobombus,Bombus flavescens,1964.0,Feb,17/2/1964,Malaysia ,Gunung Brinchang,4.5175,101.3825,2030,2030,H.T. pegden,Male
+469,CT#469,NHMUK,10814849,Pyrobombus,Bombus flavescens,1964.0,Feb,18/2/1964,Malaysia ,Gunung Brinchang,4.5175,101.3825,2030,2030,H.T. pegden,Male
+470,CT#470,NHMUK,10814850,Pyrobombus,Bombus flavescens,1923.0,Jan,25/1/1923,Malaysia ,Gunung Tahan,4.633,102.235,1676,1676,H. M. Pendlebury,Queen
+471,CT#471,NHMUK,10814851,Pyrobombus,Bombus flavescens,1923.0,Jan,24/1/1923,Malaysia ,Gunung Tahan,4.633,102.235,1664,1664,H. M. Pendlebury,Queen
+472,CT#472,NHMUK,10814852,Pyrobombus,Bombus flavescens,1923.0,Dec,25/12/1922,Malaysia ,Gunung Tahan,4.633,102.235,1828.8,2164.08,H. M. Pendlebury,Queen
+473,CT#473,NHMUK,10814853,Pyrobombus,Bombus flavescens,1923.0,Jan,17/1/1923,Malaysia ,Gunung Tahan,4.633,102.235,1664.21,1664.21,H. M. Pendlebury,Queen
+474,CT#474,NHMUK,10814854,Melanobombus,Bombus rufipes,1914.0,May,,Indonesia,Kerinci peak,-1.6967,101.2642,304.8,304.8,,Queen
+475,CT#475,NHMUK,10814855,Melanobombus,Bombus eximius,1922.0,Mar,30/3/1922,Thailand,Nakhon Si Thammarat,8.494166,99.7124904,1767.84,1767.84,H. M. Pendlebury ,Queen
+476,CT#476,NHMUK,10814856,Orientalibombus,Bombus haemorrhoidalis,1892.0,Nov,,Myanmar,Thaungyin,17.8,97.7,,,C.T. Bingham,Queen
+477,CT#477,NHMUK,10814857,Megabombus,Bombus montivagus,1922.0,Apr,9/4/1922,Malaysia,Cameron highlands,4.47,101.38,,,Native collector,Queen
+478,CT#478,NHMUK,10814858,Megabombus,Bombus melanopoda,,,,Indonesia,Sumatra,-0.5897,101.3431,,,,Queen
+479,CT#479,NHMUK,10814859,Megabombus,Bombus  irisanensis,1928.0,May,,Philippines,Irisan,16.42,120.56,,,,Worker
+480,CT#480,NHMUK,10814860,Megabombus,Bombus  senex,,,,Indonesia,Sumatra,-1.6967,101.2642,,,,Worker
+481,CT#481,NHMUK,10814861,Megabombus,Bombus  senex,,,,Indonesia,Sumatra,-1.6967,101.2642,,,,Worker
+482,CT#482,NHMUK,10814862,Megabombus,Bombus  senex,1914.0,May,,Indonesia,Korinchi peak,-1.6967,101.2642,,,,Worker
+483,CT#483,NHMUK,10814863,Megabombus,Bombus montivagus,,,,Myanmar,Moolai ??,,,,,,Queen
+484,CT#484,NHMUK,10814864,Alpigenobombus,Bombus breviceps,1938.0,Aug,14/8/1938,Myanmar,Nam Tamai ,27.8,97.8,1219.2,1219.2,R. Kaulback,Worker
+485,CT#485,NHMUK,10814865,Alpigenobombus,Bombus nobilis,1931.0,Jun,27/6/1931,Myanmar,Adung Valley ,28.13,97.7,3657.6,3657.6,F. Kingdon Ward,Queen
+486,CT#486,NHMUK,10814866,Orientalibombus,Bombus funerarius,1938.0,Sep,16/9/1938,Myanmar,Nam Tamai ,27.8,97.8,1524,1524,R. Kaulback,Worker
+487,CT#487,NHMUK,10814867,Pyrobombus,Bombus flavescens,1935.0,Jan,3/1/1935,Myanmar,Mishmi Hills,28.25,96.0,1630.68,1630.68,M. Steele ,Queen
+488,CT#488,NHMUK,10814868,Melanobombus,Bombus richardsiellus,1931.0,Aug,7/8/1931,Myanmar,Adung Valley ,28.13,97.7,3657.6,3657.6,Lord Cranbrook,Queen
+489,CT#489,NHMUK,10814869,Megabombus,Bombus albopleuralis,1938.0,Dec,9/12/1938,Myanmar,Nam Tamai Valley,27.8,97.8,1066.8,1066.8,R. Kaulback,Worker
+490,CT#490,CUNHM,BSRU-AA-1062,Orientalibombus,Bombus haemorrhoidalis,2009.0,Mar,,Thailand,Doi Ang Kang,19.9,99.03333333,,,N. Warrit ,Worker
+491,CT#491,CUNHM,BSRU-AA-1064,Orientalibombus,Bombus haemorrhoidalis,1939.0,Apr,7/3/1939,Thailand,Doi Pui,18.8311361,98.8871638,,,,Worker
+492,CT#492,CUNHM,BSRU-AA-1065,Orientalibombus,Bombus haemorrhoidalis,2012.0,May,29/5/2012,Thailand,Khun Chang Khian,18.839918,98.89772194,,,N. Warrit et al.,Queen
+493,CT#493,CUNHM,BSRU-AA-1066,Megabombus,Bombus montivagus,2003.0,Jun,7/6/2003,Thailand,Khun Chang Khian,18.83333333,98.88333333,1350,1351,N. Warrit ,Worker
+494,CT#494,CUNHM,BSRU-AA-1068,Orientalibombus,Bombus haemorrhoidalis,2009.0,Mar,,Thailand,Doi Ang Kang,19.9,99.03333333,,,N. Warrit ,Worker
+495,CT#495,CUNHM,BSRU-AA-1069,Orientalibombus,Bombus haemorrhoidalis,2009.0,Mar,,Thailand,Doi Ang Kang,19.9,99.03333333,,,N. Warrit ,Queen
+496,CT#496,CUNHM,BSRU-AA-1070,Orientalibombus,Bombus haemorrhoidalis,1978.0,Nov,23/11/1978,Thailand,Saraburi,,,,,Prasong,Worker
+497,CT#497,CUNHM,BSRU-AA-1071,Orientalibombus,Bombus haemorrhoidalis,2013.0,Jan,16/1/2013,Thailand,Doi Ang Kang,19.9,99.03333333,,,N.Warrit et al.,Worker
+498,CT#498,CUNHM,BSRU-AA-1072,Orientalibombus,Bombus haemorrhoidalis,2009.0,Mar,,Thailand,Doi Ang Kang,19.9,99.03333333,,,N.Warrit ,Worker
+499,CT#499,CUNHM,BSRU-AA-1074,Orientalibombus,Bombus haemorrhoidalis,1978.0,Jul,21/7/1978,Thailand,Bhubing Palace,18.8,98.88333333,,,Ausa,Worker
+500,CT#500,CUNHM,BSRU-AA-1075,Orientalibombus,Bombus haemorrhoidalis,2013.0,Jan,16/1/2013,Thailand,Doi Ang Kang,19.9,99.03333333,,,N. Warrit et al.,Worker
+501,CT#501,CUNHM,BSRU-AA-1077,Megabombus,Bombus montivagus,1912.0,Jun,23/6/1912,Thailand,Bhubing Palace,18.8,98.88333333,,,,Worker
+502,CT#502,CUNHM,BSRU-AA-1078,Orientalibombus,Bombus haemorrhoidalis,2003.0,Jun,8/6/2003,Thailand,Khun Chang Khian,18.83333333,98.88333333,1350,1351,N. Warrit ,Worker
+503,CT#503,CUNHM,BSRU-AA-1079,Orientalibombus,Bombus haemorrhoidalis,2009.0,Mar,,Thailand,Doi Ang Kang,19.9,99.03333333,,,N. Warrit ,Worker
+504,CT#504,CUNHM,BSRU-AA-1080,Orientalibombus,Bombus haemorrhoidalis,2009.0,Mar,,Thailand,Doi Ang Kang,19.9,99.03333333,,,N. Warrit ,Worker
+505,CT#505,CUNHM,BSRU-AA-1081,Orientalibombus,Bombus haemorrhoidalis,2003.0,Jun,7/6/2003,Thailand,Khun Chang Khian,18.83333333,98.88333333,1350,1351,N. Warrit ,Worker
+506,CT#506,CUNHM,BSRU-AA-1082,Orientalibombus,Bombus haemorrhoidalis,2009.0,Mar,,Thailand,Doi Ang Kang,19.9,99.03333333,,,N. Warrit ,Worker
+507,CT#507,CUNHM,BSRU-AA-1083,Megabombus,Bombus montivagus,2003.0,Jun,8/6/2003,Thailand,Khun Chang Khian,18.83333333,98.88333333,1350,1351,N. Warrit ,Worker
+508,CT#508,CUNHM,BSRU-AA-1084,Orientalibombus,Bombus haemorrhoidalis,2009.0,Mar,,Thailand,Doi Ang Kang,19.9,99.03333333,,,N. Warrit ,Worker
+509,CT#509,CUNHM,BSRU-AA-1085,Orientalibombus,Bombus haemorrhoidalis,2009.0,Mar,,Thailand,Doi Ang Kang,19.9,99.03333333,,,N. Warrit ,Worker
+510,CT#510,CUNHM,BSRU-AA-1086,Orientalibombus,Bombus haemorrhoidalis,2009.0,Mar,,Thailand,Doi Ang Kang,19.9,99.03333333,,,N. Warrit ,Queen
+511,CT#511,CUNHM,BSRU-AA-1087,Megabombus,Bombus montivagus,2003.0,Jun,8/6/2003,Thailand,Khun Chang Khian,18.83333333,98.88333333,1350,1350,N. Warrit ,Male
+512,CT#512,CUNHM,BSRU-AA-1088,Alpigenobombus,Bombus breviceps,2003.0,Jun,8/6/2003,Thailand,Khun Chang Khian,18.83333333,98.88333333,1350,1350,N. Warrit ,Worker
+513,CT#513,CUNHM,BSRU-AA-1089,Alpigenobombus,Bombus breviceps,2009.0,Mar,,Thailand,Doi Ang Kang,19.9,99.03333333,,,N. Warrit ,Queen
+514,CT#514,CUNHM,BSRU-AA-1090,Alpigenobombus,Bombus breviceps,2009.0,Mar,,Thailand,Doi Ang Kang,19.9,99.03333333,,,N. Warrit ,Worker
+515,CT#515,CUNHM,BSRU-AA-1091,Alpigenobombus,Bombus breviceps,2003.0,Jun,7/6/2003,Thailand,Khun Chang Khian,18.83333333,98.88333333,1350,1351,N. Warrit ,Male
+516,CT#516,CUNHM,BSRU-AA-1093,Melanobombus,Bombus eximius,1939.0,Apr,25/4/1939,Thailand,,,,,,,Worker
+517,CT#517,CUNHM,BSRU-AA-1094,Megabombus,Bombus montivagus,2003.0,Jun,8/6/2003,Thailand,Khun Chang Khian,18.83333333,98.88333333,1350,1350,N. Warrit ,Worker
+518,CT#518,CUNHM,BSRU-AA-6524,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,18/7/2015,Thailand,Bhubing Palace,18.80447783,98.897157,1350,1350,N. Warrit et al.,Worker
+519,CT#519,CUNHM,BSRU-AA-6525,Megabombus,Bombus montivagus,2015.0,Jul,18/7/2015,Thailand,Khun Chang Khian,18.837415,98.89594583,1398,1398,N. Warrit et al.,Worker
+520,CT#520,CUNHM,BSRU-AA-6526,Megabombus,Bombus montivagus,2015.0,Jul,18/7/2015,Thailand,Bhubing Palace,18.80447783,98.897157,1350,1350,N. Warrit et al.,Worker
+521,CT#521,CUNHM,BSRU-AA-6527,Megabombus,Bombus montivagus,2015.0,Jul,18/7/2015,Thailand,Bhubing Palace,18.80447783,98.897157,1350,1350,N. Warrit et al.,Worker
+522,CT#522,CUNHM,BSRU-AA-6528,Megabombus,Bombus montivagus,2015.0,Jul,18/7/2015,Thailand,Bhubing Palace,18.80447783,98.897157,1350,1350,N. Warrit et al.,Worker
+523,CT#523,CUNHM,BSRU-AA-6529,Megabombus,Bombus montivagus,2015.0,Jul,18/7/2015,Thailand,Bhubing Palace,18.80447783,98.897157,1350,1350,N. Warrit et al.,Worker
+524,CT#524,CUNHM,BSRU-AA-6530,Megabombus,Bombus montivagus,2015.0,Jul,18/7/2015,Thailand,Bhubing Palace,18.80447783,98.897157,1350,1350,N. Warrit et al.,Worker
+525,CT#525,CUNHM,BSRU-AA-6531,Megabombus,Bombus montivagus,2015.0,Jul,18/7/2015,Thailand,Bhubing Palace,18.80447783,98.897157,1350,1350,N. Warrit et al.,Worker
+526,CT#526,CUNHM,BSRU-AA-6532,Megabombus,Bombus montivagus,2015.0,Jul,18/7/2015,Thailand,Bhubing Palace,18.80447783,98.897157,1350,1350,N. Warrit et al.,Worker
+527,CT#527,CUNHM,BSRU-AA-6533,Megabombus,Bombus montivagus,2015.0,Jul,18/7/2015,Thailand,Bhubing Palace,18.80447783,98.897157,1350,1350,N. Warrit et al.,Worker
+528,CT#528,CUNHM,BSRU-AA-6534,Megabombus,Bombus montivagus,2015.0,Jul,18/7/2015,Thailand,Bhubing Palace,18.80447783,98.897157,1350,1350,N. Warrit et al.,Worker
+529,CT#529,CUNHM,BSRU-AA-6535,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,18/7/2015,Thailand,Bhubing Palace,18.80447783,98.897157,1350,1350,N. Warrit et al.,Worker
+530,CT#530,CUNHM,BSRU-AA-6536,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,18/7/2015,Thailand,Bhubing Palace,18.80447783,98.897157,1350,1350,N. Warrit et al.,Worker
+531,CT#531,CUNHM,BSRU-AA-6537,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,18/7/2015,Thailand,Bhubing Palace,18.80447783,98.897157,1350,1350,N. Warrit et al.,Worker
+532,CT#532,CUNHM,BSRU-AA-6538,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Doi Tung Palace,20.29094683,99.81138083,988,988,N. Warrit et al.,Worker
+533,CT#533,CUNHM,BSRU-AA-6539,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Doi Tung Palace,20.29094683,99.81138083,988,988,N. Warrit et al.,Worker
+534,CT#534,CUNHM,BSRU-AA-6540,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Doi Tung Palace,20.29094683,99.81138083,988,988,N. Warrit et al.,Worker
+535,CT#535,CUNHM,BSRU-AA-6541,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Doi Tung Palace,20.29094683,99.81138083,988,988,N. Warrit et al.,Worker
+536,CT#536,CUNHM,BSRU-AA-6542,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Doi Tung Palace,20.29094683,99.81138083,988,988,N. Warrit et al.,Worker
+537,CT#537,CUNHM,BSRU-AA-6543,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Chiang Mai University,18.794077,98.959145,391,391,N. Warrit et al.,Worker
+538,CT#538,CUNHM,BSRU-AA-6544,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Doi Inthanon Peak ,18.58918597,98.48737183,2576,2576,N. Warrit et al.,Worker
+539,CT#539,CUNHM,BSRU-AA-6545,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Doi Inthanon Peak ,18.58918597,98.48737183,2576,2576,N. Warrit et al.,Worker
+540,CT#540,CUNHM,BSRU-AA-6546,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Doi Inthanon Peak ,18.58333333,98.48737183,2576,2576,N. Warrit et al.,Worker
+541,CT#541,CUNHM,BSRU-AA-6547,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Doi Inthanon Peak ,18.58333333,98.48737183,2576,2576,N. Warrit et al.,Worker
+542,CT#542,CUNHM,BSRU-AA-6548,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Doi Inthanon Peak ,18.58333333,98.48737183,2576,2576,N. Warrit et al.,Worker
+543,CT#543,CUNHM,BSRU-AA-6549,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Doi Inthanon Peak ,18.58333333,98.48737183,2576,2576,N. Warrit et al.,Worker
+544,CT#544,CUNHM,BSRU-AA-6550,Melanobombus,Bombus eximius,2015.0,Jul,22/7/2015,Thailand,Doi Inthanon Peak ,18.58918597,98.48737183,2576,2576,N. Warrit et al.,Worker
+545,CT#545,CUNHM,BSRU-AA-6551,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+546,CT#546,CUNHM,BSRU-AA-6552,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+547,CT#547,CUNHM,BSRU-AA-6553,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+548,CT#548,CUNHM,BSRU-AA-6554,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+549,CT#549,CUNHM,BSRU-AA-6555,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+550,CT#550,CUNHM,BSRU-AA-6556,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+551,CT#551,CUNHM,BSRU-AA-6557,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+552,CT#552,CUNHM,BSRU-AA-6558,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.53333333,98.51793283,1269,1269,N. Warrit et al.,Worker
+553,CT#553,CUNHM,BSRU-AA-6559,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.53333333,98.51793283,1269,1269,N. Warrit et al.,Worker
+554,CT#554,CUNHM,BSRU-AA-6560,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.53333333,98.51793283,1269,1269,N. Warrit et al.,Worker
+555,CT#555,CUNHM,BSRU-AA-6561,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.53333333,98.51793283,1269,1269,N. Warrit et al.,Worker
+556,CT#556,CUNHM,BSRU-AA-6562,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.53333333,98.51793283,1269,1269,N. Warrit et al.,Worker
+557,CT#557,CUNHM,BSRU-AA-6563,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.53333333,98.51793283,1269,1269,N. Warrit et al.,Worker
+558,CT#558,CUNHM,BSRU-AA-6564,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.53333333,98.51793283,1269,1269,N. Warrit et al.,Worker
+559,CT#559,CUNHM,BSRU-AA-6565,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.53333333,98.51793283,1269,1269,N. Warrit et al.,Worker
+560,CT#560,CUNHM,BSRU-AA-6566,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.53918597,98.51793283,1269,1269,N. Warrit et al.,Worker
+561,CT#561,CUNHM,BSRU-AA-6567,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+562,CT#562,CUNHM,BSRU-AA-6568,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+563,CT#563,CUNHM,BSRU-AA-6569,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+564,CT#564,CUNHM,BSRU-AA-6570,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+565,CT#565,CUNHM,BSRU-AA-6571,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+566,CT#566,CUNHM,BSRU-AA-6572,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+567,CT#567,CUNHM,BSRU-AA-6573,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+568,CT#568,CUNHM,BSRU-AA-6574,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+569,CT#569,CUNHM,BSRU-AA-6575,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+570,CT#570,CUNHM,BSRU-AA-6576,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.53918597,98.51793283,1269,1269,N. Warrit et al.,Worker
+571,CT#571,CUNHM,BSRU-AA-6577,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.53918597,98.51793283,1269,1269,N. Warrit et al.,Worker
+572,CT#572,CUNHM,BSRU-AA-6578,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.53918597,98.51793283,1269,1269,N. Warrit et al.,Worker
+573,CT#573,CUNHM,BSRU-AA-6579,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+574,CT#574,CUNHM,BSRU-AA-6580,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+575,CT#575,CUNHM,BSRU-AA-6581,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+576,CT#576,CUNHM,BSRU-AA-6582,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+577,CT#577,CUNHM,BSRU-AA-6583,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+578,CT#578,CUNHM,BSRU-AA-6584,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+579,CT#579,CUNHM,BSRU-AA-6585,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+580,CT#580,CUNHM,BSRU-AA-6586,Alpigenobombus,Bombus breviceps,2015.0,Jul,22/7/2015,Thailand,Royal Project Doi Inthanon,18.54471083,98.51793283,1269,1269,N. Warrit et al.,Worker
+581,CT#581,CUNHM,BSRU-AA-6587,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Mae Klang Luang,18.54207983,98.55001683,1214,1214,N. Warrit et al.,Worker
+582,CT#582,CUNHM,BSRU-AA-6588,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Mae Klang Luang,18.54207983,98.55001683,1214,1214,N. Warrit et al.,Worker
+583,CT#583,CUNHM,BSRU-AA-6589,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Mae Klang Luang,18.54207983,98.55001683,1214,1214,N. Warrit et al.,Worker
+584,CT#584,CUNHM,BSRU-AA-6590,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Mae Klang Luang,18.54207983,98.55001683,1214,1214,N. Warrit et al.,Worker
+585,CT#585,CUNHM,BSRU-AA-6591,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Mae Klang Luang,18.54207983,98.55001683,1214,1214,N. Warrit et al.,Worker
+586,CT#586,CUNHM,BSRU-AA-6592,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,22/7/2015,Thailand,Mae Klang Luang,18.54207983,98.55001683,1214,1214,N. Warrit et al.,Worker
+587,CT#587,CUNHM,BSRU-AA-6593,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Mae Klang Luang,18.54207983,98.55001683,1214,1214,N. Warrit et al.,Worker
+588,CT#588,CUNHM,BSRU-AA-6594,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Mae Klang Luang,18.54207983,98.55001683,1214,1214,N. Warrit et al.,Worker
+589,CT#589,CUNHM,BSRU-AA-6595,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Mae Klang Luang,18.54207983,98.55001683,1214,1214,N. Warrit et al.,Worker
+590,CT#590,CUNHM,BSRU-AA-6596,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Mae Klang Luang,18.54207983,98.55001683,1214,1214,N. Warrit et al.,Worker
+591,CT#591,CUNHM,BSRU-AA-6597,Megabombus,Bombus montivagus,2015.0,Jul,22/7/2015,Thailand,Mae Klang Luang,18.54207983,98.55001683,1214,1214,N. Warrit et al.,Worker
+592,CT#592,CUNHM,BSRU-AA-6598,Orientalibombus,Bombus haemorrhoidalis,2015.0,Dec,10/12/2015,Thailand,Phang Ung,19.499528,97.91169483,1164,1164,N. Warrit et al.,Worker
+593,CT#593,CUNHM,BSRU-AA-6599,Orientalibombus,Bombus haemorrhoidalis,2015.0,Dec,10/12/2015,Thailand,Phang Ung,19.499528,97.91169483,1164,1164,N. Warrit et al.,Worker
+594,CT#594,CUNHM,BSRU-AA-6600,Orientalibombus,Bombus haemorrhoidalis,2015.0,Dec,10/12/2015,Thailand,Phang Ung,19.499528,97.91169483,1164,1164,N. Warrit et al.,Worker
+595,CT#595,CUNHM,BSRU-AA-6601,Megabombus,Bombus montivagus,2017.0,Nov,20/11/2017,Thailand,Mae Sa Mai,18.86633333,98.855,,,S. Sang & N. Chatthanabun,Worker
+596,CT#596,CUNHM,BSRU-AA-6602,Megabombus,Bombus montivagus,2017.0,Nov,20/11/2017,Thailand,Hui Nam Dang Natural Park,19.31716783,98.600633,1716.69,1716.69,N. Warrit et al.,Worker
+597,CT#597,CUNHM,BSRU-AA-6603,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,20/11/2017,Thailand,Hui Nam Dang Natural Park,19.31716783,98.600633,1716.69,1716.69,N. Warrit et al.,Worker
+598,CT#598,CUNHM,BSRU-AA-6604,Megabombus,Bombus montivagus,2017.0,Nov,20/11/2017,Thailand,Hui Nam Dang Natural Park,19.31716783,98.600633,1716.69,1716.69,N. Warrit et al.,Worker
+599,CT#599,CUNHM,BSRU-AA-6605,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,20/11/2017,Thailand,Hui Nam Dang Natural Park,19.31369444,98.60397222,,,N. Warrit et al.,Worker
+600,CT#600,CUNHM,BSRU-AA-6606,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,20/11/2017,Thailand,Hui Nam Dang Natural Park,19.31369444,98.60397222,,,N. Warrit et al.,Worker
+601,CT#601,CUNHM,BSRU-AA-6607,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,20/11/2017,Thailand,Doi Ang Kang,19.88228,99.04368383,1574.72,1574.72,N. Warrit et al.,Worker
+602,CT#602,CUNHM,BSRU-AA-6608,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,20/11/2017,Thailand,Doi Ang Kang,19.88228,99.04368383,1574.72,1574.72,N. Warrit et al.,Worker
+603,CT#603,CUNHM,BSRU-AA-6609,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,20/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1403.55,1403.55,N. Warrit et al.,Worker
+604,CT#604,CUNHM,BSRU-AA-6610,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,20/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1403.55,1403.55,N. Warrit et al.,Worker
+605,CT#605,CUNHM,BSRU-AA-6611,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,20/11/2017,Thailand,Doi Inthanon Natural Park,18.546271,98.51571683,1307.79,1307.79,N. Warrit et al.,Worker
+606,CT#606,CUNHM,BSRU-AA-6612,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,20/11/2017,Thailand,Doi Inthanon Natural Park,18.546271,98.51571683,1307.79,1307.79,N. Warrit et al.,Worker
+607,CT#607,CUNHM,BSRU-AA-6613,Alpigenobombus,Bombus breviceps,2015.0,Jul,18/7/2015,Thailand,Khun Chang Khian,18.83874608,98.896522,1337,1337,N. Warrit et al.,Worker
+608,CT#608,CUNHM,BSRU-AA-6614,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,18/7/2015,Thailand,Khun Chang Khian,18.83874608,98.896522,1337,1337,N. Warrit et al.,Worker
+609,CT#609,CUNHM,BSRU-AA-6615,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.902259,99.04013883,1405.06,1405.06,N. Warrit et al.,Worker
+610,CT#610,CUNHM,BSRU-AA-6616,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.902259,99.04013883,1405.06,1405.06,N. Warrit et al.,Worker
+611,CT#611,CUNHM,BSRU-AA-6617,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.902259,99.04013883,1405.06,1405.06,N. Warrit et al.,Worker
+612,CT#612,CUNHM,BSRU-AA-6618,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.902259,99.04013883,1405.06,1405.06,N. Warrit et al.,Worker
+613,CT#613,CUNHM,BSRU-AA-6619,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.902259,99.04013883,1405.06,1405.06,N. Warrit et al.,Worker
+614,CT#614,CUNHM,BSRU-AA-6620,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.902259,99.60397222,1405.06,1405.06,N. Warrit et al.,Worker
+615,CT#615,CUNHM,BSRU-AA-6621,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.902259,99.60397222,1405.06,1405.06,N. Warrit et al.,Worker
+616,CT#616,CUNHM,BSRU-AA-6622,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.902259,99.60397222,1405.06,1405.06,N. Warrit et al.,Worker
+617,CT#617,CUNHM,BSRU-AA-6623,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1403.55,1403.55,N. Warrit et al.,Queen
+618,CT#618,CUNHM,BSRU-AA-6624,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1403.55,1403.55,N. Warrit et al.,Worker
+619,CT#619,CUNHM,BSRU-AA-6625,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1403.55,1403.55,N. Warrit et al.,Worker
+620,CT#620,CUNHM,BSRU-AA-6626,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1403.55,1403.55,N. Warrit et al.,Worker
+621,CT#621,CUNHM,BSRU-AA-6627,Melanobombus,Bombus eximius,2017.0,Nov,19/11/2017,Thailand,Doi Inthanon Natural Park,18.58917383,98.487131,2303.18,2303.18,N. Warrit et al.,Worker
+622,CT#622,CUNHM,BSRU-AA-6628,Melanobombus,Bombus eximius,2017.0,Nov,19/11/2017,Thailand,Doi Inthanon Natural Park,18.58917383,98.487131,2303.18,2303.18,N. Warrit et al.,Worker
+623,CT#623,CUNHM,BSRU-AA-6629,Alpigenobombus,Bombus breviceps,2017.0,Nov,20/11/2017,Thailand,Hui Nam Dang Natural Park,19.3267655,98.60397222,1716.69,1716.69,N. Warrit et al.,Worker
+624,CT#624,CUNHM,BSRU-AA-6630,Alpigenobombus,Bombus breviceps,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.9113775,99.04013861,1405.06,1405.06,N. Warrit et al.,Male
+625,CT#625,CUNHM,BSRU-AA-6631,Alpigenobombus,Bombus breviceps,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.87804417,99.04368361,1574.72,1574.72,N. Warrit et al.,Worker
+626,CT#626,CUNHM,BSRU-AA-6632,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.88228,99.04368383,1574.72,1574.72,N. Warrit et al.,Male
+627,CT#627,CUNHM,BSRU-AA-6633,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.88228,99.04368383,1574.72,1574.72,N. Warrit et al.,Male
+628,CT#628,CUNHM,BSRU-AA-6634,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.88228,99.04368383,1574.72,1574.72,N. Warrit et al.,Male
+629,CT#629,CUNHM,BSRU-AA-6635,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.88228,99.04368383,1574.72,1574.72,N. Warrit et al.,Male
+630,CT#630,CUNHM,BSRU-AA-6636,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.88228,99.04368383,1574.72,1574.72,N. Warrit et al.,Male
+631,CT#631,CUNHM,BSRU-AA-6637,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.88228,99.04368383,1574.72,1574.72,N. Warrit et al.,Male
+632,CT#632,CUNHM,BSRU-AA-6638,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.88228,99.04368383,1574.72,1574.72,N. Warrit et al.,Male
+633,CT#633,CUNHM,BSRU-AA-6639,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.88228,99.04368383,1574.72,1574.72,N. Warrit et al.,Male
+634,CT#634,CUNHM,BSRU-AA-6640,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1403.55,1403.55,N. Warrit et al.,Male
+635,CT#635,CUNHM,BSRU-AA-6641,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1403.55,1403.55,N. Warrit et al.,Male
+636,CT#636,CUNHM,BSRU-AA-6642,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1403.55,1403.55,N. Warrit et al.,Male
+637,CT#637,CUNHM,BSRU-AA-6643,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1403.55,1403.55,N. Warrit et al.,Male
+638,CT#638,CUNHM,BSRU-AA-6644,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1403.55,1403.55,N. Warrit et al.,Male
+639,CT#639,CUNHM,BSRU-AA-6645,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1403.55,1403.55,N. Warrit et al.,Male
+640,CT#640,CUNHM,BSRU-AA-6646,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.902259,99.04013883,1405.06,1405.06,N. Warrit et al.,Male
+641,CT#641,CUNHM,BSRU-AA-6647,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.902259,99.04013883,1405.06,1405.06,N. Warrit et al.,Male
+642,CT#642,CUNHM,BSRU-AA-6648,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.902259,99.04013883,1405.06,1405.06,N. Warrit et al.,Male
+643,CT#643,CUNHM,BSRU-AA-6649,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.902259,99.04013883,1405.06,1405.06,N. Warrit et al.,Male
+644,CT#644,CUNHM,BSRU-AA-6650,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.902259,99.04013883,1405.06,1405.06,N. Warrit et al.,Male
+645,CT#645,CUNHM,BSRU-AA-6651,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1403.55,1403.55,N. Warrit et al.,Male
+646,CT#646,CUNHM,BSRU-AA-6652,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1403.55,1403.55,N. Warrit et al.,Male
+647,CT#647,CUNHM,BSRU-AA-6653,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1403.55,1403.55,N. Warrit et al.,Male
+648,CT#648,CUNHM,BSRU-AA-6654,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1403.55,1403.55,N. Warrit et al.,Male
+649,CT#649,CUNHM,BSRU-AA-6655,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1403.55,1403.55,N. Warrit et al.,Male
+650,CT#650,CUNHM,BSRU-AA-6656,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1403.55,1403.55,N. Warrit et al.,Male
+651,CT#651,CUNHM,BSRU-AA-6657,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1403.55,1403.55,N. Warrit et al.,Male
+652,CT#652,CUNHM,BSRU-AA-6658,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1403.55,1403.55,N. Warrit et al.,Male
+653,CT#653,CUNHM,BSRU-AA-6659,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1403.55,1403.55,N. Warrit et al.,Male
+654,CT#654,CUNHM,BSRU-AA-6660,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1403.55,1403.55,N. Warrit et al.,Male
+655,CT#655,CUNHM,BSRU-AA-6661,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1405.06,1405.06,N. Warrit et al.,Male
+656,CT#656,CUNHM,BSRU-AA-6662,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1405.06,1405.06,N. Warrit et al.,Male
+657,CT#657,CUNHM,BSRU-AA-6663,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1405.06,1405.06,N. Warrit et al.,Male
+658,CT#658,CUNHM,BSRU-AA-6664,Megabombus,Bombus montivagus,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.60397222,1405.06,1405.06,N. Warrit et al.,Male
+659,CT#659,CUNHM,BSRU-AA-6665,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.31369444,98.60397222,,,N. Warrit et al.,Worker
+660,CT#660,CUNHM,BSRU-AA-6666,Alpigenobombus,Bombus breviceps,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.31369444,98.60397222,,,N. Warrit et al.,Worker
+661,CT#661,KKIC,,Pyrobombus,Bombus flavescens,2016.0,Feb,17/2/2016,Thailand,Kamphaeng Saen,,,,,Kritaporn,Worker
+662,CT#662,KKIC,,Pyrobombus,Bombus flavescens,2017.0,May,7/5/2017,Thailand,Kamphaeng Saen,,,,,Kittipat,Worker
+663,CT#663,KKIC,,Melanobombus,Bombus eximius,2016.0,Feb,12/2/2016,Thailand,,,,,,Ruthaichanok,Worker
+664,CT#664,KKIC,,Melanobombus,Bombus eximius,2016.0,Apr,23/4/2016,Thailand,Kanchanaburi,,,,,Suttaya,Worker
+665,CT#665,KKIC,,Melanobombus,Bombus eximius,2017.0,Apr,6/4/2017,Thailand,Kamphaeng Saen,,,,,Narinnapa,Worker
+666,CT#666,KKIC,,Melanobombus,Bombus eximius,2016.0,May,2/5/2016,Thailand,Nakorn Pathom,,,,,Kittipod,Worker
+667,CT#667,KKIC,,Melanobombus,Bombus eximius,2016.0,May,6/5/2016,Thailand,Bangkok,,,,,Y. Muang-krit,Worker
+668,CT#668,KKIC,,Pyrobombus,Bombus flavescens,2017.0,Apr,2/4/2017,Thailand,Kamphaeng Saen,,,,,Noppadol,Male
+669,CT#669,KKIC,,Pyrobombus,Bombus flavescens,2016.0,Apr,13/4/2016,Thailand,Loei ,,,,,Araya,Male
+670,CT#670,KKIC,,Orientalibombus,Bombus haemorrhoidalis,1945.0,May,15/10/1945,Thailand,Chiang Mai,,,,,,Worker
+671,CT#671,KKIC,,Alpigenobombus,Bombus breviceps,2010.0,May,21/10/2010,Thailand,Chiang Rai,,,,,,Worker
+672,CT#672,CUNHM,BSRU-AA-6667,Alpigenobombus,Bombus breviceps,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1574.72,1574.72,N. Warrit et al.,Worker
+673,CT#673,CUNHM,BSRU-AA-6668,Orientalibombus,Bombus haemorrhoidalis,2017.0,Nov,21/11/2017,Thailand,Doi Ang Kang,19.91009883,99.04317,1574.72,1574.72,N. Warrit et al.,Male
+674,CT#674,PCYU,B1397-H04,Psithyrus,Bombus bellardii,2006.0,Nov,24/11/2006,Thailand,Doi Inthanon,18.6087,98.4897,,,A. Areeluck,Male
+675,CT#675,PCYU,B1397-H05,Psithyrus,Bombus bellardii,2006.0,Nov,24/11/2006,Thailand,Doi Inthanon,18.6087,98.4897,,,A. Areeluck,Male
+676,CT#676,NHMUK,10814870,Megabombus,Bombus  senex,1929.0,Dec,27/12/1929,Indonesia,Sibayak,3.2,98.5167,1800,2094,H. T. Pagden,Worker
+677,CT#677,NHMUK,10814871,Megabombus,Bombus  senex,1929.0,Dec,27/12/1929,Indonesia,Sibayak,3.2,98.5167,1800,2094,H. T. Pagden,Worker
+678,CT#678,NHMUK,10814872,Megabombus,Bombus  senex,1929.0,Dec,27/12/1929,Indonesia,Sibayak,3.2,98.5167,1800,2094,H. T. Pagden,Worker
+679,CT#679,NHMUK,10814873,Megabombus,Bombus  senex,1929.0,Dec,27/12/1929,Indonesia,Sibayak,3.2,98.5167,1800,2094,H. T. Pagden,Worker
+680,CT#680,NHMUK,10814874,Megabombus,Bombus  senex,1929.0,Dec,28/12/1929,Indonesia,Sinabung,3.2,98.5167,1800,1800,H. T. Pagden,Worker
+681,CT#681,NHMUK,10814875,Alpigenobombus,Bombus genalis,1938.0,Aug,29/8/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914.4,914.4,R. Kaulback,Worker
+682,CT#682,NHMUK,10814876,Alpigenobombus,Bombus genalis,1938.0,Aug,29/8/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914.4,914.4,R. Kaulback,Worker
+683,CT#683,NHMUK,10814877,Alpigenobombus,Bombus genalis,1938.0,Aug,29/8/1938,Myanmar,Nam Tamai Valley,27.7,97.9,914.4,914.4,R. Kaulback,Worker
+684,CT#684,NHMUK,10814878,Pyrobombus,Bombus flavescens,1931.0,Oct,10/10/1931,Myanmar,Adung Valley ,28.13,97.7,1828.8,1828.8,Lord Cranbrook,Worker
+685,CT#685,NHMUK,10814879,Pyrobombus,Bombus flavescens,1935.0,Mar,1/3/1935,India,Mishmi Hills,28.2505763,95.9930746,1630.68,1630.68,M. Steele ,Worker
+686,CT#686,NHMUK,10814880,Melanobombus,Bombus richardsiellus,1931.0,Jul,23/7/1931,Myanmar,Adung Valley ,28.13,97.7,3657.6,3657.6,Lord Cranbrook,Worker
+687,CT#687,NHMUK,10814881,Melanobombus,Bombus rufipes,1929.0,Apr,,Malaysia,Bukit Kutu,3.54,101.72,,,A.R. Sanderson,Queen
+688,CT#688,NHMUK,10814882,Melanobombus,Bombus rufipes,,,,Indonesia,Bundjar,,,,,,Male
+689,CT#689,NHMUK,10814883,Melanobombus,Bombus rufipes,,,,Indonesia,Java,-7.6145,110.7122,,,,Queen
+690,CT#690,NHMUK,10814884,Melanobombus,Bombus rufipes,1936.0,Jan,,Indonesia,Tjibodas,-6.48,106.66,1219.2,1220.2,L.E. Cheesman,Worker
+691,CT#691,ACMU,,Megabombus,Bombus montivagus,1981.0,Jun,24/6/1981,Thailand,,18.82,98.96,,,Ratchanee,Worker
+692,CT#692,ACMU,,Megabombus,Bombus montivagus,2001.0,Jul,7/7/2001,Thailand,San Pa Kia,19.31,98.83,,,,Worker
+693,CT#693,ACMU,,Megabombus,Bombus montivagus,2003.0,Aug,30/8/2003,Thailand,Khun Chang Khian,18.83874608,98.896522,,,Natthaporn,Worker
+694,CT#694,ACMU,,Megabombus,Bombus montivagus,1981.0,Jun,7/6/1981,Thailand,Chiang Mai University,18.8,98.95,,,Phanuwat,Worker
+695,CT#695,ACMU,,Megabombus,Bombus montivagus,2009.0,Jun,15/6/2009,Thailand,,18.93,98.88,,,Kannika,Worker
+696,CT#696,ACMU,,Megabombus,Bombus montivagus,1982.0,Sep,2/9/1982,Thailand,Chiang Mai Zoo,18.81,98.95,,,Prayun,Worker
+697,CT#697,ACMU,,Megabombus,Bombus montivagus,2002.0,Aug,12/8/2002,Thailand,Khun Chang Khian,18.83874608,98.896522,,,Chanwit,Worker
+698,CT#698,ACMU,,Megabombus,Bombus montivagus,2008.0,Oct,18/10/2008,Thailand,Khun Chang Khian,18.83874608,98.896522,,,Nanthana,Worker
+699,CT#699,ACMU,,Megabombus,Bombus montivagus,2008.0,Jul,21/7/2008,Thailand,,18.74,98.96,,,Pawarit,Worker
+700,CT#700,ACMU,,Megabombus,Bombus montivagus,2002.0,Sep,18/9/2002,Thailand,,18.74,98.96,,,Wasin,Worker
+701,CT#701,ACMU,,Megabombus,Bombus montivagus,1981.0,Aug,12/8/1981,Thailand,Doi Tung,20.33,99.83,,,Sukit,Worker
+702,CT#702,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2006.0,Jul,16/7/2006,Thailand,,18.74,98.96,,,Wipada,Worker
+703,CT#703,ACMU,,Orientalibombus,Bombus haemorrhoidalis,1977.0,Jun,5/6/1977,Thailand,Chiang Mai University,18.81,98.95,,,Leard,Worker
+704,CT#704,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2009.0,Sep,1/9/2009,Thailand,,18.89,98.83,,,Somchai,Worker
+705,CT#705,ACMU,,Orientalibombus,Bombus haemorrhoidalis,1980.0,Sep,12/9/1980,Thailand,Bhubing Palace,18.8,98.9,,,Theerapon,Worker
+706,CT#706,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2009.0,Feb,2/2/2009,Thailand,,18.74,98.96,,,,Worker
+707,CT#707,ACMU,,Orientalibombus,Bombus haemorrhoidalis,1923.0,Sep,11/9/1923,Thailand,,18.81,98.95,,,Nopporn,Worker
+708,CT#708,ACMU,,Orientalibombus,Bombus haemorrhoidalis,1982.0,Mar,16/3/2582,Thailand,Khun Chang Khian,18.83874608,98.896522,,,Sukanya,Worker
+709,CT#709,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2003.0,Sep,3/9/2003,Thailand,,18.74,98.96,,,Natthawadee,Worker
+710,CT#710,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2003.0,Jul,18/7/2003,Thailand,,18.81,98.95,,,,Worker
+711,CT#711,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2005.0,Jan,5/1/2005,Thailand,,18.63,98.9,,,Kamonpan,Worker
+712,CT#712,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2003.0,Sep,8/9/2003,Thailand,,19.22,100.2,,,Chaiyawat,Worker
+713,CT#713,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2003.0,Jul,20/7/2003,Thailand,,18.87,99.14,,,Suntriporn,Worker
+714,CT#714,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2003.0,Jul,22/7/2003,Thailand,Payap University,18.79,99.0,,,Waraporn,Worker
+715,CT#715,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2003.0,Aug,20/8/2003,Thailand,,19.02,100.97,,,Sitthipong,Worker
+716,CT#716,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2002.0,Sep,1/9/2002,Thailand,Wat Pha Lat,18.8,98.93,,,Kajorn,Worker
+717,CT#717,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2008.0,Sep,1/9/2008,Thailand,,18.74,98.96,,,Chanchine,Worker
+718,CT#718,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2003.0,Jun,22/6/2003,Thailand,Huay Hong Khrai,18.85,99.22,,,Chakrapan,Worker
+719,CT#719,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2004.0,Aug,8/8/2004,Thailand,Chiang Mai University,18.81,98.95,,,,Worker
+720,CT#720,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2008.0,Mar,8/3/2008,Thailand,,18.81,98.95,,,Maturos,Worker
+721,CT#721,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2001.0,Sep,30/9/2001,Thailand,,18.81,98.95,,,Wirachinee,Worker
+722,CT#722,ACMU,,Orientalibombus,Bombus haemorrhoidalis,,Aug,4-Aug,Thailand,,18.71,99.04,,,Kedsirin,Worker
+723,CT#723,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2003.0,Aug,12/8/2003,Thailand,San Pa Kia,19.31,98.83,,,Supatpong,Worker
+724,CT#724,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2003.0,Mar,7/3/2003,Thailand,,18.81,98.95,,,Rakkiet,Worker
+725,CT#725,ACMU,,Orientalibombus,Bombus haemorrhoidalis,1996.0,Jul,27/7/1996,Thailand,,18.74,98.96,,,Pheerasak,Worker
+726,CT#726,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2006.0,Jul,3/7/2006,Thailand,,18.81,98.95,,,Anuchit,Worker
+727,CT#727,ACMU,,Alpigenobombus,Bombus breviceps,2008.0,Jul,19/7/2008,Thailand,Khun Chang Khian,18.83874608,98.896522,,,Wilawan,Worker
+728,CT#728,ACMU,,Alpigenobombus,Bombus breviceps,2008.0,Jul,17/7/2008,Thailand,Khun Chang Khian,18.83874608,98.896522,,,Wannapha,Worker
+729,CT#729,ACMU,,Alpigenobombus,Bombus breviceps,2005.0,Aug,28/8/2005,Thailand,Khun Chang Khian,18.83874608,98.896522,,,Pharadorn,Worker
+730,CT#730,ACMU,,Alpigenobombus,Bombus breviceps,2004.0,Nov,9/11/2004,Thailand,Doi Pui,18.82,98.88,,,,Worker
+731,CT#731,ACMU,,Alpigenobombus,Bombus breviceps,2003.0,Jun,26/6/2003,Thailand,Chiang Mai University,18.81,98.95,,,Noppamas,Worker
+732,CT#732,ACMU,,Alpigenobombus,Bombus breviceps,2003.0,Aug,23/8/2003,Thailand,Khun Chang Khian,18.83874608,98.896522,,,Narongwich,Worker
+733,CT#733,ACMU,,Alpigenobombus,Bombus breviceps,2001.0,Jul,22/7/2001,Thailand,,,,,,Kulsuda,Worker
+734,CT#734,ACMU,,Alpigenobombus,Bombus breviceps,2002.0,Sep,22/9/2002,Thailand,Chiang Mai University,18.81,98.95,,,Yutthana,Worker
+735,CT#735,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2005.0,Aug,31/8/2005,Thailand,,18.74,98.96,,,Chonticha,Worker
+736,CT#736,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2002.0,Sep,21/9/2002,Thailand,,18.74,98.96,,,Narachon,Worker
+737,CT#737,ACMU,,Orientalibombus,Bombus haemorrhoidalis,1998.0,Jul,10/7/1998,Thailand,Chiang Mai University,18.81,98.95,,,mutita,Worker
+738,CT#738,ACMU,,Orientalibombus,Bombus haemorrhoidalis,1978.0,Sep,12/9/1978,Thailand,Mae Sa,18.9,98.87,,,Pranom,Worker
+739,CT#739,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2002.0,Aug,2/8/2002,Thailand,,18.74,98.96,,,Satit,Worker
+740,CT#740,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2003.0,Jan,31/1/2003,Thailand,,18.75,99.17,,,Sarinda,Worker
+741,CT#741,ACMU,,Orientalibombus,Bombus haemorrhoidalis,1984.0,Aug,31/8/1984,Thailand,Chiang Mai University,18.81,98.95,,,Smith,Worker
+742,CT#742,ACMU,,Orientalibombus,Bombus haemorrhoidalis,1984.0,Jul,29/7/1984,Thailand,Chiang Mai University,18.8,98.95,,,Sittichai,Worker
+743,CT#743,ACMU,,Orientalibombus,Bombus haemorrhoidalis,1984.0,Sep,2/9/1984,Thailand,Chiang Mai University,18.81,98.95,,,Suttheewan,Worker
+744,CT#744,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2002.0,Aug,10/8/2002,Thailand,Chiang Mai University,18.81,98.95,,,Nopphapadol,Worker
+745,CT#745,ACMU,,Orientalibombus,Bombus haemorrhoidalis,,May,16-May,Thailand,Chiang Mai University,18.81,98.95,,,Orasa,Queen
+746,CT#746,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2002.0,Sep,9/9/2002,Thailand,,18.81,98.95,,,Jessada,Worker
+747,CT#747,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2002.0,Sep,16/9/2002,Thailand,Chiang Mai University,18.81,98.95,,,Ratchaya,Worker
+748,CT#748,ACMU,,Orientalibombus,Bombus haemorrhoidalis,1992.0,Jul,5/7/1992,Thailand,Chiang Mai University,18.81,98.95,,,Supinda,Queen
+749,CT#749,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2002.0,Jan,20/1/2002,Thailand,,19.73,99.14,,,Piyawan,Worker
+750,CT#750,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2006.0,Sep,10/9/2006,Thailand,,18.81,98.95,,,Danai,Worker
+751,CT#751,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2003.0,Sep,26/9/2003,Thailand,Wat Pha Lat,18.8,98.93,,,AungArt,Worker
+752,CT#752,ACMU,,Orientalibombus,Bombus haemorrhoidalis,1965.0,Jul,25/7/1965,Thailand,,18.81,98.95,,,Onporn,Worker
+753,CT#753,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2006.0,Jan,2/1/2006,Thailand,,18.94,98.62,,,Neungruthai,Worker
+754,CT#754,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2006.0,Jul,11/7/2006,Thailand,,18.93,98.88,,,Theerapong,Worker
+755,CT#755,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2006.0,Aug,8/8/2006,Thailand,,,,,,,Worker
+756,CT#756,ACMU,,Orientalibombus,Bombus haemorrhoidalis,1995.0,Dec,8/12/1995,Thailand,Chiang Mai University,18.81,98.95,,,Wasan,Queen
+757,CT#757,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2004.0,Dec,7/12/2004,Thailand,,18.63,98.9,,,Paweena,Worker
+758,CT#758,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2002.0,Jan,10/1/2002,Thailand,Doi Inthanon,18.59,98.49,,,Sak,Queen
+759,CT#759,ACMU,,Orientalibombus,Bombus haemorrhoidalis,2004.0,Jan,14/1/2004,Thailand,Doi Inthanon,18.59,98.49,,,Paweena,Queen
+760,CT#760,ACMU,,Megabombus,Bombus montivagus,2002.0,Aug,14/8/2002,Thailand,Wat Pha Lat,18.8,98.93,,,Watchrawalee,Worker
+761,CT#761,ACMU,,Megabombus,Bombus montivagus,2002.0,Jul,2/7/2002,Thailand,Mae Jo,18.9,99.01,,,,Worker
+762,CT#762,ACMU,,Megabombus,Bombus montivagus,2002.0,Aug,29/8/2002,Thailand,,18.74,98.96,,,Chopet,Worker
+763,CT#763,ACMU,,Megabombus,Bombus montivagus,1981.0,Sep,14/9/1981,Thailand,Khun Chang Khian,18.83874608,98.896522,,,Prapaporn,Worker
+764,CT#764,ACMU,,Melanobombus,Bombus eximius,1993.0,May,1/5/1993,Thailand,Doi Inthanon,18.59,98.49,,,,Queen
+765,CT#765,ACMU,,Melanobombus,Bombus eximius,2005.0,Jun,20/6/2005,Thailand,,19.91,99.83,,,Kwanruen,Worker
+766,CT#766,ACMU,,Melanobombus,Bombus eximius,2002.0,Dec,29/12/2002,Thailand,,15.38,100.02,,,Chittrawadee,Worker
+767,CT#767,ACMU,,Melanobombus,Bombus eximius,2002.0,Oct,10/10/2002,Thailand,,19.91,99.83,,,lanthom,Male
+768,CT#768,ACMU,,Melanobombus,Bombus eximius,2003.0,Jan,9/1/2003,Thailand,,18.94,98.62,,,,Male
+769,CT#769,ACMU,,Melanobombus,Bombus eximius,2002.0,Oct,14/10/2002,Thailand,,18.81,98.95,,,Natthapong,Male
+770,CT#770,ACMU,,Melanobombus,Bombus eximius,2005.0,Jul,28/7/2005,Thailand,,18.83874608,98.896522,,,Waralak,Worker
+771,CT#771,ACMU,,Melanobombus,Bombus eximius,2003.0,Jan,12/1/2003,Thailand,Chiang Mai University,18.81,98.95,,,Thanakit,Male
+772,CT#772,ACMU,,Melanobombus,Bombus eximius,2005.0,Aug,17/8/2005,Thailand,Wat Pha Lat,18.8,98.93,,,Munrapat,Male
+773,CT#773,ACMU,,Pyrobombus,Bombus flavescens,2003.0,Jan,13/1/2003,Thailand,Khun Chang Khian,18.83874608,98.896522,,,Siriwan,Worker
+774,CT#774,ACMU,,Pyrobombus,Bombus flavescens,2003.0,Jan,19/1/2003,Thailand,Chiang Mai University,18.8,98.95,,,Chaicharn,Worker
+775,CT#775,ACMU,,Pyrobombus,Bombus flavescens,2003.0,Feb,12/2/2003,Thailand,Chiang Mai University,18.8,98.95,,,kornkrit,Worker
+776,CT#776,ACMU,,Pyrobombus,Bombus flavescens,2002.0,Oct,17/10/2002,Thailand,,19.89,99.16,,,Wannaporn,Worker
+777,CT#777,ACMU,,Pyrobombus,Bombus flavescens,2002.0,Dec,15/12/2002,Thailand,,18.63,98.9,,,Sureerat,Worker
+778,CT#778,ACMU,,Pyrobombus,Bombus flavescens,2002.0,Oct,9/10/2002,Thailand,,18.74,98.96,,,Nitisak,Worker
+779,CT#779,ACMU,,Pyrobombus,Bombus flavescens,2002.0,Nov,6/11/2002,Thailand,,18.74,98.96,,,Poramin,Worker
+780,CT#780,ACMU,,Pyrobombus,Bombus flavescens,2002.0,Dec,10/12/2002,Thailand,Doi Ang Khang,19.90635983,99.04013883,,,Wichcha,Worker
+781,CT#781,ACMU,,Pyrobombus,Bombus flavescens,2002.0,Oct,19/10/2002,Thailand,Chiang Mai University,18.8,98.95,,,Tippayawan,Male
+782,CT#782,ACMU,,Pyrobombus,Bombus flavescens,2003.0,Jan,18/1/2003,Thailand,,18.74,98.96,,,Panee,Male
+783,CT#783,ACMU,,Pyrobombus,Bombus flavescens,2003.0,Nov,28/11/2003,Thailand,,18.8,98.95,,,Chakrapan,Male
+784,CT#784,ACMU,,Pyrobombus,Bombus flavescens,2002.0,Dec,19/12/2002,Thailand,Mea Jo,18.9,99.01,,,Natthida,Male
+785,CT#785,ACMU,,Pyrobombus,Bombus flavescens,2003.0,Jan,25/1/2003,Thailand,Wat Pha lat,18.8,98.93,,,Apilak,Male
+786,CT#786,ACMU,,Pyrobombus,Bombus flavescens,2002.0,Dec,15/12/2002,Thailand,,18.57,99.01,,,Jirapong,Male
+787,CT#787,ACMU,,Megabombus,Bombus montivagus,2018.0,Oct,10/10/2018,Thailand,,19.36,98.44,,,Suttiprapan P. & Phunoot P.,Worker
+788,CT#788,ACMU,,Alpigenobombus,Bombus breviceps,2018.0,Oct,10/10/2018,Thailand,,19.36,98.44,,,Suttiprapan P. & Phunoot P.,Worker
+789,CT#789,ACMU,,Alpigenobombus,Bombus breviceps,2018.0,Oct,10/10/2018,Thailand,,19.36,98.44,,,Suttiprapan P. & Phunoot P.,Worker
+790,CT#790,MJUMZ,,Alpigenobombus,Bombus breviceps,2012.0,May,19/5/2012,Thailand,,,,,,Chamaiporn Praprutdee,Worker
+791,CT#791,MJUMZ,,Megabombus,Bombus montivagus,2012.0,Jul,25/7/2012,Thailand,Mae Jo University,18.9,99.01,,,,Worker
+792,CT#792,MJUMZ,,Orientalibombus,Bombus haemorrhoidalis,1983.0,Sep,3/9/1983,Thailand,Tan Phra,18.94,99.07,,,Satit,Worker
+793,CT#793,MJUMZ,,Orientalibombus,Bombus haemorrhoidalis,2002.0,Jul,27/7/2002,Thailand,Doi Chiang Dao,19.4,98.88,,,Manop Yammak,Worker
+794,CT#794,MJUMZ,,Pyrobombus,Bombus flavescens,2002.0,Aug,9/8/2002,Thailand,Mae Jo,18.9,99.01,,,Naina Sansuk,Worker
+795,CT#795,MJUMZ,,Pyrobombus,Bombus flavescens,,,,Thailand,Mae Jo,18.92,99.03,,,Patharapol Yamasak,Worker
+796,CT#796,MJUMZ,,Melanobombus,Bombus eximius,2002.0,Jul,14/7/2002,Thailand,,18.99,99.01,,,Jantarong,Worker
+797,CT#797,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Sep,12/9/2012,Thailand,Mae Jo,18.9,99.01,,,Warunyupa,Worker
+798,CT#798,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Jul,3/7/2012,Thailand,Baan Pha Kam,18.91,99.0,,,Suwimon,Worker
+799,CT#799,MJUMZ,,Melanobombus,Bombus eximius,2003.0,Jul,12/7/2003,Thailand,Ang Kep Nam Huai Cho,18.94,99.06,,,Siwaporn,Worker
+800,CT#800,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Aug,6/8/2012,Thailand,Mae Jo,18.9,99.01,,,Thongrob Tasiti,Worker
+801,CT#801,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Jun,25/6/2012,Thailand,Ban Huay Wok,18.37,98.2,,,Suppawich Thanomuraphee,Worker
+802,CT#802,MJUMZ,,Melanobombus,Bombus eximius,,,,Thailand,Mae Jo,18.9,99.01,,,,Worker
+803,CT#803,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Aug,20/8/2012,Thailand,,19.21,98.88,,,Panarawat Rakpol,Worker
+804,CT#804,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Sep,10/9/2012,Thailand,,18.9,99.01,,,Sakwicha Kawee,Worker
+805,CT#805,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Aug,12/8/2012,Thailand,Ang Khang ,19.91009883,109.6039722,,,Ratinun Keawbia,Worker
+806,CT#806,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Jul,5/7/2012,Thailand,Maejo University,18.9,99.01,,,,Worker
+807,CT#807,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Aug,30/8/2012,Thailand,,18.81,98.95,,,Monton Sridokkum,Worker
+808,CT#808,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Jul,7/7/2012,Thailand,Ang Kep Nam Huai Cho,18.94,99.06,,,Wipa Kongsumpan,Worker
+809,CT#809,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Aug,4/8/2012,Thailand,,18.16,97.93,,,Juthamas,Worker
+810,CT#810,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Jun,13/6/2012,Thailand,Ang Kep Nam Huai Cho,18.94,99.06,,,Wipharat Wongwang,Worker
+811,CT#811,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Aug,5/8/2012,Thailand,Ban Pong Firm,18.92,99.05,,,Tachit Upree,Worker
+812,CT#812,MJUMZ,,Melanobombus,Bombus eximius,,Jul,,Thailand,Wat Mae Cho,18.94,99.06,,,Worawich Suksri,Worker
+813,CT#813,MJUMZ,,Melanobombus,Bombus eximius,2012.0,Jul,26/7/2012,Thailand,Ban Mae kad noi ,18.88,99.04,,,Rungarun Ploynoi,Worker
+814,CT#814,KKIC,,Orientalibombus,Bombus haemorrhoidalis,1992.0,Oct,19/10/1992,Thailand,Kamphaeng Saen,,,,,,Worker
+815,CT#815,KKIC,,Orientalibombus,Bombus haemorrhoidalis,1996.0,Feb,13/2/1996,Thailand,Kanchanaburi,,,,,Sombun Sinsangsong,Worker
+816,CT#816,KKIC,,Orientalibombus,Bombus haemorrhoidalis,2000.0,May,11/5/2000,Thailand,Kamphaeng Saen,,,,,Theerawadee Chanchamni,Worker
+817,CT#817,CUNHM,BSRU-AA-6669,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+818,CT#818,CUNHM,BSRU-AA-6670,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+819,CT#819,CUNHM,BSRU-AA-6671,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+820,CT#820,CUNHM,BSRU-AA-6672,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+821,CT#821,CUNHM,BSRU-AA-6673,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+822,CT#822,CUNHM,BSRU-AA-6674,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Worker
+823,CT#823,CUNHM,BSRU-AA-6675,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+824,CT#824,CUNHM,BSRU-AA-6676,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Worker
+825,CT#825,CUNHM,BSRU-AA-6677,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+826,CT#826,CUNHM,BSRU-AA-6678,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+827,CT#827,CUNHM,BSRU-AA-6679,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+828,CT#828,CUNHM,BSRU-AA-6680,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+829,CT#829,CUNHM,BSRU-AA-6681,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+830,CT#830,CUNHM,BSRU-AA-6682,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+831,CT#831,CUNHM,BSRU-AA-6683,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+832,CT#832,CUNHM,BSRU-AA-6684,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+833,CT#833,CUNHM,BSRU-AA-6685,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+834,CT#834,CUNHM,BSRU-AA-6686,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Male
+835,CT#835,CUNHM,BSRU-AA-6687,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.90886483,99.048056,1521.95,1521.95,N. Warrit et al.,Worker
+836,CT#836,CUNHM,BSRU-AA-6688,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,18/12/2018,Thailand,Baan Lek Nai Payai,19.97796983,99.247405,1599.07,1599.07,N. Warrit et al.,Male
+837,CT#837,CUNHM,BSRU-AA-6689,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,18/12/2018,Thailand,Doi Ang Kang Station,19.90972,99.04298683,1419.5,1419.5,N. Warrit et al.,Male
+838,CT#838,CUNHM,BSRU-AA-6690,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,18/12/2018,Thailand,Doi Ang Kang Station,19.90972,99.04298683,1419.5,1419.5,N. Warrit et al.,Male
+839,CT#839,CUNHM,BSRU-AA-6691,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,18/12/2018,Thailand,Doi Ang Kang Station,19.90972,99.04298683,1419.5,1419.5,N. Warrit et al.,Worker
+840,CT#840,CUNHM,BSRU-AA-6692,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,19/12/2018,Thailand,Doi Ang Kang Station,19.90635983,99.04013883,1400.2,1400.2,N. Warrit et al.,Male
+841,CT#841,CUNHM,BSRU-AA-6693,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,19/12/2018,Thailand,Doi Ang Kang Station,19.90635983,99.04013883,1400.2,1400.2,N. Warrit et al.,Male
+842,CT#842,CUNHM,BSRU-AA-6694,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,19/12/2018,Thailand,Doi Ang Kang Station,19.90635983,99.04013883,1400.2,1400.2,N. Warrit et al.,Male
+843,CT#843,CUNHM,BSRU-AA-6695,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,19/12/2018,Thailand,Doi Ang Kang Station,19.90635983,99.04013883,1400.2,1400.2,N. Warrit et al.,Worker
+844,CT#844,CUNHM,BSRU-AA-6696,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,19/12/2018,Thailand,Doi Ang Kang Station,19.90635983,99.04013883,1400.2,1400.2,N. Warrit et al.,Worker
+845,CT#845,CUNHM,BSRU-AA-6697,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,19/12/2018,Thailand,Doi Ang Kang Station,19.90635983,99.04013883,1400.2,1400.2,N. Warrit et al.,Worker
+846,CT#846,CUNHM,BSRU-AA-6698,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,19/12/2018,Thailand,Doi Ang Kang Station,19.90635983,99.04013883,1400.2,1400.2,N. Warrit et al.,Worker
+847,CT#847,CUNHM,BSRU-AA-6699,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.91099083,99.04067833,1376.49,1376.49,N. Warrit et al.,Worker
+848,CT#848,CUNHM,BSRU-AA-6700,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.86832583,99.04390883,1547.11,1547.11,N. Warrit et al.,Male
+849,CT#849,CUNHM,BSRU-AA-6701,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.86832583,99.04390883,1547.11,1547.11,N. Warrit et al.,Worker
+850,CT#850,CUNHM,BSRU-AA-6702,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,17/12/2018,Thailand,Doi Ang Kang Station,19.86832583,99.04390883,1547.11,1547.11,N. Warrit et al.,Worker
+851,CT#851,CUNHM,BSRU-AA-6703,Orientalibombus,Bombus haemorrhoidalis,2018.0,Dec,20/12/2018,Thailand,Khun Chang Kien,18.83874608,98.896522,1341.6,1341.6,N. Warrit et al.,Worker
+852,CT#852,DNP,,Pyrobombus,Bombus flavescens,1965.0,Dec,11/12/1965,Thailand,Doi Inthanon,18.59,98.49,,,D. Chaiglom,Worker
+853,CT#853,DNP,,Orientalibombus,Bombus haemorrhoidalis,1965.0,Dec,19/12/1965,Thailand,Doi Inthanon,18.59,98.49,,,D. Chaiglom,Queen
+854,CT#854,DNP,,Orientalibombus,Bombus haemorrhoidalis,1971.0,Aug,18/8/1971,Thailand,Bo Luang,18.14,98.37,,,Prayune,Worker
+855,CT#855,DNP,,Orientalibombus,Bombus haemorrhoidalis,1971.0,Aug,18/8/1971,Thailand,Bo Luang,18.14,98.37,,,Prayune,Worker
+856,CT#856,DNP,,Orientalibombus,Bombus haemorrhoidalis,1971.0,Aug,18/8/1971,Thailand,Bo Luang,18.14,98.37,,,Prayune,Worker
+857,CT#857,DNP,,Orientalibombus,Bombus haemorrhoidalis,1971.0,Aug,18/8/1971,Thailand,Bo Luang,18.14,98.37,,,Prayune,Worker
+858,CT#858,DNP,,Orientalibombus,Bombus haemorrhoidalis,1965.0,Sep,25/9/1965,Thailand,Doi Tung,20.29,99.81,,,D. Chaiglom,Worker
+859,CT#859,DNP,,Orientalibombus,Bombus haemorrhoidalis,1971.0,Jul,4/7/1971,Thailand,Doi Pui,18.83,98.89,,,D. Chaiglom,Worker
+860,CT#860,DNP,,Orientalibombus,Bombus haemorrhoidalis,1971.0,Aug,18/8/1971,Thailand,Bo Luang,18.14,98.37,,,Prayune,Worker
+861,CT#861,DNP,,Orientalibombus,Bombus haemorrhoidalis,1965.0,Jul,4/7/1965,Thailand,Doi Pui,18.83,98.89,,,D. Chaiglom,Worker
+862,CT#862,DNP,,Orientalibombus,Bombus haemorrhoidalis,1965.0,Dec,19/12/1965,Thailand,Doi Inthanon,18.59,98.49,,,D. Chaiglom,Worker
+863,CT#863,DNP,,Orientalibombus,Bombus haemorrhoidalis,1965.0,Dec,19/12/1965,Thailand,Doi Inthanon,18.59,98.49,,,D. Chaiglom,Male
+864,CT#864,DNP,,Megabombus,Bombus montivagus,1967.0,Sep,25/9/1967,Thailand,Doi Tung,20.33,99.83,,,D. Chaiglom,Worker
+865,CT#865,DNP,,Megabombus,Bombus montivagus,1967.0,Oct,5/10/1967,Thailand,Phu Tab Berg,16.9,101.11,,,D. Chaiglom,Worker
+866,CT#866,DNP,,Megabombus,Bombus montivagus,1967.0,Sep,25/9/1967,Thailand,Doi Tung,20.33,99.83,,,D. Chaiglom,Worker
+867,CT#867,DNP,,Megabombus,Bombus montivagus,1967.0,Sep,25/9/1967,Thailand,Doi Tung,20.33,99.83,,,D. Chaiglom,Worker
+868,CT#868,DNP,,Megabombus,Bombus montivagus,1967.0,Sep,25/9/1967,Thailand,Doi Tung,20.33,99.83,,,D. Chaiglom,Worker
+869,CT#869,DNP,,Melanobombus,Bombus eximius,1965.0,Dec,19/12/1965,Thailand,Doi Inthanon,18.59,98.49,,,D. Chaiglom,Queen
+870,CT#870,DNP,,Melanobombus,Bombus eximius,1965.0,Dec,19/12/1965,Thailand,Doi Inthanon,18.59,98.49,,,D. Chaiglom,Worker
+871,CT#871,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2014.0,Jun,28/6/2014,Thailand,Khun Chang Kien,18.8,98.883333,1350,1350,C. Sinpoo,Worker
+872,CT#872,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2014.0,Jun,28/6/2014,Thailand,Khun Chang Kien,18.8,98.883333,1350,1350,C. Sinpoo,Worker
+873,CT#873,BEEP,,Megabombus,Bombus montivagus,2014.0,Sep,21/9/2014,Thailand,Doi Suthep,18.8,98.88333333,,,C. Sinpoo,Worker
+874,CT#874,BEEP,,Megabombus,Bombus montivagus,2014.0,Aug,2/8/2014,Thailand,Doi Suthep,18.8,98.88333333,1373,1373,C. Sinpoo,Worker
+875,CT#875,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2014.0,Aug,2/8/2014,Thailand,Doi Suthep,18.8,98.883333,1373,1373,C. Sinpoo,Worker
+876,CT#876,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2014.0,Aug,2/8/2014,Thailand,Doi Suthep,18.8,98.883333,1373,1373,C. Sinpoo,Worker
+877,CT#877,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2014.0,Aug,2/8/2014,Thailand,Doi Suthep,18.8,98.883333,1373,1373,C. Sinpoo,Worker
+878,CT#878,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2014.0,Aug,11/8/2014,Thailand,Doi Inthanon,18.53333333,98.51666667,1304,1304,C. Sinpoo,Worker
+879,CT#879,BEEP,,Megabombus,Bombus montivagus,2014.0,Aug,11/8/2014,Thailand,Doi Inthanon,18.53333333,98.51666667,1304,1304,C. Sinpoo,Worker
+880,CT#880,BEEP,,Alpigenobombus,Bombus breviceps,2014.0,Aug,11/8/2014,Thailand,Doi Inthanon,18.53333333,98.51666667,1304,1304,C. Sinpoo,Worker
+881,CT#881,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2014.0,Aug,11/8/2014,Thailand,Doi Inthanon,18.53333333,98.51666667,1304,1304,C. Sinpoo,Worker
+882,CT#882,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2014.0,Aug,11/8/2014,Thailand,Doi Inthanon,18.53333333,98.51666667,1304,1304,C. Sinpoo,Worker
+883,CT#883,BEEP,,Alpigenobombus,Bombus breviceps,2014.0,Aug,11/8/2014,Thailand,Doi Inthanon,18.53333333,98.51666667,1304,1304,C. Sinpoo,Worker
+884,CT#884,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2014.0,Aug,11/8/2014,Thailand,Doi Inthanon,18.53333333,98.51666667,1304,1304,C. Sinpoo,Worker
+885,CT#885,BEEP,,Megabombus,Bombus montivagus,2014.0,Aug,11/8/2014,Thailand,Doi Inthanon,18.53333333,98.51666667,1304,1304,C. Sinpoo,Worker
+886,CT#886,BEEP,,Alpigenobombus,Bombus breviceps,2014.0,Aug,11/8/2014,Thailand,Doi Inthanon,18.53333333,98.51666667,1304,1304,C. Sinpoo,Worker
+887,CT#887,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2016.0,Oct,24/10/2016,Thailand,Mon ngoa ,19.0,98.78333333,850,850,C. Sinpoo,Worker
+888,CT#888,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2016.0,Oct,24/10/2016,Thailand,Mon ngoa ,19.0,98.78333333,850,850,C. Sinpoo,Worker
+889,CT#889,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2016.0,Oct,24/10/2016,Thailand,Mon ngoa ,19.0,98.78333333,850,850,C. Sinpoo,Worker
+890,CT#890,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2016.0,Oct,24/10/2016,Thailand,Mon ngoa ,19.0,98.78333333,850,850,C. Sinpoo,Worker
+891,CT#891,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2016.0,Oct,24/10/2016,Thailand,Mon ngoa ,19.0,98.78333333,850,850,C. Sinpoo,Worker
+892,CT#892,BEEP,,Orientalibombus,Bombus haemorrhoidalis,2016.0,Oct,24/10/2016,Thailand,Mon ngoa ,19.0,98.78333333,850,850,C. Sinpoo,Worker
+893,CT#893,NHMW,,Melanobombus,Bombus eximius,2010.0,Jun,2/6/2010,Myanmar,Natmataung Nat. Park,21.21981,93.94001,2700,2700,D. Zimmermann,Worker
+894,CT#894,NHMW,,Alpigenobombus,Bombus breviceps,2017.0,Jun,25/6/2017,Vietnam,Lao Cai,23.356,103.792,1526,1526,D. Zimmermann,Worker
+895,CT#895,NHMW,,Megabombus,Bombus montivagus,2017.0,Jun,25/6/2017,Vietnam,Lao Cai,23.356,103.792,1526,1526,D. Zimmermann,Worker
+896,CT#896,NHMW,,Megabombus,Bombus montivagus,2017.0,Jun,25/6/2017,Vietnam,Lao Cai,23.356,103.792,1526,1526,D. Zimmermann,Worker
+897,CT#897,NHMW,,Megabombus,Bombus burmensis,2017.0,Jun,25/6/2017,Vietnam,Lao Cai,23.356,103.792,1526,1526,D. Zimmermann,Worker
+898,CT#898,NHMW,,Megabombus,Bombus burmensis,2017.0,Jun,22/6/2017,Vietnam,Lao Cai,22.34694,103.77222,,,D. Zimmermann,Worker
+899,CT#899,NHMW,,Megabombus,Bombus burmensis,2017.0,Jun,22/6/2017,Vietnam,Lao Cai,22.34694,103.77222,,,D. Zimmermann,Worker
+900,CT#900,NHMW,,Megabombus,Bombus burmensis,2017.0,Jun,22/6/2017,Vietnam,Lao Cai,22.34694,103.77222,,,D. Zimmermann,Worker
+901,CT#901,NHMW,,Melanobombus,Bombus rufofasciatus,1866.0,,,Myanmar,Yangon,16.87,96.2,,,Stolizka,Queen
+902,CT#902,NHMW,,Melanobombus,Bombus rufipes,1908.0,,,Indonesia,North Sulawesi,,,,,,Queen
+903,CT#903,NHMW,,Melanobombus,Bombus rufipes,,,,Indonesia,Bandjar,,,,,,Male
+904,CT#904,NHMW,,Melanobombus,Bombus rufipes,,,,Indonesia,Bandjar,,,,,,Male
+905,CT#905,NHMW,,Melanobombus,Bombus rufipes,,,,Indonesia,Bandjar,,,,,,Worker
+906,CT#906,NHMW,,Melanobombus,Bombus rufipes,,,,Indonesia,Bandjar,,,,,,Worker
+907,CT#907,NHMW,,Melanobombus,Bombus rufipes,,,,Indonesia,Bandjar,,,,,,Worker
+908,CT#908,NHMW,,Pyrobombus,Bombus lepidus,2017.0,Jun,22/6/2017,Vietnam,Lao Cai,22.34694444,103.7722222,,,D. Zimmermann,Worker
+909,CT#909,NHMW,,Pyrobombus,Bombus lepidus,2017.0,Jun,22/6/2017,Vietnam,Lao Cai,22.34694444,103.7722222,,,D. Zimmermann,Worker
+910,CT#910,NHMW,,Pyrobombus,Bombus lepidus,2017.0,Jun,22/6/2017,Vietnam,Lao Cai,22.34694444,103.7722222,,,D. Zimmermann,Worker
+911,CT#911,NHMW,,Pyrobombus,Bombus lepidus,2017.0,Jun,23/6/2017,Vietnam,Lao Cai,22.34888889,103.7702778,1900,1900,D. Zimmermann,Worker
+912,CT#912,NHMW,,Pyrobombus,Bombus lepidus,2017.0,Jun,23/6/2017,Vietnam,Lao Cai,22.34888889,103.7702778,1900,1900,D. Zimmermann,Worker
+913,CT#913,NHMW,,Pyrobombus,Bombus lepidus,2017.0,Jun,22/6/2017,Vietnam,Lao Cai,22.34694444,103.7722222,,,D. Zimmermann,Worker
+914,CT#914,NHMW,,Pyrobombus,Bombus lepidus,2017.0,Jun,23/6/2017,Vietnam,Lao Cai,22.34888889,103.7702778,1900,1900,D. Zimmermann,Worker
+915,CT#915,NHMW,,Pyrobombus,Bombus lepidus,2017.0,Jun,23/6/2017,Vietnam,Lao Cai,22.34888889,103.7702778,1900,1900,D. Zimmermann,Worker
+916,CT#916,NHMW,,Pyrobombus,Bombus lepidus,2017.0,Jun,23/6/2017,Vietnam,Lao Cai,22.34888889,103.7702778,1900,1900,D. Zimmermann,Worker
+917,CT#917,NHMW,,Pyrobombus,Bombus lepidus,2010.0,May,31/5/2010,Myanmar,Natmataung NP,21.21980556,93.94005556,2700,2700,D. Zimmermann,Worker
+918,CT#918,NHMW,,Pyrobombus,Bombus lepidus,2010.0,May,31/5/2010,Myanmar,Natmataung NP,21.21980556,93.94005556,2700,2700,D. Zimmermann,Worker
+919,CT#919,NHMW,,Pyrobombus,Bombus lepidus,2010.0,May,31/5/2010,Myanmar,Natmataung NP,21.21980556,93.94005556,2700,2700,D. Zimmermann,Worker
+920,CT#920,NHMW,,Pyrobombus,Bombus lepidus,2010.0,Jun,2/6/2010,Myanmar,Natmataung NP,21.21980556,93.94005556,2700,2700,D. Zimmermann,Male
+921,CT#921,NHMW,,Pyrobombus,Bombus lepidus,2010.0,Jun,2/6/2010,Myanmar,Natmataung NP,21.21980556,93.94005556,2700,2700,D. Zimmermann,Male
+922,CT#922,NHMW,,Pyrobombus,Bombus lepidus,2010.0,May,31/5/2010,Myanmar,Natmataung NP,21.21980556,93.94005556,2700,2700,D. Zimmermann,Worker
+923,CT#923,NHMW,,Pyrobombus,Bombus lepidus,2010.0,May,31/5/2010,Myanmar,Natmataung NP,21.23427778,93.90097222,3050,3050,D. Zimmermann,Worker
+924,CT#924,NHMW,,Pyrobombus,Bombus lepidus,2010.0,May,31/5/2010,Myanmar,Natmataung NP,21.21980556,93.94005556,2700,2700,D. Zimmermann,Worker
+925,CT#925,PHW,,Pyrobombus,Bombus flavescens,1992.0,Oct,30/10/1992,Malaysia,Gunung Jasar,4.48,101.36,1635.25,1635.25,S. Martin,Worker
+926,CT#926,PHW,,Pyrobombus,Bombus flavescens,,,,Malaysia,Gunung Tahan,4.633,102.235,2186,2186,S. Martin,Worker
+927,CT#927,PHW,,Pyrobombus,Bombus flavescens,,,,Malaysia,Gunung Tahan,4.633,102.235,2186,2186,S. Martin,Worker
+928,CT#928,PHW,,Pyrobombus,Bombus flavescens,,,,Malaysia,Gunung Tahan,4.633,102.235,2186,2186,S. Martin,Male
+929,CT#929,PHW,,Pyrobombus,Bombus flavescens,,,,Malaysia,Gunung Tahan,4.633,102.235,2186,2186,S. Martin,Male
+930,CT#930,PHW,,Pyrobombus,Bombus flavescens,1992.0,Oct,30/10/1992,Malaysia,Gunung Jasar,4.48,101.36,1635.25,1635.25,S. Martin,Worker
+931,CT#931,PHW,,Pyrobombus,Bombus flavescens,,,,Malaysia,Gunung Tahan,4.633,102.235,2186,2186,S. Martin,Worker
+932,CT#932,PHW,,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw,14.07,121.49,1400,1900,C. K. Starr,Worker
+933,CT#933,PHW,,Pyrobombus,Bombus flavescens,1986.0,Apr,27/4/1986,Philippines,Mt. Banahaw,14.07,121.49,1400,1900,C. K. Starr,Worker
+934,CT#934,NHMUK,10814937,Melanobombus,Bombus prshewalskyi,1931.0,Jul,23/7/1931,Myanmar,Adung Valley ,28.13,97.7,3657.6,3657.6,Lord Cranbrook,Worker
+935,CT#935,NHMUK,10814938,Melanobombus,Bombus prshewalskyi,1931.0,Jul,23/7/1931,Myanmar,Adung Valley ,28.13,97.7,3657.6,3657.6,Lord Cranbrook,Worker
+936,CT#936,NHMUK,10814939,Melanobombus,Bombus prshewalskyi,1931.0,Jun,24/6/1931,Myanmar,Adung Valley ,28.13,97.7,3657.6,3657.6,F. Kingdon Ward,Worker
+937,CT#937,NHMUK,10814940,Melanobombus,Bombus prshewalskyi,1931.0,May,9/5/1931,Myanmar,Adung Valley ,28.13,97.7,3657.6,3657.6,Lord Cranbrook,Worker
+938,CT#938,NHMUK,10814941,Melanobombus,Bombus prshewalskyi,1931.0,Jul,23/7/1931,Myanmar,Adung Valley ,28.13,97.7,3657.6,3657.6,Lord Cranbrook,Worker
+939,CT#939,QSBG,QSBG-2015-149-266,Orientalibombus,Bombus haemorrhoidalis,2015.0,Jul,9/7/2015,Thailand,Doi Phahompok NP,20.07688889,99.17722222,1631,1631,W. Srisuke et al.,Worker
+940,CT#940,QSBG,QSBG-2018-0166-0019,Megabombus,Bombus montivagus,2018.0,Nov,14/11/2018,Thailand,,,,,,,Worker
+941,CT#941,QSBG,QSBG-2018-0166-0018,Megabombus,Bombus montivagus,2018.0,Nov,14/11/2018,Thailand,,,,,,W. Srisuke et al.,Worker
+942,CT#942,FRIM,,Pyrobombus,Bombus flavescens,1986.0,Apr,1/4/1986,Malaysia,Cameron Highlands,4.5182965,101.3787402,,,V. P. Tho,Worker
+943,CT#943,FRIM,,Pyrobombus,Bombus flavescens,1986.0,Apr,1/4/1986,Malaysia,Cameron Highlands,4.5182965,101.3787402,,,V. P. Tho,Worker
+944,CT#944,FRIM,,Pyrobombus,Bombus flavescens,1986.0,Apr,1/4/1986,Malaysia,Cameron Highlands,4.5182965,101.3787402,,,V. P. Tho,Worker
+945,CT#945,QSBG,T5500,Alpigenobombus,Bombus breviceps,,,,Thailand,Huai Nam Dang NP,19.291164,98.60054694,,,,Worker
+946,CT#946,QSBG,T6299,Megabombus,Bombus montivagus,2007.0,Sep,17/9/2007,Thailand,Mae Wong NP ,16.120908,99.093959,,,Chumpol Piluek & Aram Inphuang,Male
+947,CT#947,QSBG,T5511,Megabombus,Bombus montivagus,2007.0,Sep,7/9/2007,Thailand,Huai Nam Dang NP,19.291164,98.60054694,1375,1375,Anuchart Thawatchai,Worker
+948,CT#948,NHMUK,10814942,Megabombus,Bombus senex,1881.0,Feb,4/2/1881,Indonesia,"Sumatra,  Mt Dempo",-4.015833,103.128333,,,H. O. Forbes,Queen
+949,CT#949,CUNHM,BSRU-AB-1257,Alpigenobombus,Bombus breviceps,2019.0,Jun,15/6/2019,Thailand,Doi Inthanon,18.54111111,98.54861111,1015,1015,N. Warrit et al.,Worker
+950,CT#950,CUNHM,BSRU-AB-1258,Orientalibombus,Bombus haemorrhoidalis,2019.0,Jun,15/6/2019,Thailand,Doi Inthanon,18.54111111,98.54861111,1015,1015,N. Warrit et al.,Worker
+951,CT#951,CUNHM,BSRU-AB-1259,Orientalibombus,Bombus haemorrhoidalis,2019.0,Jun,15/6/2019,Thailand,Doi Inthanon,18.54111111,98.54861111,1015,1015,N. Warrit et al.,Worker
+952,CT#952,CUNHM,BSRU-AB-1260,Orientalibombus,Bombus haemorrhoidalis,2019.0,Jun,17/6/2019,Thailand,Doi Inthanon,18.54111111,98.54861111,1015,1015,N. Warrit et al.,Worker
+953,CT#953,CUNHM,BSRU-AB-1261,Megabombus,Bombus montivagus,2019.0,Jun,17/6/2019,Thailand,Doi Inthanon,18.54111111,98.54861111,1015,1015,N. Warrit et al.,Worker
+954,CT#954,CUNHM,BSRU-AB-1262,Megabombus,Bombus montivagus,2019.0,Jun,17/6/2019,Thailand,Doi Inthanon,18.54111111,98.54861111,1015,1015,N. Warrit et al.,Worker
+955,CT#955,CUNHM,BSRU-AB-1263,Alpigenobombus,Bombus breviceps,2019.0,Jun,17/6/2019,Thailand,Doi Inthanon,18.54111111,98.54861111,1015,1015,N. Warrit et al.,Worker
+956,CT#956,CUNHM,BSRU-AB-1264,Orientalibombus,Bombus haemorrhoidalis,2019.0,Jun,17/6/2019,Thailand,Doi Inthanon,18.54111111,98.54861111,1015,1015,N. Warrit et al.,Worker
+957,CT#957,CUNHM,BSRU-AB-1265,Orientalibombus,Bombus haemorrhoidalis,2019.0,Jun,17/6/2019,Thailand,Doi Inthanon,18.54111111,98.54861111,1015,1015,N. Warrit et al.,Worker
+958,CT#958,CUNHM,BSRU-AB-1266,Orientalibombus,Bombus haemorrhoidalis,2019.0,Jun,17/6/2019,Thailand,Doi Inthanon,18.5272909,98.500312,1670.67,1670.67,N. Warrit et al.,Worker
+959,CT#959,CUNHM,BSRU-AB-1267,Megabombus,Bombus montivagus,2019.0,Jun,17/6/2019,Thailand,Doi Inthanon,18.5272909,98.500312,1670.67,1670.67,N. Warrit et al.,Worker
+960,CT#960,CUNHM,BSRU-AB-1268,Pyrobombus,Bombus rotundiceps,2019.0,Jun,17/6/2019,Thailand,Doi Inthanon,18.5272909,98.500312,1670.67,1670.67,N. Warrit et al.,Male
+961,CT#961,CUNHM,BSRU-AB-1269,Alpigenobombus,Bombus breviceps,2019.0,Jun,23/6/2019,Thailand,Doi Inthanon,18.5071389,98.4996389,1585,1585,C. Thanoosing et al.,Worker
+962,CT#962,CUNHM,BSRU-AB-1270,Megabombus,Bombus montivagus,2019.0,Jun,23/6/2019,Thailand,Doi Inthanon,18.5071389,98.4996389,1585,1585,C. Thanoosing et al.,Worker
+963,CT#963,CUNHM,BSRU-AB-1271,Megabombus,Bombus montivagus,2019.0,Jun,23/6/2019,Thailand,Doi Inthanon,18.5071389,98.4996389,1585,1585,C. Thanoosing et al.,Worker
+964,CT#964,CUNHM,BSRU-AB-1272,Megabombus,Bombus montivagus,2019.0,Jun,23/6/2019,Thailand,Doi Inthanon,18.5071389,98.4996389,1585,1585,C. Thanoosing et al.,Worker
+965,CT#965,CUNHM,BSRU-AB-1273,Megabombus,Bombus montivagus,2019.0,Jun,23/6/2019,Thailand,Doi Inthanon,18.5071389,98.4996389,1585,1585,C. Thanoosing et al.,Worker
+966,CT#966,CUNHM,BSRU-AB-1274,Megabombus,Bombus montivagus,2019.0,Jun,23/6/2019,Thailand,Doi Inthanon,18.5071389,98.4996389,1585,1585,C. Thanoosing et al.,Worker
+967,CT#967,CUNHM,BSRU-AB-1275,Melanobombus,Bombus eximius,2019.0,Jun,28/6/2019,Thailand,Doi Inthanon,18.58805556,98.48638889,2564,2564,C. Thanoosing et al.,Worker
+968,CT#968,CUNHM,BSRU-AB-1276,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+969,CT#969,CUNHM,BSRU-AB-1277,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+970,CT#970,CUNHM,BSRU-AB-1278,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+971,CT#971,CUNHM,BSRU-AB-1279,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+972,CT#972,CUNHM,BSRU-AB-1280,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+973,CT#973,CUNHM,BSRU-AB-1281,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+974,CT#974,CUNHM,BSRU-AB-1282,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+975,CT#975,CUNHM,BSRU-AB-1283,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+976,CT#976,CUNHM,BSRU-AB-1284,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+977,CT#977,CUNHM,BSRU-AB-1285,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+978,CT#978,CUNHM,BSRU-AB-1286,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+979,CT#979,CUNHM,BSRU-AB-1287,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+980,CT#980,CUNHM,BSRU-AB-1288,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+981,CT#981,CUNHM,BSRU-AB-1289,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+982,CT#982,CUNHM,BSRU-AB-1290,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+983,CT#983,CUNHM,BSRU-AB-1291,Alpigenobombus,Bombus breviceps,2019.0,Jun,13/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+984,CT#984,CUNHM,BSRU-AB-1292,Alpigenobombus,Bombus breviceps,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+985,CT#985,CUNHM,BSRU-AB-1293,Alpigenobombus,Bombus breviceps,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+986,CT#986,CUNHM,BSRU-AB-1294,Alpigenobombus,Bombus breviceps,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+987,CT#987,CUNHM,BSRU-AB-1295,Megabombus,Bombus montivagus,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+988,CT#988,CUNHM,BSRU-AB-1296,Megabombus,Bombus montivagus,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+989,CT#989,CUNHM,BSRU-AB-1297,Megabombus,Bombus montivagus,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+990,CT#990,CUNHM,BSRU-AB-1298,Megabombus,Bombus montivagus,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+991,CT#991,CUNHM,BSRU-AB-1299,Megabombus,Bombus montivagus,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+992,CT#992,CUNHM,BSRU-AB-1300,Orientalibombus,Bombus haemorrhoidalis,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+993,CT#993,CUNHM,BSRU-AB-1301,Megabombus,Bombus montivagus,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+994,CT#994,CUNHM,BSRU-AB-1302,Megabombus,Bombus montivagus,2019.0,Jun,16/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+995,CT#995,CUNHM,BSRU-AB-1303,Alpigenobombus,Bombus breviceps,2019.0,Jun,16/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+996,CT#996,CUNHM,BSRU-AB-1304,Alpigenobombus,Bombus breviceps,2019.0,Jun,16/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+997,CT#997,CUNHM,BSRU-AB-1305,Orientalibombus,Bombus haemorrhoidalis,2019.0,Jun,16/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+998,CT#998,CUNHM,BSRU-AB-1306,Orientalibombus,Bombus haemorrhoidalis,2019.0,Jun,16/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+999,CT#999,CUNHM,BSRU-AB-1307,Megabombus,Bombus montivagus,2019.0,Jun,16/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+1000,CT#1000,CUNHM,BSRU-AB-1308,Megabombus,Bombus montivagus,2019.0,Jun,16/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+1001,CT#1001,CUNHM,BSRU-AB-1309,Megabombus,Bombus montivagus,2019.0,Jun,16/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+1002,CT#1002,CUNHM,BSRU-AB-1310,Megabombus,Bombus montivagus,2019.0,Jun,16/6/2019,Thailand,Doi Inthanon,18.54471083,98.51793283,1289,1289,N. Warrit et al.,Worker
+1003,CT#1003,CUNHM,BSRU-AB-1311,Alpigenobombus,Bombus breviceps,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+1004,CT#1004,CUNHM,BSRU-AB-1312,Alpigenobombus,Bombus breviceps,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+1005,CT#1005,CUNHM,BSRU-AB-1313,Alpigenobombus,Bombus breviceps,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+1006,CT#1006,CUNHM,BSRU-AB-1314,Alpigenobombus,Bombus breviceps,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+1007,CT#1007,CUNHM,BSRU-AB-1315,Alpigenobombus,Bombus breviceps,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+1008,CT#1008,CUNHM,BSRU-AB-1316,Orientalibombus,Bombus haemorrhoidalis,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+1009,CT#1009,CUNHM,BSRU-AB-1317,Alpigenobombus,Bombus breviceps,2019.0,Jun,14/6/2019,Thailand,Doi Inthanon,18.5420531,98.5232391,1260,1260,N. Warrit et al.,Worker
+1010,CT#1010,CUNHM,BSRU-AA-9639,Psithyrus,Bombus bellardii,2019.0,Oct,7/10/2019,Thailand,Doi Phu Kha NP,19.19715883,101.0806418,1015.5,1015.5,N. Warrit et al.,Male
+1011,CT#1011,PHW,,Megabombus,Bombus irisanensis,2019.0,Nov,,Philippines,Barlig,17.0415,121.0993,1561,1561,Haji Pakurao,Worker
+1012,CT#1012,PHW,,Megabombus,Bombus irisanensis,2019.0,Nov,,Philippines,Barlig,17.0415,121.0993,1561,1561,Haji Pakurao,Worker
+1013,CT#1013,PHW,,Megabombus,Bombus irisanensis,2019.0,Nov,,Philippines,Barlig,17.0415,121.0993,1561,1561,Haji Pakurao,Worker
+1014,CT#1014,PHW,,Megabombus,Bombus irisanensis,2019.0,Nov,,Philippines,Barlig,17.0415,121.0993,1561,1561,Haji Pakurao,Queen
+1015,CT#1015,PHW,,Megabombus,Bombus irisanensis,2019.0,Nov,,Philippines,Barlig,17.0415,121.0993,1561,1561,Haji Pakurao,Queen
+1016,CT#1016,NMNL,ZMA.INS.758593,Pyrobombus,Bombus flavescens,1953.0,May,3/5/1953,Philippines,Mt. Canlaon,10.411667,123.131667,1828.8,1828.8,H. M. & D. Townes,Worker
+1017,CT#1017,NMNL,ZMA.INS.758594,Pyrobombus,Bombus flavescens,1953.0,May,3/5/1953,Philippines,Mt. Canlaon,10.411667,123.131667,1828.8,1828.8,H. M. & D. Townes,Worker
+1018,CT#1018,NMNL,ZMA.INS.758598,Pyrobombus,Bombus flavescens,1953.0,May,4/5/1953,Philippines,Mt. Canlaon,10.411667,123.131667,2133.6,2133.6,H. M. & D. Townes,Worker
+1019,CT#1019,NMNL,ZMA.INS.758599,Pyrobombus,Bombus flavescens,1953.0,May,4/5/1953,Philippines,Mt. Canlaon,10.411667,123.131667,2133.6,2133.6,H. M. & D. Townes,Worker
+1020,CT#1020,NMNL,ZMA.INS.758600,Pyrobombus,Bombus flavescens,1953.0,May,4/5/1953,Philippines,Mt. Canlaon,10.411667,123.131667,2133.6,2133.6,H. M. & D. Townes,Worker
+1021,CT#1021,NMNL,ZMA.INS.758634,Pyrobombus,Bombus flavescens,1953.0,May,6/5/1953,Philippines,Mt. Canlaon,10.411667,123.131667,1981.2,1981.2,H. M. & D. Townes,Male
+1022,CT#1022,NMNL,ZMA.INS.758639,Pyrobombus,Bombus flavescens,1953.0,May,6/5/1953,Philippines,Mt. Canlaon,10.411667,123.131667,1981.2,1981.2,H. M. & D. Townes,Male
+1023,CT#1023,CUNHM,BSRU-AB-9609,Pyrobombus,Bombus flavescens,2021.0,Feb,15/2/2021,Thailand,Doi Inthanon,18.5587,98.4754,2260,2260,T. Srimaneeyanon et al.,Worker
+1024,CT#1024,CUNHM,BSRU-AB-9610,Pyrobombus,Bombus flavescens,2021.0,Feb,15/2/2021,Thailand,Doi Inthanon,18.5563,98.4829,2176,2176,T. Srimaneeyanon et al.,Worker

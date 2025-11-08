@@ -1,0 +1,396 @@
+Dataset Name,Question
+co-est2002-01-05.csv,what is the distribution of the population in 2000 ?
+co-est2002-01-05.csv,can you give me the population distribution in the year 2000 ?
+co-est2002-01-05.csv,in 2000 what was the distribution of the population ?
+co-est2002-01-05.csv,can you tell me the population distribution as it was in the year 2000 ?
+co-est2002-01-05.csv,"in 2000 , what was the population distribution ?"
+co-est2002-01-05.csv,i want to know the distribution of the population in 2000
+co-est2002-01-05.csv,tell what the distribution of the population was in 2000
+co-est2002-01-05.csv,retrieve the distribution of the population in 2000 .
+co-est2002-01-05.csv,what is the population dispersal for 2000 ?
+co-est2002-01-05.csv,how was the population distributed in the year of 2000 ?
+co-est2002-01-05.csv,can you provide the population apportionment on year 2000 ?
+co-est2002-01-05.csv,show me the diffusion of the population in 2000
+co-est2002-01-05.csv,how was the population allocated in 2000 ?
+co-est2002-01-05.csv,how was the population distributed in 2000 ?
+co-est2002-01-05.csv,show me the 2000 population distribution .
+co-est2002-01-05.csv,display the 2000 population distribution numbers .
+top-50-us-universities.csv,how are the number of teachers distributed among the universities in new york ?
+top-50-us-universities.csv,what is the distribution number of teachers among new york universities ?
+top-50-us-universities.csv,show the distribution numbers of teachers in universities in new york .
+top-50-us-universities.csv,can you tell me how the number of teachers are distributed among the new york 's universities ?
+top-50-us-universities.csv,"in new york , what are the numbers of teachers distributed in the universities ?"
+top-50-us-universities.csv,how are the amount of teachers dispersed among new york universities ?
+top-50-us-universities.csv,what is the teacher number distribution among the new york universities ?
+top-50-us-universities.csv,what is the distribution of teachers among all the universities in new york ?
+top-50-us-universities.csv,"in new york , what is the number of teachers distributed across the universities ?"
+top-50-us-universities.csv,what is the teacher distribution of new york universities ?
+top-50-us-universities.csv,what are the number of teachers distributed among the universities in the state of new york ?
+top-50-us-universities.csv,"across the universities in new york , can you tell me the amount of teachers distributed among them ?"
+top-50-us-universities.csv,tell me what is the number of teachers distributed in the universities in new york ?
+top-50-us-universities.csv,how are teachers distributed in new york universities ?
+top-50-us-universities.csv,show me the number of teachers that have been distributed among the universities in new york .
+top-50-us-universities.csv,can you tell me the amount of teachers spreaded out among new york universities ?
+co-est2002-01-05.csv,illustrate the distribution of the population of ashley across the five years .
+co-est2002-01-05.csv,can you illustrate how the population of ashley are distributed across the five years .
+co-est2002-01-05.csv,show the distribution of the population of ashley across a five year span .
+co-est2002-01-05.csv,show the distribution of the population in ashley across five years
+co-est2002-01-05.csv,show me how the population of ashley was distributed during the last five years .
+co-est2002-01-05.csv,explain how the population of ashley is distributed over five years .
+co-est2002-01-05.csv,show me a chart of the population distribution of ashley over the last five years .
+co-est2002-01-05.csv,how can the population of ashley be illustrated to show distribution across five years ?
+co-est2002-01-05.csv,show the distribution of ashley populations over a 5 year period .
+co-est2002-01-05.csv,demonstrate the dispersion of the population of ashley from the past five years .
+co-est2002-01-05.csv,show me the distribution of the population over 5 years of ashley ?
+co-est2002-01-05.csv,we want the distribution of the population of ashley for five years .
+co-est2002-01-05.csv,draw the population distribution of ashleys across the five years .
+co-est2002-01-05.csv,what is the distribution of the population of ashley in the past five years ?
+co-est2002-01-05.csv,show what the distribution of the population of ashley looks like for five years
+co-est2002-01-05.csv,draw the dispersal of ashley 's population over a five year period .
+co-est2002-01-05.csv,"if i was born in 2000 , what is the probability of me being born in a county with no less than 20,000 people ?"
+co-est2002-01-05.csv,"how likely is that i was born in a country with more than 20,000 people if i was born in the year 2000 ?"
+co-est2002-01-05.csv,"what is the probability of me being born in a county with 20,000 people or more if i was born in 2000 ?"
+co-est2002-01-05.csv,"how likely is it that i was born in a country with less than 20,000 people , if i was born in 2000 ?"
+co-est2002-01-05.csv,"if i was born in 2000 , can you tell me the probability of me being born in a county with no less than 20,000 people ?"
+co-est2002-01-05.csv,"what is the probablility of me being born in the year 2000 in a country with a population of 20,000 people ?"
+co-est2002-01-05.csv,"how likely is it that , if i was born in 2000 , i was born in a county with no less than 20,000 people ?"
+co-est2002-01-05.csv,"what are the odds of me being born in a country with a population greater than 20,000 people if i was born in the year 2000 ?"
+co-est2002-01-05.csv,"being born in 2000 , what is the probability of me being born in a county with more than 20,000 people ?"
+co-est2002-01-05.csv,"give me the probability of me being born in a county with a minimum of 20,000 people if i was born in the year 2000 ."
+co-est2002-01-05.csv,"assuming my birth year is 2000 , can you tell me the probability of my being born in a country with 20,000 people or more ?"
+co-est2002-01-05.csv,"what are the odds of a person being born in 2000 to be in a county with more than 20,000 inhabitants ?"
+co-est2002-01-05.csv,"can you tell me what the probability is of me being born in the year 2000 in a country with no less than 20,000 people ?"
+co-est2002-01-05.csv,"tell me if i was born in 2000 , i would have the probability of being born in a country with no less than 20,000 people"
+co-est2002-01-05.csv,"since i was born in the year 2000 , what is the chance i will be born in a county with a population of less than 20,000 ?"
+World Happiness Report 2015.csv,which region has had a huge increase in the happiness score in the last ten years ?
+World Happiness Report 2015.csv,"in the last decade , tell me the region that had a huge increase in the happiness score ."
+World Happiness Report 2015.csv,"in the last decade , which area has had a large increase in the happiness score ?"
+World Happiness Report 2015.csv,"in the last ten years , what region has seen a massive incline in the happiness score ?"
+World Happiness Report 2015.csv,"in the last ten years , what region has shown a sharp increase in the happiness score ?"
+World Happiness Report 2015.csv,the happiness score has increased the most in which region in the last ten years ?
+World Happiness Report 2015.csv,"over the last ten years , what region has shown a huge increase in the happiness score ?"
+World Happiness Report 2015.csv,"in the last ten years , what region can be found to have the highest increase in happiness score ?"
+World Happiness Report 2015.csv,"with regard to the happiness score , in the last ten years which region has had the largest increase ?"
+World Happiness Report 2015.csv,"in the last ten years , can you tell me the region that has had a huge increase in the happiness score ?"
+World Happiness Report 2015.csv,what area had a huge increase in the happiness score in the last decade ?
+World Happiness Report 2015.csv,over the past decade which location has had a massive increase in happiness score ?
+World Happiness Report 2015.csv,identify the region with a large increase in happiness score in the last decade .
+World Happiness Report 2015.csv,a large increase in the happiness score in the last ten years has been in what region ?
+World Happiness Report 2015.csv,where in the last ten years has the happiness score largely increased ?
+World Happiness Report 2015.csv,show me the area that has sustained an increase in their happiness score within the last 10 years .
+World Happiness Report 2015.csv,which area had a large increase in happiness over the last 10 years ?
+World Happiness Report 2015.csv,where has the happiness score increased massively in the last 10 years ?
+World Happiness Report 2015.csv,"in the previous decade , in which area did the happiness score increase quickly ?"
+World Happiness Report 2015.csv,what area saw a rapid increase in the happiness score in the last decade ?
+World Happiness Report 2015.csv,which area has had a rapid increase in the happiness score over the last decade ?
+World Happiness Report 2015.csv,tell me the area where the happiness score increased quickly in the last decade .
+World Happiness Report 2015.csv,"which area , in the previous decade , has had the fastest increase in the happiness score ?"
+World Happiness Report 2015.csv,over the past 10 years which place had a rapid increase in happiness score ?
+World Happiness Report 2015.csv,which area had it 's hapiness score increased quickly in the last ten years ?
+World Happiness Report 2015.csv,during the last 10 years what region had a rapid increase in happiness ?
+World Happiness Report 2015.csv,"in the last decade , what area shows a quick increase in their happiness score ?"
+World Happiness Report 2015.csv,"during the last ten years , where was there a rapid upswing in happiness scores ?"
+World Happiness Report 2015.csv,in what area did he happiness score increase quickly over the prior decade ?
+World Happiness Report 2015.csv,"historically ( within the last decade ) , which region had a rapid increase in happiness score ?"
+World Happiness Report 2015.csv,over the last 10 years was there a particular region or district that had a rapid increase in the happiness score ?
+World Happiness Report 2015.csv,can you tell me the area in the previous decade that increased rapidly in the happiness score ?
+World Happiness Report 2015.csv,where did the happiness score increase quickly in the past decade ?
+top-movies.csv,what has changed in terms of the revenue from the harry potter movies ?
+top-movies.csv,can you tell me what has changed in the terms of revenue from the harry potter movies ?
+top-movies.csv,"regarding the harry potter films , what has changed about the revenue ?"
+top-movies.csv,how has the revenue from the harry potter movies changed ?
+top-movies.csv,how have the terms of the revenues from the harry potter movies changed over time ?
+top-movies.csv,can you please identify what has changed with the revenue from the harry potter movies ?
+top-movies.csv,can you inform me on what has changed in terms of the revenue from the harry potter movies ?
+top-movies.csv,"when looking back , could you tell me how the revenue from the harry potter movie franchise changed over time ?"
+top-movies.csv,how have the terms of revenue from the harry potter movies changed ?
+top-movies.csv,how has the revenue changed from all of the harry potter movies ?
+top-movies.csv,how has the revenue from the harry potter movies fluctuated over time ?
+top-movies.csv,"has the revenue from the harry potter movies changed and if so , what has changed ?"
+top-movies.csv,what aspects have altered regarding the money being produced from the harry potter movies ?
+top-movies.csv,have the harry potter movies seen a change in revenue ?
+top-movies.csv,has something changed in terms of the revenue from the harry potter movies
+top-movies.csv,"what is different , as far as income goes , in the harry potter movie franchise ?"
+top-movies.csv,how is the revenue from the harry potter films different ?
+top-movies.csv,how has harry potter fared in revenue from time to time ?
+top-movies.csv,what has changed in the managment of gross from the harry potter movies ?
+netflix_titles.csv,determine the distribution of countries that have produced movies in the map .
+netflix_titles.csv,figure out which countries have produced movies in the map .
+netflix_titles.csv,look at the map and determine the distribution of movie -producing countries .
+netflix_titles.csv,show me countries that have produced movies in the map .
+netflix_titles.csv,show a distribution on the map of countries where movies have been produced
+netflix_titles.csv,what is the map distribution of countries that have produced movies ?
+netflix_titles.csv,what is the distribution of counties that have produced movies in the map ?
+netflix_titles.csv,what is the distribution of countries that have produced movies in the map ?
+netflix_titles.csv,please show me in the map the distribution of countries that have produced movies .
+netflix_titles.csv,what are the distribution of countries that have produced movies ?
+netflix_titles.csv,retrieve the distribution of countries that have produced movies in the map .
+netflix_titles.csv,show me a map providing the distribution of movies within each country .
+netflix_titles.csv,what is the distribution of countries that have produced movies on the map ?
+netflix_titles.csv,what is the distribution of movies produced per country ?
+netflix_titles.csv,identify which nations have produced films upon the map .
+Suicide.csv,characterize the distribution of the ages of individuals who died by suicide in albania .
+Suicide.csv,describe the age distribution of people that committed suicide in albania .
+Suicide.csv,group together the ages of people who committed suicide in albania .
+Suicide.csv,what are the characterizations of the age distribution for suicides in albania .
+Suicide.csv,describe the distribution of the ages of individuals who died by suicide in albania ?
+Suicide.csv,describe as best you can the distribution of ages of folks who committed suicide in albania .
+Suicide.csv,characterize the distribution of the ages of people who have passed away by suicide in albania .
+Suicide.csv,what are the ages of individuals who died via suicide in albania as a distribution ?
+Suicide.csv,what is the distribution of the ages of individuals who died by suicide in albania ?
+Suicide.csv,list the ages of the people who died in albania by suicide .
+Suicide.csv,establish the age ranges of people from albania who died of suicde .
+Suicide.csv,what are the age ranges of suicides in albania ?
+Suicide.csv,create a list showing the ages of people who committed suicide in albania .
+Suicide.csv,in albania what is the age range of individuals who committed suicide ?
+Suicide.csv,how would you describe the range of ages of people who committed suicide in albania ?
+Suicide.csv,determine the distribution of ages in albania with the number of suicides larger than 100 .
+Suicide.csv,figure out the distribution of ages in albania with the volume of suicides greater than 100 .
+Suicide.csv,give me the distribution of ages in albania with the number of suicides larger than 100 .
+Suicide.csv,provide the age distribution of suicides in albania when the number of suicides are greater than 100 .
+Suicide.csv,determine the distribution of ages in albania to find the number of suicides larger than 100 .
+Suicide.csv,find the distribution of ages in albania more than 100 suicides .
+Suicide.csv,what is the determined ages in albania with the number of suicides larger than 100 ?
+Suicide.csv,"if larger than 100 , what was the distribution of suicide ages in albania ?"
+Suicide.csv,establish the age ranges of people in albania with more than 100 suicides .
+Suicide.csv,show me a list of suicides larger than 100 in albania sorted by ages .
+Suicide.csv,"with the suicide larger than 100 , determine the ages in albania ."
+Suicide.csv,decide the conveyance of ages in albania with the quantities of suicide bigger thatn 100 .
+Undergraduate_Postgraduate.csv,display the national distribution of postgraduate students in 2001 .
+Undergraduate_Postgraduate.csv,show the national distribution of postgraduate students in 2001 .
+Undergraduate_Postgraduate.csv,display students national distribution from post grads in 2001
+Undergraduate_Postgraduate.csv,show me the 2001 national distribution of postgraduate students .
+Undergraduate_Postgraduate.csv,show the distribution of postgraduate students in 2001 across the country .
+Undergraduate_Postgraduate.csv,show me the distribution of postgraduate students within the nation in the year 2001 .
+Undergraduate_Postgraduate.csv,"for 2001 , draw the national distribution of postgraduate students ."
+Undergraduate_Postgraduate.csv,show me postgraduate students in 2001 in the national distribution
+Undergraduate_Postgraduate.csv,can you chart the nations distribution of postgraduates from 2001
+Undergraduate_Postgraduate.csv,what was the national distribution of postgraduate students in 2001 ?
+Undergraduate_Postgraduate.csv,"for postgraduate students in 2001 , what is the national distribution ?"
+Undergraduate_Postgraduate.csv,what is the national distribution of postgraduate students in 2001 ?
+life-expectancy-by-state.csv,can you tell me the distribution of the number of vehicles in asian countries ?
+life-expectancy-by-state.csv,"in asian countries , what is the distribution of the number of vehicles ?"
+life-expectancy-by-state.csv,what is the distribution of the number of vehicles in asian countries ?
+life-expectancy-by-state.csv,"in asian countries , show me the distribution of the number of vehicles in countries in asia ."
+life-expectancy-by-state.csv,what is the distribution number of vehicles in asian countries ?
+life-expectancy-by-state.csv,"in asian countries , what 's the distribution like for the number of vehicles ?"
+life-expectancy-by-state.csv,"in asian countries , what is the distribution of number of vehicles ."
+life-expectancy-by-state.csv,"when it comes to asia , what is the distribution of the number of vehicles among the various countries located there ?"
+life-expectancy-by-state.csv,what are the numbers for distribution of vehicles in asian countries ?
+life-expectancy-by-state.csv,rank the asian countries by the distribution of the number of vehicles each one has .
+life-expectancy-by-state.csv,what is the statistical distribution for vehicles throughout asia ?
+life-expectancy-by-state.csv,what is the number of vehicles dispersed throughout asian countries ?
+life-expectancy-by-state.csv,what is the distribution range of the various vehicles found in asian countries ?
+life-expectancy-by-state.csv,what is the number of vehicles asian countries distribute ?
+life-expectancy-by-state.csv,what are the number of vehicles distributed in asian countries ?
+life-expectancy-by-state.csv,explain how the number of vehicles is distributed in asian countries .
+life-expectancy-by-state.csv,tell me the distribution of vehicles from asian countries .
+life-expectancy-by-state.csv,do you feel that the male–female ratio in russia has become more imbalanced in the last decade ?
+life-expectancy-by-state.csv,"during the last ten years , has the male -female ration in russia become more imbalanced ?"
+life-expectancy-by-state.csv,do you feel that there has been an imbalance in the ratio of males to females in russia in the last decade ?
+life-expectancy-by-state.csv,do you think russia 's male -female ratio has become imbalanced in the past decade ?
+life-expectancy-by-state.csv,is the male to female ratio more imbalanced in the last decade in russia ?
+life-expectancy-by-state.csv,"in the last decade , has the male to female population rate become further imbalanced in russia ?"
+life-expectancy-by-state.csv,"in your opinion , do you believe that the ratio between women and males in russia has become unequal in the past decade ?"
+life-expectancy-by-state.csv,"in russia , was the gender imbalances ratio increasing in the past ten years ?"
+life-expectancy-by-state.csv,does it seem like the ratio of men to women in russia become tilted in the last 10 years ?
+life-expectancy-by-state.csv,is the imbalance of male -female ratio in russia grown in the last decade ?
+life-expectancy-by-state.csv,has the ratio of men to women in russia become increasingly imbalanced over the last ten years ?
+life-expectancy-by-state.csv,"in the last ten years , has the ratio of males to females in russia gone further away from 1 to 1 ."
+life-expectancy-by-state.csv,"in regards to russia , has the male -female ratio become more imbalanced in the last decade ?"
+life-expectancy-by-state.csv,has the relationship between the number of males and females in russia become more unequal during the last ten years ?
+life-expectancy-by-state.csv,has the male -female ration in russia become more imbalanced in the last decade ? explain your answer .
+life-expectancy-by-state.csv,has the male -female ratio increased in the last decade in russia ?
+life-expectancy-by-state.csv,what is your opinion of the male -female ratio in russia in the last decade ?
+life-expectancy-by-state.csv,do you observe an increase in the imbalance of the male -female ratio in russia in the last 10 years ?
+grade-records.csv,does this table show anything about the distribution of students who received an f ?
+grade-records.csv,does this table contain any information about the distribution of people who got an f ?
+grade-records.csv,does this table reveal anything about the dispersal of students who were given an f ?
+grade-records.csv,what does the table show about the distribution of students who earned an f ?
+grade-records.csv,is there any information in this table regarding students who received an f and their dispersion ?
+grade-records.csv,what can this table show us about the distribution of students who received an f ?
+grade-records.csv,can this table reveal information regarding the distribution of pupils who received a failing grade ?
+grade-records.csv,what does the table show about the distribution of f receiving students ?
+grade-records.csv,can you tell anything about the distribution of students who received an f using this table ?
+grade-records.csv,what does this table show us about the distribution of students who failed ?
+grade-records.csv,use the table to identify any trends among f students .
+grade-records.csv,evaluate this table and determine if there is information regarding the distribution of students who received a failing grade .
+grade-records.csv,what is the distribution of students who recieved an f ?
+grade-records.csv,are students who received an f represented in this table ?
+grade-records.csv,where on the table can i see the students who received an f ?
+births.csv,what is the birth distribution of the different districts in 2017 ?
+births.csv,show me the 2017 birth distributions for the different districts .
+births.csv,show me the distribution of births in different districts in 2017 .
+births.csv,"in 2017 , what was the distribution of birth of the different districts ?"
+births.csv,show me the distribution of births across all districts in 2017 .
+births.csv,show the birth distribution for 2017 in the different districts .
+births.csv,"in 2017 , show the birth distribution of the different districts ."
+births.csv,how were births distributed across the various districts in 2017 ?
+births.csv,show me the birth distribution of the different districts in 2017 .
+births.csv,determine the distribution of births across districts for 2017 .
+births.csv,in 2017 what was the distribution of birth of different districts ?
+births.csv,what is the difference between birth distribution in 2017 in differnt districts .
+births.csv,tell me the birth distribution of different districts for the year 2017 .
+births.csv,the distribution of births in each district was how many in 2017 ?
+births.csv,please tell me the distribution of birth in 2017 of the different districts is .
+births.csv,can you tell the for 2017 the birth distributions of the different districts ?
+top250-00-19.csv,how is the age of transferred players distributed in the premier league ?
+top250-00-19.csv,how does the premier league distribute the transferred players by age ?
+top250-00-19.csv,tell me how the age of transferred players are distributed in the premier league .
+top250-00-19.csv,"in the premier league , how do they distribute the age of transferred players ?"
+top250-00-19.csv,can you tell me how transferred players ' age is distributed in the premier league ?
+top250-00-19.csv,in the premium league how are transferred players age distributed
+top250-00-19.csv,"in the premier league , how are the transferred players ' age distributed ?"
+top250-00-19.csv,in the premier league how are the transferred players ages distributed ?
+top250-00-19.csv,what is the age distribution of transferred players in the premier league ?
+top250-00-19.csv,show me how the age of transferred players is distributed in the premier league .
+top250-00-19.csv,how do you distribute age of transferred players in the premier league ?
+top250-00-19.csv,"in the premier league , how do the distribute transferred players based on age ?"
+top250-00-19.csv,show me a distribution of premier league players who have been transferred by age
+top250-00-19.csv,show me the distribution of ages among the player in the premier league .
+top250-00-19.csv,what is the average age of transferred players in the premier league ?
+top250-00-19.csv,determine the distribution of the leagues who paid for transferred players in 2010 .
+top250-00-19.csv,what is the distribution of the leagues who paid for transferred players in 2010 ?
+top250-00-19.csv,what is the distribution of leagues who paid for transferred players in 2010 ?
+top250-00-19.csv,"in 2010 , what was the distribution of leagues who paid for transferred players ?"
+top250-00-19.csv,what is the distribution of leagues who paid for transferred players in the year 2010 ?
+top250-00-19.csv,what is the distribution of leagues in 2010 who paid for transferred players ?
+top250-00-19.csv,please determine the distribution of the league who paid for transferred players in 2010 .
+top250-00-19.csv,what was the distribution of the leagues that played for transferred players in 2010 ?
+top250-00-19.csv,retrieve the distributions of the leagues who paid for transferred players in 2010 .
+top250-00-19.csv,can you show me the distribution of the leagues who paid for transferred players in 2010 ?
+top250-00-19.csv,"in leagues who paid for transferred players in 2010 , what was the distribution of the leagues ?"
+top250-00-19.csv,find the distribution of the leagues who paid for transferred players in 2010 .
+top250-00-19.csv,identify the leagues who paid for transferred players in 2010
+top250-00-19.csv,find out the distribution of leagues that in 2010 paid for transferred players .
+top250-00-19.csv,establish the amount of leagues that paid for players to be transferred in 2010 .
+top250-00-19.csv,show the distribution of the leagues who have paid for transferred players in 2010 .
+golden_globe_awards.csv,"among all the final winners in the 60th ceremony , what is the gender distribution of these actors ?"
+golden_globe_awards.csv,what was the gender distribution of all the final winners at the 60th ceremony .
+golden_globe_awards.csv,please tell me the gender distribution of all the actors who were final winners during the 60th ceremony .
+golden_globe_awards.csv,what is the gender distribution of all the final winners in the 60th ceremony ?
+golden_globe_awards.csv,what is the gender distribution of all of the actors who won awards in the 60th ceremony ?
+golden_globe_awards.csv,"looking at all the final winners in the 60th ceremony , tell me the gender distribution of all the actors ."
+golden_globe_awards.csv,what is the gender distribution of these actors amongst all the final winners at the 60th ceremony ?
+golden_globe_awards.csv,what is the distribution of the gender of all final winners in the 60th ceremony ?
+golden_globe_awards.csv,"for the actors in the 60th ceremony that won , please provide the gender distribustion ."
+golden_globe_awards.csv,what was the gender of all actors among all the final winners in the 60th ceremony ?
+golden_globe_awards.csv,"in the 60th ceremony , what was the gender distribution of all final winners ?"
+golden_globe_awards.csv,"in the group ao all the final winners in the 60th ceremony , what is the gender distribution of these actors ?"
+golden_globe_awards.csv,retrieve the actor gender distribution of the final winners in the 60th ceremony .
+golden_globe_awards.csv,what is the gender distribution of the winners in the 60th century ?
+golden_globe_awards.csv,how many of each gender won awards at the 60th ceremony ?
+golden_globe_awards.csv,"amongst all the final winners in the 60th ceremony , what is the gender ratio of these actors ?"
+golden_globe_awards.csv,what is the male \female ratio of award winners at the 60th ceremony ?
+googleplaystore.csv,what kind of distribution do the package sizes of the gaming apps have ?
+googleplaystore.csv,tell me what kind of distribution the package sizes of the gaming apps have .
+googleplaystore.csv,show the kind of distribution this package sizes of the gaming apps have .
+googleplaystore.csv,what type of distribution do the package sizes of the gaming apps have ?
+googleplaystore.csv,tell me the manner of distribution that the package sizes of gaming apps have .
+googleplaystore.csv,tell me about the distribution of the package sizes of the gaming apps
+googleplaystore.csv,show me the kind of distribution do the package sizes of the gaming apps have
+googleplaystore.csv,what is the type of distribution of the gaming apps package sizes ?
+googleplaystore.csv,could you tell me about the package sizes distribution of the gaming apps ?
+googleplaystore.csv,tell me the distribution of the package sizes of gaming apps .
+googleplaystore.csv,how are package sizes of the gaming apps distributed ?
+googleplaystore.csv,what is the package size distribution of gaming apps ?
+googleplaystore.csv,how do they disperse the package sizes of the gaming apps ?
+googleplaystore.csv,how are package sizes of gaming apps being distributed ?
+googleplaystore.csv,elaborate on which type of distribution do packing sizes of gaming apps have
+Genetic disease.csv,what is the value distribution of deaf -blind patients ?
+Genetic disease.csv,determine the value distribution of deaf -blind patients .
+Genetic disease.csv,please indicate the value distribution of deaf -blind patients .
+Genetic disease.csv,could you indicate the distribution of values of patients who are deaf -blind ?
+Genetic disease.csv,please show me the value distribution of deaf -blind patients ?
+Genetic disease.csv,please provide the value distribution for all patients who are included in deaf -blind .
+Genetic disease.csv,provide the value distribution of patients who are deaf -blind .
+Genetic disease.csv,show me the value distribution of the deaf -blind patients .
+Genetic disease.csv,"for deaf -blind patients , what is the value distribution ?"
+Genetic disease.csv,show me the value distribution of deaf -blind patients
+Genetic disease.csv,can you tell me the value distribution of deaf -blind patients ?
+Genetic disease.csv,"regarding deaf -blind patients , what 's the distribution value ?"
+Genetic disease.csv,find me the value distribution of deaf -blind patients .
+Genetic disease.csv,deaf -blind patients have what value distribution ?
+Genetic disease.csv,calculate the distribution of deaf -blind patients .
+Genetic disease.csv,"in deaf -blind patients , how is the value distributed ?"
+Genetic disease.csv,show me the value placement of deaf -blind patients
+HFS.csv,show me the distribution of the population ratio binned with a bin size of 0.5 .
+HFS.csv,retrieve the distribution of the population ratio binned with a bin size of 0.5
+HFS.csv,list distribution of the population ratio based on bin size of 0.5 .
+HFS.csv,what is the distribution of the population ratio binned with a bin size of 0.5 .
+HFS.csv,whats the distribution of 0.5 bin sized population ratio ?
+HFS.csv,"while considering a bin size of 0.5 , what is the distribution of the population ratio binned ?"
+HFS.csv,can you tell me the distribution of the population ratio binned with in a size of 0.5
+HFS.csv,what is the binned data on population distribution when using a bin size of 0.5 ?
+HFS.csv,can you tell me the distribution of the population ratio binned with a bin size of 0.5 ?
+HFS.csv,can i see the distribution of population ration binned with the bin size of 0.5 ?
+HFS.csv,"with the bin size of 0.5 , list the population ratio binned ."
+HFS.csv,what is the distribution of the population ratio with a bin size of 0.5 .
+HFS.csv,where is the population ratio distributed with a bin size of 0.5 ?
+HFS.csv,with a bin size of 0.5 how is the population distributed ?
+HFS.csv,the population ratio binned with a bin size of 0.5 has to be displayed .
+HFS.csv,if the bin size is 0.5 what would the distribution of poplulation ration be ?
+HFS.csv,show the population ratio with bin size of 0.5
+schools.csv,i want to see the distribution of the school rankings in geita in 2006 .
+schools.csv,i would like to read the distribution in school rankings for geita in the year 2006 .
+schools.csv,show me the 2006 distribution of school rankings in geita .
+schools.csv,plot a distribution of all 2006 school rankings within geita .
+schools.csv,show me a distribution of the school rankings in the region of geita in the year 2006 .
+schools.csv,"in 2006 , what was the distribution of the school rankings in geita ?"
+schools.csv,show the distribution of school rankings in geita for the year 2006
+schools.csv,"in 2006 , what was the school ranking distribution for geita ?"
+schools.csv,show me the distribution of the school rankings in geita in 2006 .
+schools.csv,tell me what 's the distribution of the school rankings in geita in 2006 is .
+schools.csv,show the 2006 school rankings distribution in geita .
+schools.csv,what is the distribution of school ranking in geita from 2006 ?
+schools.csv,show the distribution of the schools in geita by rank in 2006 .
+schools.csv,"for 2006 in geita , which is the distribution of the school rankings ?"
+schools.csv,can you show me the distribution of the school rankings in geita in 2006 ?
+schools.csv,show me the school ranking distribution from 2006 in geita .
+schools.csv,please find the 2006 geita school ranking distributions .
+schools.csv,indicate the distribution of school ownership in geita in 2006 .
+schools.csv,what was the distribution of school ownership in geita in 2006 ?
+schools.csv,what is the distribution in geita of school ownership in the year 2006 ?
+schools.csv,"in 2006 , what was the distribution of school ownership in geita ?"
+schools.csv,find the distribution in 2006 of geita 's school ownership .
+schools.csv,show me the school ownership distribution in geita for the year 2006
+schools.csv,point out the distribution of school ownership in geita in 2006 .
+schools.csv,in 2006 what was the school ownership distribution in geita ?
+schools.csv,show me the ownership distribution of schools in geita in 2006 .
+schools.csv,please determine the distribution of school ownership for geita in the year 2006 .
+schools.csv,what was the 2006 school ownership distribution in geita ?
+schools.csv,"for geita in 2006 , which is the distribution of school ownership ?"
+schools.csv,retrieve the distribution of school ownership in geita in 2006 .
+schools.csv,show me the school ownership distribution from 2006 in geita .
+schools.csv,what is the school owner distribution from geita in the year 2006 ?
+schools.csv,please provide a summary of school ownership in geita from 2006 .
+schools.csv,plot the distribution of ownership for each school in geita in 2006 .
+avocado.csv,show the distribution of the sales of type 4046 in 2015 .
+avocado.csv,please display the distribution of the sales of type 4046 in 2015 .
+avocado.csv,"in 2015 , what was the distribution of the sales of type 4046 ?"
+avocado.csv,"for the year 2015 , show the distribution of the sales of type 4046 ."
+avocado.csv,"in 2015 , what was the sales distribution of type 4046 ?"
+avocado.csv,we are looking for the distribution of type 4046 sales from 2015 .
+avocado.csv,provide the type 4046 distribution of sales for 2015 .
+avocado.csv,can you tell me the sales distribution of type 4046 in 2015
+avocado.csv,provide the distribution of the sales in 2015 of type 4046 .
+avocado.csv,what is the distribution of the sales for type 4046 in 2015 ?
+avocado.csv,what is the distribution of the sales of type 4046 in 2015 .
+avocado.csv,what is the distribution of sales of type 4046 in 2015 ?
+avocado.csv,display the sales of type 4046 that was distributed in 2015 .
+avocado.csv,create a graph showing the distribution of the sales for type 4046 in 2015 .
+avocado.csv,provide the allocation of sales for 4046 in 2015 .
+avocado.csv,please inform us about the sales distribution of type 4046 in 2015 .
+avocado.csv,what is the distribution of the sales of type 4046 in 2025 .
+bike.csv,what is the distribution of the travel time between wells st & elm st and lake shore dr & ohio st ?
+bike.csv,tell me the distribution of travel times between wells st & elm st and lake shore dr & ohio st
+bike.csv,show me the time distribution between lake shore drive and ohio street with wells street and elm street .
+bike.csv,tell me the travel time distribution between wells st & elm st and lake shore dr & ohio st .
+bike.csv,can you tell me the distribution of the travel time between wells st & elm st and lake shore dr & ohio st ?
+bike.csv,please explain the distribution of travel times between wells st & elm st and lake shore dr & ohio st .
+bike.csv,"for wells st & elm st , and lake shore dr & ohio st , determine the distribution of travel time between locations ."
+bike.csv,provide the range of the travel times between wells st & elm st and lake shore dr & ohio st .
+bike.csv,please compare the travel time distribution between wells st & elm st and lake shore dr & ohio st .
+bike.csv,"from wells st & elm st and lake shore dr and ohio st , what is the distribution of all the travel times ?"
+bike.csv,please give me the distribution of travel time between lake shore dr and ohio street and wells st and elm st .
+bike.csv,how are the transit times dispersed from the following locations in order of wells st to elm st and lake shore dr to ohio st ?

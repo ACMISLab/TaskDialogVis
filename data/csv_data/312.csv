@@ -1,0 +1,692 @@
+sort_name,clean_name,album,rank_2003,rank_2012,rank_2020,differential,release_year,genre,type,weeks_on_billboard,peak_billboard_position,spotify_popularity,spotify_url,artist_member_count,artist_gender,artist_birth_year_sum,debut_album_release_year,ave_age_at_top_500,years_between,album_id
+"Sinatra, Frank",Frank Sinatra,In the Wee Small Hours,100.0,101.0,282.0,-182,1955,Big Band/Jazz,Studio,14.0,2,48.0,spotify:album:3GmwKB1tgPZgXeRJZSm9WX,1.0,Male,1915.0,1946.0,40.0,9.0,3GmwKB1tgPZgXeRJZSm9WX
+"Diddley, Bo",Bo Diddley,Bo Diddley / Go Bo Diddley,214.0,216.0,455.0,-241,1955,Rock n' Roll/Rhythm & Blues,Studio,,201,50.0,spotify:album:1cbtDEwxCjMhglb49OgNBR,1.0,Male,1928.0,1955.0,27.0,0.0,1cbtDEwxCjMhglb49OgNBR
+"Presley, Elvis",Elvis Presley,Elvis Presley,55.0,56.0,332.0,-277,1956,Rock n' Roll/Rhythm & Blues,Studio,100.0,1,58.0,spotify:album:7GXP5OhYyPVLmcVfO9Iqin,1.0,Male,1935.0,1956.0,21.0,0.0,7GXP5OhYyPVLmcVfO9Iqin
+"Sinatra, Frank",Frank Sinatra,Songs for Swingin' Lovers!,306.0,308.0,,-195,1956,Big Band/Jazz,Studio,,2,62.0,spotify:album:4kca7vXd1Wo5GE2DMafvMc,1.0,Male,1915.0,1946.0,41.0,10.0,4kca7vXd1Wo5GE2DMafvMc
+Little Richard,Little Richard,Here's Little Richard,50.0,50.0,227.0,-177,1957,,Studio,5.0,13,64.0,spotify:album:18tV6PLXYvVjsdOVk0S7M8,1.0,Male,1932.0,1957.0,25.0,0.0,18tV6PLXYvVjsdOVk0S7M8
+Beyonce,Beyonce,Lemonade,,,32.0,469,2016,,Studio,87.0,1,73.0,spotify:album:7dK54iZuOxXFarGhXwEXfF,1.0,Female,1981.0,2003.0,35.0,13.0,7dK54iZuOxXFarGhXwEXfF
+"Winehouse, Amy",Amy Winehouse,Back to Black,,451.0,33.0,468,2006,Soul/Gospel/R&B,Studio,173.0,2,67.0,spotify:album:097eYvf9NKjFnv4xA9s2oV,1.0,Female,1983.0,2003.0,23.0,3.0,097eYvf9NKjFnv4xA9s2oV
+Crickets,Buddy Holly,"The ""Chirping"" Crickets",421.0,420.0,,-80,1957,Rock n' Roll/Rhythm & Blues,Studio,,201,47.0,spotify:album:1KfXNUbZrdwHMtkAGNBLBq,4.0,Male,7752.0,1957.0,19.0,0.0,1KfXNUbZrdwHMtkAGNBLBq
+"Bush, Kate",Kate Bush,Hounds of Love,,,68.0,433,1985,,Studio,27.0,30,75.0,spotify:album:5G5UwqPsxDKpxJLX4xsyuh,1.0,Female,1958.0,1978.0,27.0,7.0,5G5UwqPsxDKpxJLX4xsyuh
+"Davis, Miles",Miles Davis,Kind of Blue,12.0,12.0,31.0,-19,1959,Big Band/Jazz,Studio,,201,52.0,spotify:album:1weenld61qoidwYuZ1GESA,1.0,Male,1926.0,1951.0,33.0,8.0,1weenld61qoidwYuZ1GESA
+"Coltrane, John",John Coltrane,Giant Steps,102.0,103.0,232.0,-130,1959,Big Band/Jazz,Studio,,201,36.0,spotify:album:6NkgPYCMAzttRIKDpuJrFp,1.0,Male,1926.0,1957.0,33.0,2.0,6NkgPYCMAzttRIKDpuJrFp
+Beyonce,Beyonce,Beyonce,,,81.0,420,2013,,Studio,186.0,1,75.0,spotify:album:2UJwKSBUz6rtW4QLK74kQu,1.0,Female,1981.0,2003.0,32.0,10.0,2UJwKSBUz6rtW4QLK74kQu
+"Coleman, Ornette",Ornette Coleman,The Shape of Jazz to Come,246.0,248.0,417.0,-171,1959,Big Band/Jazz,Studio,,201,34.0,spotify:album:2iPH3iUmpa9ufIpwY76keF,1.0,Male,1930.0,1958.0,29.0,1.0,2iPH3iUmpa9ufIpwY76keF
+"Badu, Erykah",Erykah Badu,Baduizm,,,89.0,412,1997,Soul/Gospel/R&B,Studio,58.0,2,67.0,spotify:album:3qr4pTBWEU1SVf01j6RAx3,1.0,Female,1971.0,1997.0,26.0,0.0,3qr4pTBWEU1SVf01j6RAx3
+"Elliott, Missy",Missy Elliott,Supa Dupa Fly,,,93.0,408,1997,Hip-Hop/Rap,Studio,37.0,3,53.0,spotify:album:6UkdyvPElK6JDkyeRClbI2,1.0,Female,1971.0,1997.0,26.0,0.0,6UkdyvPElK6JDkyeRClbI2
+Howlin' Wolf,Howlin' Wolf,Moanin' in the Moonlight,153.0,154.0,477.0,-324,1959,Blues/Blues Rock,Compilation,,201,53.0,spotify:album:76MT4lqzC1oSvSYnHHjMam,1.0,Male,1910.0,1959.0,49.0,0.0,76MT4lqzC1oSvSYnHHjMam
+"Swift, Taylor",Taylor Swift,Red,,,99.0,402,2012,Country/Folk/Country Rock/Folk Rock,Studio,185.0,1,62.0,spotify:album:1EoDsNmgTLtmwe1BDAVxV5,1.0,Female,1989.0,2006.0,23.0,6.0,1EoDsNmgTLtmwe1BDAVxV5
+"Apple, Fiona",Fiona Apple,When the Pawn...,,,108.0,393,1999,Indie/Alternative Rock,Studio,20.0,13,64.0,spotify:album:3o5EnVZNJXtfPV8tCoagjI,1.0,Female,1977.0,1996.0,22.0,3.0,3o5EnVZNJXtfPV8tCoagjI
+"Charles, Ray",Ray Charles,The Genius of Ray Charles,263.0,265.0,,-238,1959,,Studio,,17,52.0,spotify:album:4GFWnwli2cVOBp2G1zqhV1,1.0,Male,1930.0,1949.0,29.0,10.0,4GFWnwli2cVOBp2G1zqhV1
+"Jackson, Janet",Janet Jackson,Control,,,111.0,390,1986,Soul/Gospel/R&B,Studio,106.0,1,54.0,spotify:album:7GWkceE5McMVfffd1RGL6Y,1.0,Female,1966.0,1982.0,20.0,4.0,7GWkceE5McMVfffd1RGL6Y
+Etta James,Etta James,At Last!,116.0,119.0,191.0,-75,1960,Soul/Gospel/R&B,Studio,,201,75.0,spotify:album:7rd4PorIOPjPTy7qdUeeCt,1.0,Female,1938.0,1960.0,22.0,0.0,7rd4PorIOPjPTy7qdUeeCt
+"Mitchell, Joni",Joni Mitchell,Hejira,,,133.0,368,1976,,Studio,18.0,13,,,1.0,Female,1943.0,1968.0,33.0,8.0,NOS007
+Adele,Adele,21,,,137.0,364,2011,Soul/Gospel/R&B,Studio,588.0,1,81.0,spotify:album:0Lg1uZvI312TPqxNWShFXL,1.0,Female,1988.0,2008.0,23.0,3.0,0Lg1uZvI312TPqxNWShFXL
+"Waters, Muddy",Muddy Waters,Muddy Waters at Newport 1960,348.0,348.0,,-153,1960,Blues/Blues Rock,Live,,201,26.0,spotify:album:7gTcPv1bE0THbjuvDbK1gq,1.0,Male,1913.0,1947.0,47.0,13.0,7gTcPv1bE0THbjuvDbK1gq
+"Davis, Miles",Miles Davis,Sketches of Spain,356.0,358.0,,-145,1960,Big Band/Jazz,Studio,,201,35.0,spotify:album:2xyhltm9XWSQ5xok4C81BD,1.0,Male,1926.0,1951.0,34.0,9.0,2xyhltm9XWSQ5xok4C81BD
+"Franklin, Aretha",Aretha Franklin,Amazing Grace,,,154.0,347,1972,Soul/Gospel/R&B,Live,23.0,7,38.0,spotify:album:5pIUimaQ6XePPXbMUi3te0,1.0,Female,1942.0,1961.0,30.0,11.0,5pIUimaQ6XePPXbMUi3te0
+"Badu, Erykah",Erykah Badu,Mama's Gun,,,158.0,343,2000,Soul/Gospel/R&B,Studio,25.0,11,66.0,spotify:album:3cADvHRdKniF9ELCn1zbGH,1.0,Female,1971.0,1997.0,29.0,3.0,3cADvHRdKniF9ELCn1zbGH
+"Johnson, Robert",Robert Johnson,King of the Delta Blues Singers,27.0,,374.0,-347,1961,Blues/Blues Rock,Compilation,,201,47.0,spotify:album:2IWaNq5o4tG1w6yxve5BMU,1.0,Male,1911.0,1937.0,50.0,24.0,2IWaNq5o4tG1w6yxve5BMU
+Sleater Kinney,Sleater-Kinney,Dig Me Out,,272.0,189.0,312,1997,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,46.0,spotify:album:3tshnNFNhHrO6NUQ0BHw42,3.0,Female,5911.0,1995.0,26.66666667,2.0,3tshnNFNhHrO6NUQ0BHw42
+"Bland, Bobby ""Blue""","Bobby ""Blue"" Bland",Two Steps From the Blues,215.0,217.0,,-286,1961,Blues/Blues Rock,Compilation,,201,,,1.0,Male,1930.0,1961.0,31.0,0.0,NOS128
+Robyn,Robyn,Body Talk,,,196.0,305,2010,Electronic,Studio,1.0,142,52.0,spotify:album:0Rzg7fqyWE39G6wKipxrns,1.0,Female,1979.0,1995.0,31.0,15.0,0Rzg7fqyWE39G6wKipxrns
+Sade,Sade,Diamond Life,,,200.0,301,1984,Soul/Gospel/R&B,Studio,81.0,5,64.0,spotify:album:3JcNnjMVSKiNpqhErZarW0,1.0,Female,1959.0,1984.0,25.0,0.0,3JcNnjMVSKiNpqhErZarW0
+Bjork,Bjork,Homogenic,,,202.0,299,1997,,Studio,9.0,28,46.0,spotify:album:0HMsmYvoT1h2x1C4di5faf,1.0,Female,1965.0,1977.0,32.0,20.0,0HMsmYvoT1h2x1C4di5faf
+"Simone, Nina",Nina Simone,Wild is the Wind,,,212.0,289,1966,Soul/Gospel/R&B,Studio,110.0,9,49.0,spotify:album:2EYVXfypcucR62WMKJl6Mr,1.0,Female,1933.0,1959.0,33.0,7.0,2EYVXfypcucR62WMKJl6Mr
+"Apple, Fiona",Fiona Apple,The Idler Wheel,,,213.0,288,2012,Indie/Alternative Rock,Studio,16.0,3,52.0,spotify:album:6B5favhKTShFTjRLsKIUfa,1.0,Female,1977.0,1996.0,35.0,16.0,6B5favhKTShFTjRLsKIUfa
+"Charles, Ray",Ray Charles,Modern Sounds in Country and Western Music,104.0,105.0,127.0,-23,1962,Soul/Gospel/R&B,Studio,14.0,1,55.0,spotify:album:4j4w5DDWMKD7ePStAl19OF,1.0,Male,1930.0,1949.0,32.0,13.0,4j4w5DDWMKD7ePStAl19OF
+Howlin' Wolf,Howlin' Wolf,Howlin' Wolf,223.0,238.0,,-278,1962,Blues/Blues Rock,Compilation,,201,,,1.0,Male,1910.0,1959.0,52.0,3.0,NOS130
+Dixie Chicks,The Chicks,Fly,,,224.0,277,1999,Country/Folk/Country Rock/Folk Rock,Studio,131.0,1,65.0,spotify:album:3y6G5El2I6QrJA9BdfAbqA,3.0,Female,5915.0,1990.0,27.33333333,9.0,3y6G5El2I6QrJA9BdfAbqA
+"Brown, James",James Brown,"Live at the Apollo, 1962",24.0,25.0,65.0,-41,1963,Funk/Disco,Live,6.0,91,28.0,spotify:album:0B6BbyElOe4bwziJrunOTe,1.0,Male,1933.0,1958.0,30.0,5.0,0B6BbyElOe4bwziJrunOTe
+Rihanna,Rihanna,Anti,,,230.0,271,2016,,Studio,392.0,1,51.0,spotify:album:48i37aZTC1prDr4EcpQeEa,1.0,Female,1988.0,2005.0,28.0,11.0,48i37aZTC1prDr4EcpQeEa
+"Amos, Tori",Tori Amos,Little Earthquakes,,,233.0,268,1992,,Studio,54.0,38,39.0,spotify:album:1pFUGy3ABpLRRE3oNMPbDb,1.0,Female,1963.0,1992.0,29.0,0.0,1pFUGy3ABpLRRE3oNMPbDb
+Sade,Sade,Love Deluxe,,,247.0,254,1992,Soul/Gospel/R&B,Studio,103.0,3,70.0,spotify:album:2PfGKHtqEX58bHtkQxJnWG,1.0,Female,1959.0,1984.0,33.0,8.0,2PfGKHtqEX58bHtkQxJnWG
+"Dylan, Bob",Bob Dylan,The Freewheelin' Bob Dylan,97.0,97.0,255.0,-158,1963,Country/Folk/Country Rock/Folk Rock,Studio,14.0,22,66.0,spotify:album:0o1uFxZ1VTviqvNaYkTJek,1.0,Male,1941.0,1962.0,22.0,1.0,0o1uFxZ1VTviqvNaYkTJek
+Beatles,The Beatles,Please Please Me,39.0,39.0,,-462,1963,,Studio,1.0,74,72.0,spotify:album:3KzAvEXcqJKBF97HrXwlgf,4.0,Male,7765.0,1963.0,21.75,0.0,3KzAvEXcqJKBF97HrXwlgf
+"Spector, Phil",Phil Spector,A Christmas Gift for You From Phil Spector,142.0,142.0,,-359,1963,Soul/Gospel/R&B,Compilation,,201,61.0,spotify:album:2kzkwgOFAtRsDsas5Hi0Qu,1.0,Male,1939.0,1959.0,24.0,4.0,2kzkwgOFAtRsDsas5Hi0Qu
+"Mitchell, Joni",Joni Mitchell,The Hissing of Summer Lawns,,,258.0,243,1975,,Studio,17.0,4,,,1.0,Female,1943.0,1968.0,32.0,7.0,NOS011
+Beatles,The Beatles,With the Beatles,420.0,,,-81,1963,,Studio,74.0,1,68.0,spotify:album:1aYdiJk6XKeHWGO3FzHHTr,4.0,Male,7765.0,1963.0,21.75,0.0,1aYdiJk6XKeHWGO3FzHHTr
+"Musgraves, Kacey",Kacey Musgraves,Golden Hour,,,270.0,231,2018,Country/Folk/Country Rock/Folk Rock,Studio,94.0,4,69.0,spotify:album:7f6xPqyaolTiziKf5R5Z0c,1.0,Female,1988.0,2013.0,30.0,5.0,7f6xPqyaolTiziKf5R5Z0c
+"Blige, Mary J.",Mary J. Blige,What's the 411?,,,271.0,230,1992,Soul/Gospel/R&B,Studio,58.0,6,58.0,spotify:album:5Q3xLiKnY4ShDuQda7qfg2,1.0,Female,1971.0,1992.0,21.0,0.0,5Q3xLiKnY4ShDuQda7qfg2
+"Keys, Alicia",Alicia Keys,The Diary of Alicia Keys,,,277.0,224,2003,Soul/Gospel/R&B,Studio,87.0,1,74.0,spotify:album:6TqRKHLjDu5QZuC8u5Woij,1.0,Female,1981.0,2001.0,22.0,2.0,6TqRKHLjDu5QZuC8u5Woij
+"Summer, Donna",Donna Summer,Bad Girls,,,283.0,218,1975,Funk/Disco,Studio,49.0,1,60.0,spotify:album:58GjBhQvLHwfQFJtdP9Oxg,1.0,Female,1948.0,1974.0,27.0,1.0,58GjBhQvLHwfQFJtdP9Oxg
+Ronettes,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,427.0,422.0,494.0,-67,1964,Soul/Gospel/R&B,Studio,,201,62.0,spotify:album:0CoNLgOwcZGBUSwd9fAZuy,3.0,Female,5830.0,1964.0,20.66666667,0.0,0CoNLgOwcZGBUSwd9fAZuy
+Destiny's Child,Destiny's Child,The Writing's On the Wall,,,291.0,210,1999,,Studio,99.0,5,73.0,spotify:album:283NWqNsCA9GwVHrJk59CG,4.0,Female,7924.0,1998.0,18.0,1.0,283NWqNsCA9GwVHrJk59CG
+"Twain, Shania",Shania Twain,Come On Over,,,300.0,201,1997,Country/Folk/Country Rock/Folk Rock,Studio,151.0,2,70.0,spotify:album:4UMe0Ods7kygK6OISasZe9,1.0,Female,1965.0,1993.0,32.0,4.0,4UMe0Ods7kygK6OISasZe9
+Solange,Solange,A Seat at the Table,,,312.0,189,2016,Soul/Gospel/R&B,Studio,23.0,1,60.0,spotify:album:3Yko2SxDk4hc6fncIBQlcM,1.0,Female,1986.0,2002.0,30.0,14.0,3Yko2SxDk4hc6fncIBQlcM
+"Harvey, PJ",PJ Harvey,"Stories From the City, Stories From the Sea",,431.0,313.0,188,2000,Indie/Alternative Rock,Studio,9.0,42,58.0,spotify:album:0hBWhJEmVyNPG2Jq71CJXz,1.0,Female,1969.0,1992.0,31.0,8.0,0hBWhJEmVyNPG2Jq71CJXz
+Aaliyah,Aaliyah,One in A Million,,,314.0,187,1996,Soul/Gospel/R&B,Studio,67.0,18,64.0,spotify:album:79EIRdmpPSIWfRlxaZdJbG,1.0,Female,1979.0,1994.0,17.0,2.0,79EIRdmpPSIWfRlxaZdJbG
+Rosalia,Rosalia,El Mal Querer,,,315.0,186,2018,Latin,Studio,,201,69.0,spotify:album:355bjCHzRJztCzaG5Za4gq,1.0,Female,1992.0,2017.0,26.0,1.0,355bjCHzRJztCzaG5Za4gq
+"Holiday, Billie",Billie Holiday,Lady in Satin,,,317.0,184,1958,Big Band/Jazz,Studio,,201,47.0,spotify:album:4LrLP7DM1KBj8r2Sc098JA,1.0,Female,1915.0,1934.0,43.0,24.0,4LrLP7DM1KBj8r2Sc098JA
+Beatles,The Beatles,Meet The Beatles!,59.0,53.0,197.0,-138,1964,Rock n' Roll/Rhythm & Blues,Studio,74.0,1,,,4.0,Male,7765.0,1963.0,22.75,1.0,NOS009
+"Del Ray, Lana",Lana Del Ray,Norman Fucking Rockwell,,,321.0,180,2019,,Studio,25.0,3,84.0,spotify:album:5XpEKORZ4y6OrCZSKsi46A,1.0,Female,1985.0,2010.0,34.0,9.0,5XpEKORZ4y6OrCZSKsi46A
+Beatles,The Beatles,A Hard Day's Night,388.0,307.0,263.0,125,1964,Rock n' Roll/Rhythm & Blues,Studio,56.0,1,73.0,spotify:album:6wCttLq0ADzkPgtRnUihLV,4.0,Male,7765.0,1963.0,22.75,1.0,6wCttLq0ADzkPgtRnUihLV
+"Waters, Muddy",Muddy Waters,Folk Singer,280.0,282.0,,-221,1964,Blues/Blues Rock,Studio,,201,45.0,spotify:album:4bi0CKFKviadIaSlkakfN7,1.0,Male,1913.0,1947.0,51.0,17.0,4bi0CKFKviadIaSlkakfN7
+"Welch, Gillian",Gillian Welch,Time (The Revelator),,,348.0,153,2001,Country/Folk/Country Rock/Folk Rock,Studio,3.0,157,42.0,spotify:album:55FP2ypQcghszSqylyBRbp,1.0,Female,1967.0,1996.0,34.0,5.0,55FP2ypQcghszSqylyBRbp
+"Franklin, Aretha",Aretha Franklin,"Young, Gifted and Black",,,388.0,113,1972,Soul/Gospel/R&B,Studio,31.0,11,53.0,spotify:album:0k5C3Z7w7uQpyGFQEzl7yB,1.0,Female,1942.0,1961.0,30.0,11.0,0k5C3Z7w7uQpyGFQEzl7yB
+"Carey, Mariah",Mariah Carey,The Emancipation of Mimi,,,389.0,112,2005,Soul/Gospel/R&B,Studio,74.0,1,63.0,spotify:album:43iBTEWECK7hSnE0p6GgNo,1.0,Female,1969.0,1990.0,36.0,15.0,43iBTEWECK7hSnE0p6GgNo
+Kelis,Kelis,Kaleidoscope,,,391.0,110,1999,,Studio,6.0,144,24.0,spotify:album:2QFua4q4idl0jgRavneYZ9,1.0,Female,1979.0,1999.0,20.0,0.0,2QFua4q4idl0jgRavneYZ9
+"Swift, Taylor",Taylor Swift,1989,,,393.0,108,2014,,Studio,464.0,1,79.0,spotify:album:2QJmrSgbdM35R67eoGQo4j,1.0,Female,1989.0,2006.0,25.0,8.0,2QJmrSgbdM35R67eoGQo4j
+"Ross, Diana",Diana Ross,Diana,,,394.0,107,1980,Funk/Disco,Studio,67.0,2,69.0,spotify:album:3zgDLoVcpVGfFbDZJf3uHI,1.0,Female,1944.0,1970.0,36.0,10.0,3zgDLoVcpVGfFbDZJf3uHI
+"EIlish, Billie",Billie EIlish,When We All Fall Asleep Where Do We Go?,,,397.0,104,2019,Indie/Alternative Rock,Studio,240.0,1,86.0,spotify:album:0S0KGZnfBGSIssfF54WSJh,1.0,Female,2001.0,2019.0,18.0,0.0,0S0KGZnfBGSIssfF54WSJh
+Raincoats,The Raincoats,The Raincoats,,,398.0,103,1979,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,39.0,spotify:album:190Tx9jPHndq0qUlq79BJJ,4.0,Female,7814.0,1979.0,25.5,0.0,190Tx9jPHndq0qUlq79BJJ
+Getz & Gilberto,Getz & Gilberto,Getz / Gilberto,454.0,447.0,,-47,1964,Big Band/Jazz,Studio,2.0,105,47.0,spotify:album:73ZRKdD3Ds43IjHrhKgucY,2.0,Male,3858.0,1964.0,35.0,0.0,73ZRKdD3Ds43IjHrhKgucY
+"Baker, Anita",Anita Baker,Rapture,,,404.0,97,1986,Soul/Gospel/R&B,Studio,157.0,11,,,1.0,Female,1951.0,1983.0,35.0,3.0,NOS118
+M.I.A.,M.I.A.,Arular,,,421.0,80,2005,Electronic,Studio,2.0,190,44.0,spotify:album:7CzEknt9gJwe0QC89ir1JX,1.0,Female,1975.0,2005.0,30.0,0.0,7CzEknt9gJwe0QC89ir1JX
+"WIlliams, Lucinda",Lucinda Williams,Lucinda Williams,,,426.0,75,1988,Country/Folk/Country Rock/Folk Rock,Studio,,201,37.0,spotify:album:63498KErJdRts4KWrgv2dT,1.0,Female,1953.0,1979.0,35.0,9.0,63498KErJdRts4KWrgv2dT
+"Lynn, Loretta",Loretta Lynn,Coal Miner's Daughter,,,440.0,61,1971,Country/Folk/Country Rock/Folk Rock,Studio,17.0,81,51.0,spotify:album:2SayIIdZkrtb9I4BbdnyOr,1.0,Female,1932.0,1963.0,39.0,8.0,2SayIIdZkrtb9I4BbdnyOr
+"Spears, Britney",Britney Spears,Blackout,,,441.0,60,2007,,Studio,34.0,2,73.0,spotify:album:1ePkYcH5ZQCb1b4tQeiEDj,1.0,Female,1981.0,1999.0,26.0,8.0,1ePkYcH5ZQCb1b4tQeiEDj
+"Apple, Fiona",Fiona Apple,Extraordinary Machine,,,444.0,57,2005,Indie/Alternative Rock,Studio,21.0,7,51.0,spotify:album:1z0O8lKuQRs974S8wcRiAs,1.0,Female,1977.0,1996.0,28.0,9.0,1z0O8lKuQRs974S8wcRiAs
+"Coltrane, Alice",Alice Coltrane,Journey in Satchidanada,,,446.0,55,1971,Big Band/Jazz,Studio,,201,43.0,spotify:album:6zV55F6W8kh1qe8LHhqRbz,1.0,Female,1937.0,1968.0,34.0,3.0,6zV55F6W8kh1qe8LHhqRbz
+"Flack, Roberta",Roberta Flack,First Take,,,451.0,50,1969,Soul/Gospel/R&B,Studio,54.0,1,54.0,spotify:album:2ARWEOvaUgm4FSj25MpY6F,1.0,Female,1937.0,1969.0,32.0,0.0,2ARWEOvaUgm4FSj25MpY6F
+"Dylan, Bob",Bob Dylan,Highway 61 Revisited,4.0,4.0,18.0,-14,1965,Country/Folk/Country Rock/Folk Rock,Studio,47.0,3,64.0,spotify:album:6YabPKtZAjxwyWbuO9p4ZD,1.0,Male,1941.0,1962.0,24.0,3.0,6YabPKtZAjxwyWbuO9p4ZD
+Beatles,The Beatles,Rubber Soul,5.0,5.0,35.0,-30,1965,,Studio,70.0,1,76.0,spotify:album:50o7kf2wLwVmOTVYJOTplm,4.0,Male,7765.0,1963.0,23.75,2.0,50o7kf2wLwVmOTVYJOTplm
+Lorde,Lorde,Melodrama,,,460.0,41,2017,,Studio,43.0,1,78.0,spotify:album:2B87zXm9bOWvAJdkJBTpzF,1.0,Female,1996.0,2013.0,21.0,4.0,2B87zXm9bOWvAJdkJBTpzF
+"Nyro, Laura",Laura Nyro,Eli & the 13th Confession,,,463.0,38,1968,,Studio,7.0,181,30.0,spotify:album:533zqKatpy90jse2K5IaiQ,1.0,Female,1947.0,1967.0,21.0,1.0,533zqKatpy90jse2K5IaiQ
+SZA,SZA,Ctrl,,,472.0,29,2017,Soul/Gospel/R&B,Studio,334.0,3,49.0,spotify:album:6OgQ8QxV9rrdtmRmzGvwiT,1.0,Female,1989.0,2017.0,28.0,0.0,6OgQ8QxV9rrdtmRmzGvwiT
+"Crow, Sheryl",Sheryl Crow,Sheryl Crow,,,475.0,26,1996,,Studio,63.0,6,56.0,spotify:album:3w7TTi80vZApF0rQE5DMYb,1.0,Female,1962.0,1991.0,34.0,5.0,3w7TTi80vZApF0rQE5DMYb
+Selena,Selena,Amor Prohibido,,,479.0,22,1994,Latin,Studio,1.0,183,74.0,spotify:album:6iv9WTw1nhNxSsgKaxMp4E,1.0,Female,1971.0,1989.0,23.0,5.0,6iv9WTw1nhNxSsgKaxMp4E
+"Lambert, Miranda",Miranda Lambert,The Weight of These Wings,,,480.0,21,2016,Country/Folk/Country Rock/Folk Rock,Studio,43.0,3,53.0,spotify:album:563h536tB6n8Dn62jr4RZG,1.0,Female,1983.0,2005.0,33.0,11.0,563h536tB6n8Dn62jr4RZG
+Lady Gaga,Lady Gaga,Born This Way,,,484.0,17,2011,Electronic,Studio,53.0,1,65.0,spotify:album:2KkMVsxymoNR7hRmBcMttd,1.0,Female,1986.0,2008.0,25.0,3.0,2KkMVsxymoNR7hRmBcMttd
+"Coltrane, John",John Coltrane,A Love Supreme,47.0,47.0,66.0,-19,1965,Big Band/Jazz,Studio,12.0,64,47.0,spotify:album:7Eoz7hJvaX1eFkbpQxC5PA,1.0,Male,1926.0,1957.0,39.0,8.0,7Eoz7hJvaX1eFkbpQxC5PA
+"Redding, Otis",Otis Redding,Otis Blue: Otis Redding Sings Soul,74.0,78.0,178.0,-104,1965,Soul/Gospel/R&B,Studio,34.0,75,59.0,spotify:album:68BCjMsHX4Gf11BJSkjwGz,1.0,Male,1941.0,1964.0,24.0,1.0,68BCjMsHX4Gf11BJSkjwGz
+"Dylan, Bob",Bob Dylan,Bringing It All Back Home,31.0,31.0,181.0,-150,1965,Country/Folk/Country Rock/Folk Rock,Studio,43.0,6,58.0,spotify:album:1lPoRKSgZHQAYXxzBsOQ7v,1.0,Male,1941.0,1962.0,24.0,3.0,1lPoRKSgZHQAYXxzBsOQ7v
+Shakira,Shakira,Donde Estan Los Ladrones,,,496.0,5,1998,Latin,Studio,22.0,131,76.0,spotify:album:5hcKSTqKOLuzJgYIQileAe,1.0,Female,1977.0,1991.0,21.0,7.0,5hcKSTqKOLuzJgYIQileAe
+Beatles,The Beatles,Help!,332.0,331.0,266.0,66,1965,,Studio,46.0,1,73.0,spotify:album:0PT5m6hwPRrpBwIHVnvbFX,4.0,Male,7765.0,1963.0,23.75,2.0,0PT5m6hwPRrpBwIHVnvbFX
+Byrds,The Byrds,Mr. Tambourine Man,232.0,233.0,287.0,-55,1965,,Studio,38.0,6,54.0,spotify:album:0pkrqPjeq9K5KD0hFqAKNa,5.0,Male,9717.0,1965.0,21.6,0.0,0pkrqPjeq9K5KD0hFqAKNa
+"King, B.B.",B.B. King,Live at the Regal,141.0,141.0,299.0,-158,1965,Blues/Blues Rock,Live,8.0,78,38.0,spotify:album:7njGz7ZeDXL6cH3VnflcQ2,1.0,Male,1925.0,1956.0,40.0,9.0,7njGz7ZeDXL6cH3VnflcQ2
+Beach Boys,The Beach Boys,The Beach Boys Today!,270.0,271.0,466.0,-196,1965,,Studio,50.0,4,38.0,spotify:album:1xPtXzS5yCbDAqC7pxRCaF,5.0,Male,9715.0,1962.0,22.0,3.0,1xPtXzS5yCbDAqC7pxRCaF
+Rolling Stones,Rolling Stones,Out of Our Heads,114.0,116.0,,-387,1965,Blues/Blues Rock,Studio,65.0,1,69.0,spotify:album:2Q5MwpTmtjscaS34mJFXQQ,5.0,Male,9705.0,1964.0,24.0,1.0,2Q5MwpTmtjscaS34mJFXQQ
+Rolling Stones,Rolling Stones,"The Rolling Stones, Now!",181.0,180.0,,-320,1965,Blues/Blues Rock,Studio,53.0,5,43.0,spotify:album:592dKHbXtiglWyt8AEet23,5.0,Male,9705.0,1964.0,24.0,1.0,592dKHbXtiglWyt8AEet23
+"Who, The",The Who,My Generation,236.0,237.0,,-265,1965,Blues/Blues Rock,Studio,,201,56.0,spotify:album:6Oc6Ok1Oawu8lRkjmD4mXy,4.0,Male,7779.0,1965.0,20.25,0.0,6Oc6Ok1Oawu8lRkjmD4mXy
+Yardbirds,The Yardbirds,Having a Rave Up,353.0,355.0,,-148,1965,Blues/Blues Rock,Studio,33.0,53,48.0,spotify:album:5SC92pfXSbQvZjgfk0oGno,5.0,Male,9718.0,1964.0,21.4,1.0,5SC92pfXSbQvZjgfk0oGno
+Paul Butterfield Blues Band,Paul Butterfield Blues Band,The Paul Butterfield Blues Band,476.0,468.0,,-25,1965,Blues/Blues Rock,Studio,6.0,136,36.0,spotify:album:785WNIAl2zC3OZ6XHjFaIG,6.0,Male,11642.0,1965.0,24.66666667,0.0,785WNIAl2zC3OZ6XHjFaIG
+Beach Boys,The Beach Boys,Pet Sounds,2.0,2.0,2.0,0,1966,,Studio,40.0,10,62.0,spotify:album:2CNEkSE8TADXRT2AzcEt1b,6.0,Male,11657.0,1962.0,23.16666667,4.0,2CNEkSE8TADXRT2AzcEt1b
+Beatles,The Beatles,Revolver,3.0,3.0,11.0,-8,1966,,Studio,94.0,1,73.0,spotify:album:3PRoXYsngSwjEQWR5PsHWR,4.0,Male,7765.0,1963.0,24.75,3.0,3PRoXYsngSwjEQWR5PsHWR
+"West, Kanye",Kanye West,My Beautiful Dark Twisted Fantasy,,353.0,17.0,484,2010,Hip-Hop/Rap,Studio,243.0,1,85.0,spotify:album:20r762YmB5HeofjMCiPMLv,1.0,Male,1977.0,2004.0,33.0,6.0,20r762YmB5HeofjMCiPMLv
+"Dylan, Bob",Bob Dylan,Blonde on Blonde,9.0,9.0,38.0,-29,1966,Country/Folk/Country Rock/Folk Rock,Studio,34.0,9,54.0,spotify:album:4NP1rhnsPdYpnyJP0p0k0L,1.0,Male,1941.0,1962.0,25.0,4.0,4NP1rhnsPdYpnyJP0p0k0L
+"Lamar, Kendrick",Kendrick Lamar,To Pimp a Butterfly,,,19.0,482,2015,Hip-Hop/Rap,Studio,125.0,1,78.0,spotify:album:7ycBtnsMtyVbbwTfJwRjSP,1.0,Male,1987.0,2011.0,28.0,4.0,7ycBtnsMtyVbbwTfJwRjSP
+Rolling Stones,Rolling Stones,Aftermath,108.0,109.0,330.0,-222,1966,Blues/Blues Rock,Studio,50.0,2,74.0,spotify:album:72qrnM4yUNMDDlWiqKc8iY,5.0,Male,9705.0,1964.0,25.0,2.0,72qrnM4yUNMDDlWiqKc8iY
+"Redding, Otis",Otis Redding,Complete & Unbelievable: The Otis Redding Dictionary of Soul,251.0,254.0,448.0,-197,1966,Soul/Gospel/R&B,Studio,15.0,73,33.0,spotify:album:0WfED1nqBzTMxv0NvnUNjf,1.0,Male,1941.0,1964.0,25.0,2.0,0WfED1nqBzTMxv0NvnUNjf
+Cream,Cream,Fresh Cream,101.0,102.0,,-400,1966,Blues/Blues Rock,Studio,92.0,39,56.0,spotify:album:6iyKqDoL9pRSHUsDBYemlB,3.0,Male,5827.0,1966.0,23.66666667,0.0,6iyKqDoL9pRSHUsDBYemlB
+"Mayall, John & the Bluesbreakers",John Mayall & the Bluesbreakers,Bluesbreakers,195.0,195.0,,-306,1966,Blues/Blues Rock,Studio,,201,47.0,spotify:album:4bSvzPMgzwvfqHAbcWG88o,4.0,Male,7763.0,1966.0,25.25,0.0,4bSvzPMgzwvfqHAbcWG88o
+Simon & Garfunkel,Simon & Garfunkel,"Parsley, Sage, Rosemary and Thyme",201.0,202.0,,-300,1966,Country/Folk/Country Rock/Folk Rock,Studio,145.0,4,63.0,spotify:album:1sh32o99zA04PJIUJUpEj7,2.0,Male,3882.0,1964.0,25.0,2.0,1sh32o99zA04PJIUJUpEj7
+Mothers of Invention,The Mothers of Invention,Freak Out!,243.0,246.0,,-258,1966,,Studio,23.0,130,41.0,spotify:album:6qfS5de8GAy1G5tk7tyiof,6.0,Male,11640.0,1966.0,26.0,0.0,6qfS5de8GAy1G5tk7tyiof
+Yardbirds,The Yardbirds,Roger the Engineer,349.0,350.0,,-152,1966,Blues/Blues Rock,Studio,16.0,52,40.0,spotify:album:3s6wTRMDispMa4gCd26FPc,5.0,Male,9718.0,1964.0,22.4,2.0,3s6wTRMDispMa4gCd26FPc
+"Who, The",The Who,A Quick One,383.0,384.0,,-118,1966,Blues/Blues Rock,Studio,21.0,67,39.0,spotify:album:6f4mqM3RNAfO1t6XeeUa8P,4.0,Male,7779.0,1965.0,21.25,1.0,6f4mqM3RNAfO1t6XeeUa8P
+"Robinson, Smokey & the Miracles",Smokey Robinson & the Miracles,Going to a Go-Go,271.0,273.0,412.0,-141,1966,Soul/Gospel/R&B,Studio,40.0,8,59.0,spotify:album:2NT1Pc0MXlXORHLBkHyKQW,6.0,Male/Female,11640.0,1961.0,26.0,5.0,2NT1Pc0MXlXORHLBkHyKQW
+Mamas and the Papas,The Mamas and the Papas,If You Can Believe Your Eyes and Ears,127.0,112.0,,-374,1966,,Studio,105.0,1,72.0,spotify:album:76oMr4Y2pOtcrvZLc2ZikF,4.0,Male/Female,7760.0,1966.0,26.0,0.0,76oMr4Y2pOtcrvZLc2ZikF
+"Franklin, Aretha",Aretha Franklin,I Never Loved a Man the Way I Love You,83.0,84.0,13.0,70,1967,Soul/Gospel/R&B,Studio,79.0,2,67.0,spotify:album:5WndWfzGwCkHzAbQXVkg2V,1.0,Female,1942.0,1961.0,25.0,6.0,5WndWfzGwCkHzAbQXVkg2V
+Beatles,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,1.0,1.0,24.0,-23,1967,,Studio,233.0,1,71.0,spotify:album:6QaVfG1pHYl1z15ZxkvVDW,4.0,Male,7765.0,1963.0,25.75,4.0,6QaVfG1pHYl1z15ZxkvVDW
+Jimi Hendrix Experience,Jimi Hendrix Experience,Are You Experienced,15.0,15.0,30.0,-15,1967,Blues/Blues Rock,Studio,106.0,5,69.0,spotify:album:7rSZXXHHvIhF4yUFdaOCy9,3.0,Male,5833.0,1967.0,22.66666667,0.0,7rSZXXHHvIhF4yUFdaOCy9
+Doors,The Doors,The Doors,42.0,42.0,86.0,-44,1967,Blues/Blues Rock,Studio,104.0,2,70.0,spotify:album:1jWmEhn3ggaL6isoyLfwBn,4.0,Male,7772.0,1967.0,24.0,0.0,1jWmEhn3ggaL6isoyLfwBn
+Jimi Hendrix Experience,Jimi Hendrix Experience,Axis: Bold as Love,82.0,83.0,92.0,-10,1967,Blues/Blues Rock,Studio,3.0,55,66.0,spotify:album:3uFZf8rykoHo7XMIQVYW6r,3.0,Male,5833.0,1967.0,22.66666667,0.0,3uFZf8rykoHo7XMIQVYW6r
+Cream,Cream,Disraeli Gears,112.0,114.0,170.0,-58,1967,Blues/Blues Rock,Studio,83.0,4,55.0,spotify:album:6fRqzJT070Kp9RWlSXmKcY,3.0,Male,5827.0,1966.0,24.66666667,1.0,6fRqzJT070Kp9RWlSXmKcY
+Love,Love,Forever Changes,40.0,40.0,180.0,-140,1967,,Studio,10.0,154,47.0,spotify:album:2amHBpP8C0EUy6yBNy6nN6,5.0,Male,9725.0,1966.0,22.0,1.0,2amHBpP8C0EUy6yBNy6nN6
+Pink Floyd,Pink Floyd,The Piper at the Gates of Dawn,347.0,347.0,253.0,94,1967,,Studio,11.0,131,47.0,spotify:album:2Se4ZylF9NkFGD92yv1aZC,4.0,Male,7776.0,1967.0,23.0,0.0,2Se4ZylF9NkFGD92yv1aZC
+"Who, The",The Who,The Who Sell Out,113.0,115.0,316.0,-203,1967,,Studio,23.0,48,29.0,spotify:album:2nSduHVT17MPQCehfMRPG6,4.0,Male,7779.0,1965.0,22.25,2.0,2nSduHVT17MPQCehfMRPG6
+"Dylan, Bob",Bob Dylan,John Wesley Harding,301.0,303.0,337.0,-36,1967,Country/Folk/Country Rock/Folk Rock,Studio,52.0,2,50.0,spotify:album:2KzCDxKpgLqBffHu1IZ7Kn,1.0,Male,1941.0,1962.0,26.0,5.0,2KzCDxKpgLqBffHu1IZ7Kn
+Kinks,The Kinks,Something Else by The Kinks,288.0,289.0,478.0,-190,1967,,Studio,2.0,153,13.0,spotify:album:3n0mKh1yuR5QjX6Vm0GKj2,4.0,Male,7778.0,1964.0,22.5,3.0,3n0mKh1yuR5QjX6Vm0GKj2
+Moby Grape,Moby Grape,Moby Grape,121.0,124.0,,-380,1967,,Studio,27.0,24,32.0,spotify:album:5MTUjDTUWFuyhWW7oRqqmi,5.0,Male,9717.0,1967.0,23.6,0.0,5MTUjDTUWFuyhWW7oRqqmi
+Byrds,The Byrds,Younger Than Yesterday,124.0,127.0,,-377,1967,,Studio,24.0,24,45.0,spotify:album:33puYJ2y5qANDenRmL8BS1,4.0,Male,7773.0,1965.0,23.75,2.0,33puYJ2y5qANDenRmL8BS1
+OutKast,OutKast,Aquemini,,500.0,49.0,452,1998,Hip-Hop/Rap,Studio,43.0,2,65.0,spotify:album:5ceB3rxgXqIRpsOvVzTG28,2.0,Male,3950.0,1994.0,23.0,4.0,5ceB3rxgXqIRpsOvVzTG28
+Buffalo Springfield,Buffalo Springfield,Buffalo Springfield Again,188.0,188.0,,-313,1967,,Studio,14.0,44,53.0,spotify:album:7hez8jibf36E66GHpFkWz7,5.0,Male,9720.0,1966.0,23.0,1.0,7hez8jibf36E66GHpFkWz7
+Little Walter,Little Walter,The Best of Little Walter,198.0,198.0,,-303,1967,Blues/Blues Rock,Greatest Hits,,201,10.0,spotify:album:2yIkYQJevVxZADVieZX1Bx,1.0,Male,1930.0,1947.0,37.0,20.0,2yIkYQJevVxZADVieZX1Bx
+Rolling Stones,Rolling Stones,Between the Buttons,355.0,357.0,,-146,1967,Blues/Blues Rock,Studio,47.0,2,56.0,spotify:album:36BIYdP4WtviD9Ngqc4SK5,5.0,Male,9705.0,1964.0,26.0,3.0,36BIYdP4WtviD9Ngqc4SK5
+Doors,The Doors,Strange Days,407.0,409.0,,-94,1967,Blues/Blues Rock,Studio,61.0,3,69.0,spotify:album:6v5IVMmY1IvWtbfnQoiFSf,4.0,Male,7772.0,1967.0,24.0,0.0,6v5IVMmY1IvWtbfnQoiFSf
+"Redding, Otis",Otis Redding,Live in Europe,474.0,,,-27,1967,Soul/Gospel/R&B,Live,42.0,32,17.0,spotify:album:5tvVCSFJEwNS2oJZVTNEwn,1.0,Male,1941.0,1964.0,26.0,3.0,5tvVCSFJEwNS2oJZVTNEwn
+"Haggard, Merle",Merle Haggard,Branded Man,484.0,,,-17,1967,Country/Folk/Country Rock/Folk Rock,Studio,4.0,167,19.0,spotify:album:4f86JGfn6XvGs37HtWNstk,1.0,Male,1937.0,1965.0,30.0,2.0,4f86JGfn6XvGs37HtWNstk
+"King, Albert",Albert King,Born Under a Bad Sign,499.0,491.0,,-2,1967,Blues/Blues Rock,Compilation,,201,43.0,spotify:album:42WQ76qWDQmHlHvJa6Z3Uw,1.0,Male,1923.0,1962.0,44.0,5.0,42WQ76qWDQmHlHvJa6Z3Uw
+Byrds,The Byrds,Greatist Hits,178.0,,,-323,1967,,Greatest Hits,29.0,6,29.0,spotify:album:1NoUvTyvwokGSPcqudblVQ,5.0,Male,9717.0,1965.0,23.6,2.0,1NoUvTyvwokGSPcqudblVQ
+Velvet Underground,The Velvet Underground,The Velvet Underground & Nico,13.0,13.0,23.0,-10,1967,Punk/Post-Punk/New Wave/Power Pop,Studio,13.0,171,65.0,spotify:album:4xwx0x7k6c5VuThz5qVqmV,5.0,Male/Female,9708.0,1967.0,25.4,0.0,4xwx0x7k6c5VuThz5qVqmV
+Jefferson Airplane,Jefferson Airplane,Surrealistic Pillow,146.0,146.0,471.0,-325,1967,,Studio,56.0,3,70.0,spotify:album:6lPb7Eoon6QPbscWbMsk6a,6.0,Male/Female,11644.0,1966.0,26.33333333,1.0,6lPb7Eoon6QPbscWbMsk6a
+"Franklin, Aretha",Aretha Franklin,Lady Soul,84.0,85.0,75.0,9,1968,Soul/Gospel/R&B,Studio,52.0,2,63.0,spotify:album:7lEOKZaOpqP70UYqdLPejG,1.0,Female,1942.0,1961.0,26.0,7.0,7lEOKZaOpqP70UYqdLPejG
+Beatles,The Beatles,The Beatles,10.0,10.0,29.0,-19,1968,,Studio,55.0,1,76.0,spotify:album:1klALx0u4AavZNEvC4LrTL,4.0,Male,7765.0,1963.0,26.75,5.0,1klALx0u4AavZNEvC4LrTL
+Jimi Hendrix Experience,Jimi Hendrix Experience,Electric Ladyland,54.0,55.0,53.0,1,1968,Blues/Blues Rock,Studio,1.0,40,69.0,spotify:album:5z090LQztiqh13wYspQvKQ,3.0,Male,5833.0,1967.0,23.66666667,1.0,5z090LQztiqh13wYspQvKQ
+"Morrison, Van",Van Morrison,Astral Weeks,19.0,19.0,60.0,-41,1968,,Studio,,201,52.0,spotify:album:4pG3bKkbmReDt5QTDn3JDz,1.0,Male,1945.0,1967.0,23.0,1.0,4pG3bKkbmReDt5QTDn3JDz
+"Band, The",The Band,Music From Big Pink,34.0,34.0,100.0,-66,1968,Country/Folk/Country Rock/Folk Rock,Studio,40.0,30,62.0,spotify:album:0ky5kdvfPxSmSpj03hpSAE,5.0,Male,9706.0,1968.0,26.8,0.0,0ky5kdvfPxSmSpj03hpSAE
+"Cash, Johnny",Johnny Cash,At Folsom Prison,88.0,88.0,164.0,-76,1968,Country/Folk/Country Rock/Folk Rock,Live,81.0,13,60.0,spotify:album:4TJIdlY9hGSSTO1kUs1neh,1.0,Male,1932.0,1957.0,36.0,11.0,4TJIdlY9hGSSTO1kUs1neh
+Rolling Stones,Rolling Stones,Beggars Banquet,57.0,58.0,185.0,-128,1968,Blues/Blues Rock,Studio,26.0,5,67.0,spotify:album:6OHri5qNxwCdVSdyCslspd,5.0,Male,9705.0,1964.0,27.0,4.0,6OHri5qNxwCdVSdyCslspd
+Zombies,The Zombies,Odessey & Oracle,80.0,100.0,243.0,-163,1968,,Studio,95.0,13,66.0,spotify:album:6XqM4NINcx3oc7NhOUKxXp,5.0,Male,9724.0,1965.0,23.2,3.0,6XqM4NINcx3oc7NhOUKxXp
+Byrds,The Byrds,Sweetheart of the Rodeo,117.0,120.0,274.0,-157,1968,,Studio,10.0,77,47.0,spotify:album:02XyFDfvHfIwtqOC3o0PcK,4.0,Male,7775.0,1965.0,24.25,3.0,02XyFDfvHfIwtqOC3o0PcK
+Dr. John,Dr. John,Gris Gris,143.0,143.0,356.0,-213,1968,Blues/Blues Rock,Studio,,201,38.0,spotify:album:1yBoaVrgcup2hX2DCYUajs,1.0,Male,1941.0,1968.0,27.0,0.0,1yBoaVrgcup2hX2DCYUajs
+"West, Kanye",Kanye West,The College Dropout,,298.0,74.0,427,2004,Hip-Hop/Rap,Studio,74.0,2,79.0,spotify:album:4Uv86qWpGTxf7fU7lG5X6F,1.0,Male,1977.0,2004.0,27.0,0.0,4Uv86qWpGTxf7fU7lG5X6F
+Kinks,The Kinks,The Kinks Are The Village Green Preservation Society,255.0,258.0,384.0,-129,1968,,Studio,,201,47.0,spotify:album:10c0h2wJ40mTjfIM5B0Lwr,4.0,Male,7778.0,1964.0,23.5,4.0,10c0h2wJ40mTjfIM5B0Lwr
+"Redding, Otis",Otis Redding,The Dock of the Bay,161.0,161.0,,-340,1968,Soul/Gospel/R&B,Compilation,42.0,4,51.0,spotify:album:0kSkzG0sfuG4lRuFF5jWVr,1.0,Male,1941.0,1964.0,27.0,4.0,0kSkzG0sfuG4lRuFF5jWVr
+Byrds,The Byrds,The Notorious Byrd Brothers,171.0,171.0,,-330,1968,,Studio,19.0,47,45.0,spotify:album:5UI2X5VAmgu9xrlXDd5U7B,5.0,Male,9717.0,1965.0,24.6,3.0,5UI2X5VAmgu9xrlXDd5U7B
+"Ocean, Frank",Frank Ocean,Blonde,,,79.0,422,2016,Soul/Gospel/R&B,Studio,354.0,1,86.0,spotify:album:3mH6qwIy9crq0I9YQbOuDf,1.0,Male,1987.0,2012.0,29.0,4.0,3mH6qwIy9crq0I9YQbOuDf
+Cream,Cream,Wheels of Fire,203.0,205.0,,-298,1968,Blues/Blues Rock,Studio,50.0,1,62.0,spotify:album:0zrtTZC7yY2TOEhnbJzSb9,3.0,Male,5827.0,1966.0,25.66666667,2.0,0zrtTZC7yY2TOEhnbJzSb9
+Simon & Garfunkel,Simon & Garfunkel,Bookends,233.0,234.0,,-268,1968,Country/Folk/Country Rock/Folk Rock,Studio,66.0,1,68.0,spotify:album:3bzgbgiytguTDnwzflAZr2,2.0,Male,3882.0,1964.0,27.0,4.0,3bzgbgiytguTDnwzflAZr2
+"Blood, Sweat & Tears","Blood, Sweat & Tears",Child Is Father to the Man,264.0,266.0,,-237,1968,,Studio,55.0,47,39.0,spotify:album:0OhNZ7R4dOqtDPLGp0jBAZ,8.0,Male,15557.0,1968.0,23.375,0.0,0OhNZ7R4dOqtDPLGp0jBAZ
+Grateful Dead,Grateful Dead,Anthem of the Sun,287.0,288.0,,-214,1968,Blues/Blues Rock,Studio,17.0,87,23.0,spotify:album:4ZaIo647CyWAgow8oxqajh,6.0,Male,11663.0,1967.0,24.16666667,1.0,4ZaIo647CyWAgow8oxqajh
+Mothers of Invention,The Mothers of Invention,We're Only in It for the Money,296.0,297.0,,-205,1968,,Studio,19.0,30,41.0,spotify:album:3u1f0ziKFCkqcHUQ0AldCU,8.0,Male,15509.0,1966.0,29.375,2.0,3u1f0ziKFCkqcHUQ0AldCU
+Drifters,The Drifters,The Drifters' Golden Hits,465.0,459.0,,-36,1968,Soul/Gospel/R&B,Greatest Hits,8.0,122,28.0,spotify:album:4PfgUTGoURqbID40xeSIRP,2.0,Male,3870.0,1956.0,33.0,12.0,4PfgUTGoURqbID40xeSIRP
+Velvet Underground,The Velvet Underground,White Light/White Heat,292.0,293.0,272.0,20,1968,Punk/Post-Punk/New Wave/Power Pop,Studio,2.0,199,28.0,spotify:album:2a5vbe7uTRGAshFI80sfAl,4.0,Male/Female,7770.0,1967.0,25.5,1.0,2a5vbe7uTRGAshFI80sfAl
+Big Brother & the Holding Company,Big Brother & the Holding Company,Cheap Thrills,338.0,338.0,372.0,-34,1968,Blues/Blues Rock,Studio,66.0,1,61.0,spotify:album:2rogKfOpmCFuqNhtGKf2dX,5.0,Male/Female,9707.0,1967.0,26.6,1.0,2rogKfOpmCFuqNhtGKf2dX
+Dusty Springfield,Dusty Springfield,Dusty in Memphis,89.0,89.0,83.0,6,1969,Soul/Gospel/R&B,Studio,14.0,99,24.0,spotify:album:14UrtAcLym4a6f7IgXVGjF,1.0,Female,1939.0,1964.0,30.0,5.0,14UrtAcLym4a6f7IgXVGjF
+Beatles,The Beatles,Abbey Road,14.0,14.0,5.0,9,1969,,Studio,83.0,1,79.0,spotify:album:0ETFjACtuP2ADo6LFhL6HN,4.0,Male,7765.0,1963.0,27.75,6.0,0ETFjACtuP2ADo6LFhL6HN
+Drake,Drake,Take Care,,,95.0,406,2011,Hip-Hop/Rap,Studio,557.0,1,84.0,spotify:album:6X1x82kppWZmDzlXXK3y3q,1.0,Male,1986.0,2010.0,25.0,1.0,6X1x82kppWZmDzlXXK3y3q
+Rolling Stones,Rolling Stones,Let It Bleed,32.0,32.0,41.0,-9,1969,Blues/Blues Rock,Studio,39.0,3,46.0,spotify:album:47hOpZQfXVIRzTiv0Ef8pO,6.0,Male,11654.0,1964.0,26.66666667,5.0,47hOpZQfXVIRzTiv0Ef8pO
+"Band, The",The Band,The Band,45.0,45.0,57.0,-12,1969,Country/Folk/Country Rock/Folk Rock,Studio,49.0,9,58.0,spotify:album:4vXFiaDS8zuEl5bOUbW53x,5.0,Male,9706.0,1968.0,27.8,1.0,4vXFiaDS8zuEl5bOUbW53x
+Led Zeppelin,Led Zeppelin,Led Zeppelin,29.0,29.0,101.0,-72,1969,Hard Rock/Metal,Studio,73.0,10,53.0,spotify:album:1J8QW9qsMLx3staWaHpQmU,4.0,Male,7786.0,1969.0,22.5,0.0,1J8QW9qsMLx3staWaHpQmU
+Led Zeppelin,Led Zeppelin,Led Zeppelin II,75.0,79.0,123.0,-48,1969,Hard Rock/Metal,Studio,75.0,1,55.0,spotify:album:58MQ0PLijVHePUonQlK76Y,4.0,Male,7786.0,1969.0,22.5,0.0,58MQ0PLijVHePUonQlK76Y
+"Crosby, Stills & Nash","Crosby, Stills & Nash","Crosby, Stills & Nash",259.0,262.0,161.0,98,1969,Country/Folk/Country Rock/Folk Rock,Studio,107.0,6,,,3.0,Male,5828.0,1969.0,26.33333333,0.0,NOS008
+"Who, The",The Who,Tommy,96.0,96.0,190.0,-94,1969,,Studio,126.0,4,39.0,spotify:album:2srjzxgFaYLNh8UlJPAJ8b,4.0,Male,7779.0,1965.0,24.25,4.0,2srjzxgFaYLNh8UlJPAJ8b
+Creedence Clearwater Revival,Creedence Clearwater Revival,Willy and the Poor Boys,392.0,309.0,193.0,199,1969,Blues/Blues Rock,Studio,3.0,60,34.0,spotify:album:5hW8vgOySUKEglHdGmNALK,4.0,Male,7776.0,1968.0,25.0,1.0,5hW8vgOySUKEglHdGmNALK
+"Presley, Elvis",Elvis Presley,From Elvis in Memphis,190.0,190.0,322.0,-132,1969,Rock n' Roll/Rhythm & Blues,Studio,34.0,13,67.0,spotify:album:3ekkFrfotMsEAKc5g71GHk,1.0,Male,1935.0,1956.0,34.0,13.0,3ekkFrfotMsEAKc5g71GHk
+MC5,MC5,Kick Out the Jams,294.0,294.0,349.0,-55,1969,Punk/Post-Punk/New Wave/Power Pop,Live,23.0,30,36.0,spotify:album:0kT4F2mSpvTk3stwiaEStp,5.0,Male,9731.0,1969.0,22.8,0.0,0kT4F2mSpvTk3stwiaEStp
+"Young, Neil",Neil Young,Everybody Knows This Is Nowhere,208.0,210.0,407.0,-199,1969,,Studio,98.0,34,,,1.0,Male,1945.0,1969.0,24.0,0.0,NOS120
+Flying Burrito Brothers,The Flying Burrito Brothers,The Gilded Palace of Sin,192.0,192.0,462.0,-270,1969,,Studio,7.0,164,41.0,spotify:album:6VWKy5o2OcdeWa7yolazjU,4.0,Male,7771.0,1969.0,26.25,0.0,6VWKy5o2OcdeWa7yolazjU
+Stooges,The Stooges,The Stooges,185.0,185.0,488.0,-303,1969,Punk/Post-Punk/New Wave/Power Pop,Studio,11.0,106,50.0,spotify:album:0Z1Y5L90NjqUD351YUQWdA,4.0,Male,7791.0,1969.0,21.25,0.0,0Z1Y5L90NjqUD351YUQWdA
+Captain Beefheart & His Magic Band,Captain Beefheart & His Magic Band,Trout Mask Replica,58.0,60.0,,-443,1969,,Studio,,201,,,6.0,Male,11682.0,1967.0,22.0,2.0,NOS124
+"Lamar, Kendrick",Kendrick Lamar,"good kid, m.A.A.d city",,,115.0,386,2012,Hip-Hop/Rap,Studio,575.0,2,76.0,spotify:album:6PBZN8cbwkqm1ERj2BGXJ1,1.0,Male,1987.0,2011.0,25.0,1.0,6PBZN8cbwkqm1ERj2BGXJ1
+Creedence Clearwater Revival,Creedence Clearwater Revival,Green River,95.0,,,-406,1969,Blues/Blues Rock,Studio,1.0,88,74.0,spotify:album:0i9mOB6mPGqwVvtJEXiwPG,4.0,Male,7776.0,1968.0,25.0,1.0,0i9mOB6mPGqwVvtJEXiwPG
+"West, Kanye",Kanye West,Late Registration,,118.0,117.0,384,2005,Hip-Hop/Rap,Studio,37.0,1,80.0,spotify:album:5ll74bqtkcXlKE7wwkMq4g,1.0,Male,1977.0,2004.0,28.0,1.0,5ll74bqtkcXlKE7wwkMq4g
+Santana,Santana,Santana,150.0,149.0,,-351,1969,Blues/Blues Rock,Studio,16.0,4,43.0,spotify:album:0hfFLQzo3OwgYFFFvTQYhT,6.0,Male,11683.0,1969.0,21.83333333,0.0,0hfFLQzo3OwgYFFFvTQYhT
+Quicksilver Messenger Service,Quicksilver Messenger Service,Happy Trails,189.0,189.0,,-312,1969,Blues/Blues Rock,Live,30.0,27,37.0,spotify:album:7d9IZA5hVMlRqkRszYt66r,4.0,Male,7773.0,1968.0,25.75,1.0,7d9IZA5hVMlRqkRszYt66r
+Grateful Dead,Grateful Dead,Live/Dead,244.0,247.0,,-257,1969,Blues/Blues Rock,Live,15.0,64,32.0,spotify:album:6E7JCQINTT4vwRF4wBcsYk,7.0,Male,13607.0,1967.0,25.14285714,2.0,6E7JCQINTT4vwRF4wBcsYk
+"Drake, Nick",Nick Drake,Five Leaves Left,283.0,,,-218,1969,,Studio,,201,59.0,spotify:album:7IpcJbVxLLEfW0KXB7ndE2,1.0,Male,1948.0,1969.0,21.0,0.0,7IpcJbVxLLEfW0KXB7ndE2
+Sly & The Family Stone,Sly & The Family Stone,Stand!,118.0,121.0,119.0,-1,1969,Soul/Gospel/R&B,Studio,102.0,13,57.0,spotify:album:7iwS1r6JHYJe9xpPjzmWqD,10.0,Male/Female,19466.0,1967.0,22.4,2.0,7iwS1r6JHYJe9xpPjzmWqD
+Velvet Underground,The Velvet Underground,The Velvet Underground,314.0,316.0,143.0,171,1969,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,41.0,spotify:album:2Cdd4W17oumNihEt2aPNJB,4.0,Male/Female,7775.0,1967.0,25.25,2.0,2Cdd4W17oumNihEt2aPNJB
+Jefferson Airplane,Jefferson Airplane,Volunteers,370.0,373.0,,-131,1969,,Studio,44.0,13,35.0,spotify:album:5SxBU3zQaLOq5eapsG3jFQ,6.0,Male/Female,11644.0,1966.0,28.33333333,3.0,5SxBU3zQaLOq5eapsG3jFQ
+"Lennon, John",John Lennon,Plastic Ono Band,22.0,23.0,85.0,-63,1970,,Studio,33.0,6,59.0,spotify:album:0DFYbYCcHCEJPcN1hODG6K,1.0,Male,1940.0,1968.0,30.0,2.0,0DFYbYCcHCEJPcN1hODG6K
+"Davis, Miles",Miles Davis,Bitches Brew,94.0,95.0,87.0,7,1970,Big Band/Jazz,Studio,29.0,35,39.0,spotify:album:3Q0zkOZEOC855ErOOJ1AdO,1.0,Male,1926.0,1951.0,44.0,19.0,3Q0zkOZEOC855ErOOJ1AdO
+"Young, Neil",Neil Young,After the Gold Rush,71.0,74.0,90.0,-19,1970,,Studio,66.0,8,,,1.0,Male,1945.0,1969.0,25.0,1.0,NOS005
+Stooges,The Stooges,Fun House,191.0,191.0,94.0,97,1970,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,42.0,spotify:album:5qhXaVIC5BdE4a5Kq1FMZG,5.0,Male,9740.0,1969.0,22.0,1.0,5qhXaVIC5BdE4a5Kq1FMZG
+"Morrison, Van",Van Morrison,Moondance,65.0,66.0,120.0,-55,1970,,Studio,24.0,29,65.0,spotify:album:5PfnCqRbdfIDMb1x3MPQam,1.0,Male,1945.0,1967.0,25.0,3.0,5PfnCqRbdfIDMb1x3MPQam
+Black Sabbath,Black Sabbath,Paranoid,130.0,131.0,139.0,-9,1970,Hard Rock/Metal,Studio,65.0,12,68.0,spotify:album:6r7LZXAVueS5DqdrvXJJK7,4.0,Male,7793.0,1970.0,21.75,0.0,6r7LZXAVueS5DqdrvXJJK7
+Simon & Garfunkel,Simon & Garfunkel,Bridge Over Troubled Water,51.0,51.0,172.0,-121,1970,Country/Folk/Country Rock/Folk Rock,Studio,85.0,1,71.0,spotify:album:0JwHz5SSvpYWuuCNbtYZoV,2.0,Male,3882.0,1964.0,29.0,6.0,0JwHz5SSvpYWuuCNbtYZoV
+"Taylor, James",James Taylor,Sweet Baby James,103.0,104.0,182.0,-79,1970,,Studio,102.0,3,65.0,spotify:album:1HiG0ukRmFPN13EVcf98Jx,1.0,Male,1948.0,1968.0,22.0,2.0,1HiG0ukRmFPN13EVcf98Jx
+"Stevens, Cat",Cat Stevens,Tea for the Tillerman,206.0,208.0,205.0,1,1970,Country/Folk/Country Rock/Folk Rock,Studio,79.0,8,73.0,spotify:album:44VxbAytHpVi3Rq8hRhild,1.0,Male,1948.0,1967.0,22.0,3.0,44VxbAytHpVi3Rq8hRhild
+Grateful Dead,Grateful Dead,American Beauty,258.0,261.0,215.0,43,1970,Country/Folk/Country Rock/Folk Rock,Studio,19.0,30,53.0,spotify:album:7rqgm1BnAZ8I4d6hukpkdg,7.0,Male,13604.0,1967.0,26.57142857,3.0,7rqgm1BnAZ8I4d6hukpkdg
+"Crosby, Stills, Nash & Young","Crosby, Stills, Nash & Young",Deja vu,148.0,147.0,220.0,-72,1970,Country/Folk/Country Rock/Folk Rock,Studio,97.0,1,64.0,spotify:album:5bHkK1X4WEOzNvRhehvOcb,4.0,Male,7773.0,1969.0,26.75,1.0,5bHkK1X4WEOzNvRhehvOcb
+Derek and the Dominos,Derek and the Dominos,Layla and Other Assorted Love Songs,115.0,117.0,226.0,-111,1970,Blues/Blues Rock,Studio,2.0,131,65.0,spotify:album:5iIWnMgvSM8uEBwXKsPcXM,6.0,Male,11672.0,1970.0,24.66666667,0.0,5iIWnMgvSM8uEBwXKsPcXM
+"Ocean, Frank",Frank Ocean,Channel Orange,,,148.0,353,2012,Soul/Gospel/R&B,Studio,150.0,2,84.0,spotify:album:392p3shh2jkxUxY2VHvlH8,1.0,Male,1987.0,2012.0,25.0,0.0,392p3shh2jkxUxY2VHvlH8
+"Who, The",The Who,Live at Leeds,170.0,170.0,327.0,-157,1970,Blues/Blues Rock,Live,44.0,4,35.0,spotify:album:6W3aTLI4B5UsPpWMvhT2W4,4.0,Male,7779.0,1965.0,25.25,5.0,6W3aTLI4B5UsPpWMvhT2W4
+Santana,Santana,Abraxas,205.0,207.0,334.0,-129,1970,Blues/Blues Rock,Studio,88.0,1,62.0,spotify:album:1CHUXwuge9A7L2KiA3vnR6,6.0,Male,11683.0,1969.0,22.83333333,1.0,1CHUXwuge9A7L2KiA3vnR6
+Beatles,The Beatles,Let It Be,86.0,392.0,342.0,-256,1970,,Studio,59.0,1,76.0,spotify:album:0jTGHV5xqHPvEcwL8f6YU5,4.0,Male,7765.0,1963.0,28.75,7.0,0jTGHV5xqHPvEcwL8f6YU5
+Jay-Z,Jay-Z,The Black Album,,349.0,155.0,346,2003,Hip-Hop/Rap,Studio,58.0,1,65.0,spotify:album:4FWvo9oS4gRgHtAwDwUjiO,1.0,Male,1969.0,1996.0,34.0,7.0,4FWvo9oS4gRgHtAwDwUjiO
+Black Sabbath,Black Sabbath,Black Sabbath,241.0,243.0,355.0,-114,1970,Hard Rock/Metal,Studio,65.0,23,50.0,spotify:album:4ZLy3U2q17Yjw7jkjXPJQj,4.0,Male,7793.0,1970.0,21.75,0.0,4ZLy3U2q17Yjw7jkjXPJQj
+"Harrison, George",George Harrison,All Things Must Pass,437.0,433.0,368.0,69,1970,Singer-Songwriter/Heartland Rock,Studio,41.0,1,63.0,spotify:album:7j7lsExGJtBHLgDYzjclwk,1.0,Male,1943.0,1968.0,27.0,2.0,7j7lsExGJtBHLgDYzjclwk
+Grateful Dead,Grateful Dead,Workingman's Dead,262.0,264.0,409.0,-147,1970,Blues/Blues Rock,Studio,26.0,27,55.0,spotify:album:4jxokHekH1qSad1DcC82ku,7.0,Male,13607.0,1967.0,26.14285714,3.0,4jxokHekH1qSad1DcC82ku
+Creedence Clearwater Revival,Creedence Clearwater Revival,Cosmo's Factory,265.0,,413.0,-148,1970,Blues/Blues Rock,Studio,1.0,69,74.0,spotify:album:5w2X5ZmdE4u0XGkOU7BiLG,4.0,Male,7776.0,1968.0,26.0,2.0,5w2X5ZmdE4u0XGkOU7BiLG
+Meters,The Meters,Look-Ka Py Py,218.0,220.0,415.0,-197,1970,Funk/Disco,Studio,2.0,198,36.0,spotify:album:6mGpQtwteyjKS4Up9tXuND,4.0,Male,7778.0,1969.0,25.5,1.0,6mGpQtwteyjKS4Up9tXuND
+"Newman, Randy",Randy Newman,12 Songs,354.0,356.0,,-147,1970,,Studio,16.0,4,25.0,spotify:album:3HhJGNadZnFCkAYrPgSuVR,1.0,Male,1943.0,1968.0,27.0,2.0,3HhJGNadZnFCkAYrPgSuVR
+Beach Boys,The Beach Boys,Sunflower,380.0,,,-121,1970,,Studio,4.0,151,47.0,spotify:album:6oUeivCrkGIQwM9uSy0N1P,6.0,Male,11657.0,1962.0,27.16666667,8.0,6oUeivCrkGIQwM9uSy0N1P
+MC5,MC5,Back in the USA,451.0,446.0,,-50,1970,Punk/Post-Punk/New Wave/Power Pop,Studio,7.0,137,37.0,spotify:album:67NkpPGMcxoIiumOW3oRpL,5.0,Male,9731.0,1969.0,23.8,1.0,67NkpPGMcxoIiumOW3oRpL
+"John, Elton",Elton John,Tumbleweed Connection,463.0,458.0,,-38,1970,Singer-Songwriter/Heartland Rock,Studio,37.0,5,46.0,spotify:album:03zfU3IwWmymKoaWnwFNaY,1.0,Male,1947.0,1969.0,23.0,1.0,03zfU3IwWmymKoaWnwFNaY
+"John, Elton",Elton John,Elton John,468.0,,,-33,1970,Singer-Songwriter/Heartland Rock,Studio,51.0,4,52.0,spotify:album:0C2grVR8DnJnL8rg7OP6Zm,1.0,Male,1947.0,1969.0,23.0,1.0,0C2grVR8DnJnL8rg7OP6Zm
+"Johnson, Robert",Robert Johnson,"King of the Delta Blues Singers, vol 2",424.0,,,-77,1970,,Compilation,,201,49.0,spotify:album:65Qaqh5BI4sTDSfzDT9rDJ,1.0,Male,1911.0,1937.0,59.0,33.0,65Qaqh5BI4sTDSfzDT9rDJ
+Velvet Underground,The Velvet Underground,Loaded,109.0,110.0,242.0,-133,1970,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,50.0,spotify:album:4RMGrhJRnGiNqmKqhqpLlX,4.0,Male/Female,7775.0,1967.0,26.25,3.0,4RMGrhJRnGiNqmKqhqpLlX
+Sly & The Family Stone,Sly & The Family Stone,Greatest Hits,60.0,61.0,343.0,-283,1970,Funk/Disco,Greatest Hits,79.0,2,51.0,spotify:album:0UM9SydcBtsklCTFgGLvcT,10.0,Male/Female,19466.0,1967.0,23.4,3.0,0UM9SydcBtsklCTFgGLvcT
+Carpenters,The Carpenters,Close to You,175.0,175.0,,-326,1970,,Studio,87.0,2,54.0,spotify:album:1CsuCA05y9r7ftG9bGGtWV,2.0,Male/Female,3896.0,1969.0,22.0,1.0,1CsuCA05y9r7ftG9bGGtWV
+"Mitchell, Joni",Joni Mitchell,Blue,30.0,30.0,3.0,27,1971,Country/Folk/Country Rock/Folk Rock,Studio,28.0,15,,,1.0,Female,1943.0,1968.0,28.0,3.0,NOS001
+"King, Carole",Carole King,Tapestry,36.0,36.0,25.0,11,1971,Singer-Songwriter/Heartland Rock,Studio,302.0,1,68.0,spotify:album:12n11cgnpjXKLeqrnIERoS,1.0,Female,1942.0,1970.0,29.0,1.0,12n11cgnpjXKLeqrnIERoS
+"Lamar, Kendrick",Kendrick Lamar,DAMN,,,175.0,326,2017,Hip-Hop/Rap,Studio,342.0,1,85.0,spotify:album:4eLPsYPBmXABThSJ821sqY,1.0,Male,1987.0,2011.0,30.0,6.0,4eLPsYPBmXABThSJ821sqY
+"Parton, Dolly",Dolly Parton,Coat of Many Colors,299.0,301.0,257.0,42,1971,Country/Folk/Country Rock/Folk Rock,Studio,,201,50.0,spotify:album:17CT6ru3CyDXAi6xVaSUzg,1.0,Female,1946.0,1967.0,25.0,4.0,17CT6ru3CyDXAi6xVaSUzg
+Janis Joplin,Janis Joplin,Pearl,122.0,125.0,259.0,-137,1971,Blues/Blues ROck,Studio,42.0,1,27.0,spotify:album:6JltsW8Goc3cZQ0GOtTX2z,1.0,Female,1943.0,1969.0,28.0,2.0,6JltsW8Goc3cZQ0GOtTX2z
+"Gaye, Marvin",Marvin Gaye,What's Going On,6.0,6.0,1.0,5,1971,Soul/Gospel/R&B,Studio,48.0,6,68.0,spotify:album:2v6ANhWhZBUKkg6pJJBs3B,1.0,Male,1939.0,1961.0,32.0,10.0,2v6ANhWhZBUKkg6pJJBs3B
+Led Zeppelin,Led Zeppelin,Led Zeppelin IV,66.0,69.0,58.0,8,1971,Hard Rock/Metal,Studio,218.0,2,58.0,spotify:album:5EyIDBAqhnlkAHqvPRwdbX,4.0,Male,7786.0,1969.0,24.5,2.0,5EyIDBAqhnlkAHqvPRwdbX
+"Who, The",The Who,Who's Next,28.0,28.0,77.0,-49,1971,,Studio,43.0,4,29.0,spotify:album:5mQnSrc0cFV6greyhJJIR6,4.0,Male,7779.0,1965.0,26.25,6.0,5mQnSrc0cFV6greyhJJIR6
+"Bowie, David",David Bowie,Hunky Dory,107.0,108.0,88.0,19,1971,,Studio,16.0,93,66.0,spotify:album:6fQElzBNTiEMGdIeY0hy5l,1.0,Male,1947.0,1967.0,24.0,4.0,6fQElzBNTiEMGdIeY0hy5l
+Rolling Stones,Rolling Stones,Sticky Fingers,63.0,64.0,104.0,-41,1971,Blues/Blues Rock,Studio,62.0,1,70.0,spotify:album:29m6DinzdaD0OPqWKGyMdz,5.0,Male,9712.0,1964.0,28.6,7.0,29m6DinzdaD0OPqWKGyMdz
+D'Angelo,D'Angelo,Brown Sugar,,,183.0,318,1995,Soul/Gospel/R&B,Studio,65.0,22,59.0,spotify:album:4HTVABUq8amDUxBv3zJbX4,1.0,Male,1974.0,1995.0,21.0,0.0,4HTVABUq8amDUxBv3zJbX4
+Allman Brothers Band,The Allman Brothers Band,At Fillmore East,49.0,49.0,105.0,-56,1971,Blues/Blues Rock,Live,47.0,13,46.0,spotify:album:0Y5Wlv2OJKaW0uDJ5HnUfy,6.0,Male,11675.0,1969.0,25.16666667,2.0,0Y5Wlv2OJKaW0uDJ5HnUfy
+Funkadelic,Funkadelic,Maggot Brain,486.0,479.0,136.0,350,1971,Funk/Disco,Studio,16.0,108,57.0,spotify:album:3ywVzrwMQ3Kq43N9zBdBQm,10.0,Male,19447.0,1970.0,26.3,1.0,3ywVzrwMQ3Kq43N9zBdBQm
+Ice Cube,Ice Cube,AmeriKKKa's Most Wanted,,,187.0,314,1990,Hip-Hop/Rap,Studio,26.0,19,53.0,spotify:album:3AI5kAUjgNtZBwFRi6opDc,1.0,Male,1969.0,1990.0,21.0,0.0,3AI5kAUjgNtZBwFRi6opDc
+"Prine, John",John Prince,John Prine,458.0,452.0,149.0,309,1971,Country/Folk/Country Rock/Folk Rock,Studio,3.0,154,54.0,spotify:album:5t4FHrIAHI8nolSAOBRgPp,1.0,Male,1946.0,1971.0,25.0,0.0,5t4FHrIAHI8nolSAOBRgPp
+"Stewart, Rod",Rod Stewart,Every Picture Tells a Story,172.0,172.0,177.0,-5,1971,,Studio,52.0,1,62.0,spotify:album:4VykjLwkyfKMZVLrJJVrYh,1.0,Male,1945.0,1969.0,26.0,2.0,4VykjLwkyfKMZVLrJJVrYh
+T. Rex,T. Rex,Electric Warrior,160.0,160.0,188.0,-28,1971,Blues/Blues Rock,Studio,34.0,32,34.0,spotify:album:4Yw5uS8at8GkWmH2gZmLY0,4.0,Male,7790.0,1968.0,23.5,3.0,4Yw5uS8at8GkWmH2gZmLY0
+"Lennon, John",John Lennon,Imagine,76.0,80.0,223.0,-147,1971,,Studio,45.0,1,69.0,spotify:album:0xzaemKucrJpYhyl7TltAk,1.0,Male,1940.0,1968.0,31.0,3.0,0xzaemKucrJpYhyl7TltAk
+Black Sabbath,Black Sabbath,Master of Reality,298.0,300.0,234.0,64,1971,Hard Rock/Metal,Studio,43.0,8,58.0,spotify:album:7pGb2cOGVz6vLyaZaKOQ7D,4.0,Male,7793.0,1970.0,22.75,1.0,7pGb2cOGVz6vLyaZaKOQ7D
+"Cohen, Leonard",Leonard Cohen,Songs of Love and Hate,,295.0,195.0,306,1970,Country/Folk/Country Rock/Folk Rock,Studio,11.0,145,53.0,spotify:album:2Om4oR7plGGub1aYe5uB7B,1.0,Male,1934.0,1967.0,36.0,3.0,2Om4oR7plGGub1aYe5uB7B
+"Drake, Nick",Nick Drake,Bryter Later,245.0,,,-256,1971,,Studio,,201,60.0,spotify:album:04FfqGvZJ9oUBGRVrq2FE5,1.0,Male,1948.0,1969.0,23.0,2.0,04FfqGvZJ9oUBGRVrq2FE5
+Jethro Tull,Jethro Tull,Aqualung,337.0,337.0,,-164,1971,Blues/Blues Rock,Studio,76.0,7,62.0,spotify:album:0NGM3Ftwjw0dLNpAowmz3x,5.0,Male,9733.0,1968.0,24.4,3.0,0NGM3Ftwjw0dLNpAowmz3x
+A Tribe Called Quest,A Tribe Called Quest,Midnight Marauders,,,201.0,300,1993,Hip-Hop/Rap,Studio,29.0,8,61.0,spotify:album:4v5x3Oo3UjQ9YmF3hRAip5,4.0,Male,7890.0,1990.0,20.5,3.0,4v5x3Oo3UjQ9YmF3hRAip5
+Doors,The Doors,L.A. Woman,362.0,364.0,,-139,1971,Blues/Blues Rock,Studio,34.0,9,68.0,spotify:album:7IKUTIc9UWuVngyGPtqNHS,4.0,Male,7772.0,1967.0,28.0,4.0,7IKUTIc9UWuVngyGPtqNHS
+"West, Kanye",Kanye West,Graduation,,,204.0,297,2007,Hip-Hop/Rap,Studio,52.0,1,87.0,spotify:album:4SZko61aMnmgvNhfhgTuD3,1.0,Male,1977.0,2004.0,30.0,3.0,4SZko61aMnmgvNhfhgTuD3
+"Cooper, Alice",Alice Cooper,Love It to Death,460.0,454.0,,-41,1971,Hard Rock/Metal,Studio,38.0,35,51.0,spotify:album:6p7jHbG5Bd6z2JgfKx0um7,5.0,Male,9736.0,1969.0,23.8,2.0,6p7jHbG5Bd6z2JgfKx0um7
+Sly & The Family Stone,Sly & The Family Stone,There's a Riot Goin' On,99.0,99.0,82.0,17,1971,Funk/Disco,Studio,31.0,1,47.0,spotify:album:29f2cOueckYE8Nc1pkJjrU,10.0,Male/Female,19466.0,1967.0,24.4,4.0,29f2cOueckYE8Nc1pkJjrU
+Rolling Stones,Rolling Stones,Exile on Main St.,7.0,7.0,14.0,-7,1972,Blues/Blues Rock,Studio,43.0,1,61.0,spotify:album:5U4dnRZsfW8NmwBBkELFPh,5.0,Male,9712.0,1964.0,29.6,8.0,5U4dnRZsfW8NmwBBkELFPh
+Lil Wayne,Lil Wayne,Tha Carter III,,437.0,208.0,293,2008,Hip-Hop/Rap,Studio,147.0,1,71.0,spotify:album:5BGzOpea6At0Nd7tYtYZOP,1.0,Male,1982.0,1999.0,26.0,9.0,5BGzOpea6At0Nd7tYtYZOP
+"Bowie, David",David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,35.0,35.0,40.0,-5,1972,,Studio,72.0,75,73.0,spotify:album:48D1hRORqJq52qsnUYZX56,1.0,Male,1947.0,1967.0,25.0,5.0,48D1hRORqJq52qsnUYZX56
+"Wonder, Stevie",Stevie Wonder,Talking Book,90.0,90.0,59.0,31,1972,Soul/Gospel/R&B,Studio,109.0,3,67.0,spotify:album:3PResMqFgQYBfzTnqTKwQw,1.0,Male,1950.0,1962.0,22.0,10.0,3PResMqFgQYBfzTnqTKwQw
+Joy Division,Joy Division,Unknown Pleasures,,,211.0,290,1980,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,50.0,spotify:album:5Dgqy4bBg09Rdw7CQM545s,4.0,Male,7825.0,1979.0,23.75,1.0,5Dgqy4bBg09Rdw7CQM545s
+"Petty, Tom",Tom Petty,Wildflowers,,,214.0,287,1994,,Studio,75.0,5,65.0,spotify:album:3ZGUBwDiY5HPOcWv4SBPQg,1.0,Male,1950.0,1976.0,44.0,18.0,3ZGUBwDiY5HPOcWv4SBPQg
+"Young, Neil",Neil Young,Harvest,78.0,82.0,72.0,6,1972,Country/Folk/Country Rock/Folk Rock,Studio,41.0,1,,,1.0,Male,1945.0,1969.0,27.0,3.0,NOS003
+"Smith, Elliott",Elliott Smith,Either/Or,,,216.0,285,1997,,Studio,1.0,173,62.0,spotify:album:5bmpvyP7UGqB4VuXmrJUMy,1.0,Male,1969.0,1994.0,28.0,3.0,5bmpvyP7UGqB4VuXmrJUMy
+Oasis,Oasis,Definitely Maybe,,,217.0,284,1994,Indie/Alternative Rock,Studio,20.0,58,69.0,spotify:album:3AMHMM2aNG6k3d7ybcQ5bY,5.0,Male,9846.0,1994.0,24.8,0.0,3AMHMM2aNG6k3d7ybcQ5bY
+Raekwon,Raekwon,Only Built 4 Cuban Linx,,480.0,219.0,282,1995,Hip-Hop/Rap,Studio,21.0,4,57.0,spotify:album:7btiyhWzUfzxN3ijSiBpC8,1.0,Male,1970.0,1995.0,25.0,0.0,7btiyhWzUfzxN3ijSiBpC8
+"Mayfield, Curtis",Curtis Mayfield,Superfly,69.0,72.0,76.0,-7,1972,Soul/Gospel/R&B,Soundtrack,46.0,1,54.0,spotify:album:5ljIGCRRvS48V4ADzPGav2,1.0,Male,1942.0,1970.0,30.0,2.0,5ljIGCRRvS48V4ADzPGav2
+"Reed, Lou",Lou Reed,Transformer,194.0,194.0,109.0,85,1972,,Studio,31.0,29,67.0,spotify:album:5SqbMEyAt8332ISGiLX0St,1.0,Male,1942.0,1972.0,30.0,0.0,5SqbMEyAt8332ISGiLX0St
+Steely Dan,Steely Dan,Can't Buy a Thrill,238.0,240.0,168.0,70,1972,,Studio,59.0,17,71.0,spotify:album:6DlSUW5gmq6Byc3osKDJ2p,5.0,Male,9739.0,1972.0,24.2,0.0,6DlSUW5gmq6Byc3osKDJ2p
+Wilco,Wilco,Yankee Hotel Foxtrot,,493.0,225.0,276,2002,,Studio,19.0,13,50.0,spotify:album:0rPtXOMN42nsLDiShvGamv,5.0,Male,9831.0,1995.0,35.8,7.0,0rPtXOMN42nsLDiShvGamv
+Various Artists,Jimmy Cliff,The Harder They Come,119.0,122.0,174.0,-55,1972,Reggae,Soundtrack,8.0,140,58.0,spotify:album:4oxdKcC9epGo9viy1j8fN7,1.0,Male,1944.0,1967.0,28.0,5.0,4oxdKcC9epGo9viy1j8fN7
+"Drake, Nick",Nick Drake,Pink Moon,320.0,321.0,203.0,117,1972,,Studio,,201,65.0,spotify:album:5mwOo1zikswhmfHvtqVSXg,1.0,Male,1948.0,1969.0,24.0,3.0,5mwOo1zikswhmfHvtqVSXg
+De La Soul,De La Soul,De La Soul Is Dead,,,228.0,273,1991,Hip-Hop/Rap,Studio,17.0,26,46.0,spotify:album:5F3GEttPPR58Gg15BKUsTd,3.0,Male,5907.0,1989.0,22.0,2.0,5F3GEttPPR58Gg15BKUsTd
+Eagles,Eagles,Eagles,374.0,368.0,207.0,167,1972,Country/Folk/Country Rock/Folk Rock,Studio,49.0,22,72.0,spotify:album:51B7LbLWgYLKBVSpkan8Z7,4.0,Male,7788.0,1972.0,25.0,0.0,51B7LbLWgYLKBVSpkan8Z7
+"John, Elton",Elton John,Honky Chateau,357.0,359.0,251.0,106,1972,Singer-Songwriter/Heartland Rock,Studio,61.0,1,72.0,spotify:album:2ei2X6ghPnw7YRwQtAH075,1.0,Male,1947.0,1969.0,25.0,3.0,2ei2X6ghPnw7YRwQtAH075
+"Newman, Randy",Randy Newman,Sail Away,321.0,322.0,268.0,53,1972,,Studio,18.0,163,36.0,spotify:album:7ojNQckNp7Tj2BkLJCiiUL,1.0,Male,1943.0,1968.0,29.0,4.0,7ojNQckNp7Tj2BkLJCiiUL
+"Green, Al",Al Green,I'm Still in Love With You,285.0,286.0,306.0,-21,1972,Soul/Gospel/R&B,Studio,67.0,4,57.0,spotify:album:7hI0QCwcx9GB8MZK24IfTT,1.0,Male,1946.0,1967.0,26.0,5.0,7hI0QCwcx9GB8MZK24IfTT
+Daft Punk,Daft Punk,Discovery,,,236.0,265,2001,Electronic,Studio,28.0,23,74.0,spotify:album:2noRn2Aes5aoNVsU6iWThc,2.0,Male,3949.0,1997.0,26.5,4.0,2noRn2Aes5aoNVsU6iWThc
+"Wonder, Stevie",Stevie Wonder,Music of My Mind,284.0,285.0,350.0,-66,1972,Soul/Gospel/R&B,Studio,35.0,21,43.0,spotify:album:7n0bcoRDylRw5PUKn2PlRJ,1.0,Male,1950.0,1962.0,22.0,10.0,7n0bcoRDylRw5PUKn2PlRJ
+"Rundgren, Todd",Todd Rundgren,Something / Anything?,173.0,173.0,396.0,-223,1972,,Studio,48.0,29,53.0,spotify:album:3fRCOoTbBsOITBWlCRCJQr,1.0,Male,1948.0,1970.0,24.0,2.0,3fRCOoTbBsOITBWlCRCJQr
+"Simon, Paul",Paul Simon,Paul Simon,267.0,268.0,425.0,-158,1972,,Studio,36.0,4,63.0,spotify:album:7npBPiCHjPj8PVIGPuHXep,1.0,Male,1941.0,1965.0,31.0,7.0,7npBPiCHjPj8PVIGPuHXep
+Big Star,Big Star,#1 Record,438.0,434.0,474.0,-36,1972,Singer-Songwriter/Heartland Rock,Studio,,201,48.0,spotify:album:1BumwwIEw1EC3xAHyf1ive,4.0,Male,7804.0,1972.0,21.0,0.0,1BumwwIEw1EC3xAHyf1ive
+Professor Longhair,Professor Longhair,New Orleans Piano,220.0,222.0,,-281,1972,,Compilation,,201,27.0,spotify:album:4vQc378UGRZAaJemArhMpv,1.0,Male,1918.0,1972.0,54.0,0.0,4vQc378UGRZAaJemArhMpv
+"West, Kanye",Kanye West,808s and Heartbreak,,,244.0,257,2008,Hip-Hop/Rap,Studio,39.0,1,78.0,spotify:album:3WFTGIO6E3Xh4paEOBY9OU,1.0,Male,1977.0,2004.0,31.0,4.0,3WFTGIO6E3Xh4paEOBY9OU
+LL Cool J,LL Cool J,Mama Said Knock You Out,,,246.0,255,1991,Hip-Hop/Rap,Studio,76.0,16,57.0,spotify:album:7p7kcsrdoJ8DKQIMouujcb,1.0,Male,1968.0,1985.0,23.0,6.0,7p7kcsrdoJ8DKQIMouujcb
+Green Day,Green Day,American Idiot,,225.0,248.0,253,2004,Punk/Post-Punk/New Wave/Power Pop,Studio,101.0,1,78.0,spotify:album:5dN7F9DV0Qg1XRdIgW8rke,3.0,Male,5916.0,1990.0,32.0,14.0,5dN7F9DV0Qg1XRdIgW8rke
+Kinks,The Kinks,The Kink Kronikles,231.0,232.0,,-270,1972,,Compilation,13.0,94,40.0,spotify:album:0zceG63ENXUsEIejj1UXFa,4.0,Male,7778.0,1964.0,27.5,8.0,0zceG63ENXUsEIejj1UXFa
+O'Jays,The O'Jays,Back Stabbers,318.0,318.0,,-183,1972,Soul/Gospel/R&B,Studio,,201,62.0,spotify:album:09jTPeDoSuJLLAwFGNUKCX,3.0,Male,5827.0,1965.0,29.66666667,7.0,09jTPeDoSuJLLAwFGNUKCX
+Dr. John,Dr. John,Dr. John's Gumbo,402.0,404.0,,-99,1972,Blues/Blues Rock,Studio,11.0,112,38.0,spotify:album:15jDv2HgLoilWgd4KWaLQn,1.0,Male,1941.0,1968.0,31.0,4.0,15jDv2HgLoilWgd4KWaLQn
+War,War,The World Is a Ghetto,449.0,444.0,,-52,1972,,Studio,68.0,1,35.0,spotify:album:4UZmpGH8kpAgyZ2yqQ8sP9,7.0,Male,13607.0,1970.0,28.14285714,2.0,4UZmpGH8kpAgyZ2yqQ8sP9
+"Hancock, Herbie",Herbie Hancock,Head Hunters,,,254.0,247,1973,Big Band/Jazz,Studio,47.0,13,50.0,spotify:album:5fmIolILp5NAtNYiRPjhzA,1.0,Male,1940.0,1962.0,33.0,11.0,5fmIolILp5NAtNYiRPjhzA
+Mott the Hoople,Mott the Hoople,All the Young Dudes,491.0,484.0,,-10,1972,,Studio,19.0,89,53.0,spotify:album:3LdlOZcV0dp7ePBXe2KAGa,5.0,Male,9722.0,1969.0,27.6,3.0,3LdlOZcV0dp7ePBXe2KAGa
+Beastie Boys,Beastie Boys,Check Your Head,,,261.0,240,1992,Hip-Hop/Rap,Studio,35.0,10,55.0,spotify:album:7CSP7J60QKIBCqOV64qILq,3.0,Male,5895.0,1986.0,27.0,6.0,7CSP7J60QKIBCqOV64qILq
+New Order,New Order,"Power, Corruption & Lies",,,262.0,239,1983,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,57.0,spotify:album:6NTrwu1XJ56jBPx7HMksbZ,4.0,Male,7830.0,1981.0,25.5,2.0,6NTrwu1XJ56jBPx7HMksbZ
+Simon & Garfunkel,Simon & Garfunkel,Greatest Hits,293.0,,,-208,1972,,Greatest Hits,180.0,5,54.0,spotify:album:4Em5W5HgYEvhpc2elrpKES,2.0,Male,3882.0,1964.0,31.0,8.0,4Em5W5HgYEvhpc2elrpKES
+"Wonder, Stevie",Stevie Wonder,Innervisions,23.0,24.0,34.0,-11,1973,Funk/Disco,Studio,89.0,4,62.0,spotify:album:5jgI8Eminx9MmLBontDWq8,1.0,Male,1950.0,1962.0,23.0,11.0,5jgI8Eminx9MmLBontDWq8
+Pavement,Pavement,Wowee Zowee,,,265.0,236,1995,Indie/Alternative Rock,Studio,1.0,117,52.0,spotify:album:0OHDiDMyxzWJfwtoeHNCf4,5.0,Male,9827.0,1992.0,29.6,3.0,0OHDiDMyxzWJfwtoeHNCf4
+Pink Floyd,Pink Floyd,The Dark Side of the Moon,43.0,43.0,55.0,-12,1973,,Studio,741.0,1,76.0,spotify:album:4LH4d3cOWNNsVw41Gqt2kv,4.0,Male,7776.0,1967.0,29.0,6.0,4LH4d3cOWNNsVw41Gqt2kv
+"John, Elton",Elton John,Goodbye Yellow Brick Road,91.0,91.0,112.0,-21,1973,Singer-Songwriter/Heartland Rock,Studio,91.0,1,74.0,spotify:album:5WupqgR68HfuHt3BMJtgun,1.0,Male,1947.0,1969.0,26.0,4.0,5WupqgR68HfuHt3BMJtgun
+Led Zeppelin,Led Zeppelin,Houses of the Holy,149.0,148.0,278.0,-129,1973,Hard Rock/Metal,Studio,88.0,1,64.0,spotify:album:0GqpoHJREPp0iuXK3HzrHk,4.0,Male,7786.0,1969.0,26.5,4.0,0GqpoHJREPp0iuXK3HzrHk
+"West, Kanye",Kanye West,Yeezus,,,269.0,232,2013,Hip-Hop/Rap,Studio,36.0,1,80.0,spotify:album:7D2NdGvBHIavgLhmcwhluK,1.0,Male,1977.0,2004.0,36.0,9.0,7D2NdGvBHIavgLhmcwhluK
+New York Dolls,New York Dolls,New York Dolls,213.0,215.0,301.0,-88,1973,Punk/Post-Punk/New Wave/Power Pop,Studio,12.0,116,47.0,spotify:album:2xbTV0Awe4Qm5caUVuPbMr,5.0,Male,9748.0,1973.0,23.4,0.0,2xbTV0Awe4Qm5caUVuPbMr
+Toots & The Maytals,Toots & The Maytals,Funky Kingston,378.0,380.0,344.0,34,1973,Reggae,Compilation,13.0,164,51.0,spotify:album:7a341nZsSfwyBsq1tMPETz,7.0,Male,13608.0,1964.0,29.0,9.0,7a341nZsSfwyBsq1tMPETz
+"Mayfield, Curtis",Curtis Mayfield,Curtis,,,275.0,226,1970,Soul/Gospel/R&B,Studio,49.0,19,20.0,spotify:album:1e7dJKGZZaPEsge725g2S8,1.0,Male,1942.0,1970.0,28.0,0.0,1e7dJKGZZaPEsge725g2S8
+"Springsteen, Bruce",Bruce Springsteen,"The Wild, the Innocent & the E Street Shuffle",132.0,133.0,345.0,-213,1973,Singer-Songwriter/Heartland Rock,Studio,29.0,59,46.0,spotify:album:1rmhti8uHw21LnaWMQy608,1.0,Male,1949.0,1973.0,24.0,0.0,1rmhti8uHw21LnaWMQy608
+Roxy Music,Roxy Music,For Your Pleasure,394.0,396.0,351.0,43,1973,Punk/Post-Punk/New Wave/Power Pop,Studio,2.0,193,41.0,spotify:album:6gKMWnGptVs6yT2MgCxw29,6.0,Male,11688.0,1972.0,25.0,1.0,6gKMWnGptVs6yT2MgCxw29
+Lynyrd Skynyrd,Lynyrd Skynyrd,(pronounced 'leh-'nerd 'skin-'nerd),401.0,403.0,381.0,20,1973,Country/Folk/Country Rock/Folk Rock,Studio,76.0,27,73.0,spotify:album:6DExt1eX4lflLacVjHHbOs,10.0,Male,19502.0,1973.0,22.8,0.0,6DExt1eX4lflLacVjHHbOs
+50 Cent,50 Cent,Get Rich or Die Tryin',,,280.0,221,2003,Hip-Hop/Rap,Studio,82.0,1,75.0,spotify:album:4ycNE7y1rp5215g1kkqk1P,1.0,Male,1975.0,2003.0,28.0,0.0,4ycNE7y1rp5215g1kkqk1P
+"Nilsson, Harry",Harry Nilsson,Nilsson Schmilsson,,,281.0,220,1971,,Studio,4.0,166,60.0,spotify:album:3EfpOFKjotrMQTFTnxrXaB,1.0,Male,1941.0,1966.0,30.0,5.0,3EfpOFKjotrMQTFTnxrXaB
+"Gaye, Marvin",Marvin Gaye,Let's Get It On,165.0,165.0,422.0,-257,1973,Soul/Gospel/R&B,Studio,54.0,2,62.0,spotify:album:1oIICL75sMuInkEhX8jj3b,1.0,Male,1939.0,1961.0,34.0,12.0,1oIICL75sMuInkEhX8jj3b
+"Haggard, Merle",Merle Haggard,Down Every Road,,477.0,284.0,217,1996,Country/Folk/Country Rock/Folk Rock,Compilation,,201,50.0,spotify:album:40Wi0Ej08sw9B4URIOabOI,1.0,Male,1937.0,1965.0,59.0,31.0,40Wi0Ej08sw9B4URIOabOI
+"Green, Al",Al Green,Call Me,289.0,290.0,427.0,-138,1973,Soul/Gospel/R&B,Studio,41.0,10,45.0,spotify:album:1hryVGXoRLV9WAhO97xEDJ,1.0,Male,1946.0,1967.0,27.0,6.0,1hryVGXoRLV9WAhO97xEDJ
+Iggy and The Stooges,The Stooges,Raw Power,125.0,128.0,,-376,1973,Punk/Post-Punk/New Wave/Power Pop,Studio,3.0,182,44.0,spotify:album:6mxbG8KrOTZIxlP4gzaliM,4.0,Male,7793.0,1969.0,24.75,4.0,6mxbG8KrOTZIxlP4gzaliM
+"Who, The",The Who,Quadrophenia,266.0,267.0,,-235,1973,,Studio,56.0,2,48.0,spotify:album:2miMVTH3qNA49YD2BUaIWK,4.0,Male,7779.0,1965.0,28.25,8.0,2miMVTH3qNA49YD2BUaIWK
+"Bowie, David",David Bowie,Aladdin Sane,277.0,279.0,,-224,1973,,Studio,22.0,17,56.0,spotify:album:3HZKOk1knxrUU3y5ZIOdbz,1.0,Male,1947.0,1967.0,26.0,6.0,3HZKOk1knxrUU3y5ZIOdbz
+OutKast,OutKast,Speakerboxxx/The Love Below,,,290.0,211,2003,Hip-Hop/Rap,Studio,56.0,1,75.0,spotify:album:1UsmQ3bpJTyK6ygoOOjG1r,2.0,Male,3950.0,1994.0,28.0,9.0,1UsmQ3bpJTyK6ygoOOjG1r
+Wailers,Bob Marley,Burnin',319.0,319.0,,-182,1973,Reggae,Studio,6.0,151,58.0,spotify:album:5EZMcYc3xK0rlru83kHpUe,6.0,Male,11685.0,1965.0,25.5,8.0,5EZMcYc3xK0rlru83kHpUe
+"Reed, Lou",Lou Reed,Berlin,344.0,344.0,,-157,1973,,Studio,11.0,98,38.0,spotify:album:4iaDgkP0M6ahEHrBynAFei,1.0,Male,1942.0,1972.0,31.0,1.0,4iaDgkP0M6ahEHrBynAFei
+Daft Punk,Daft Punk,Random Access Memories,,,295.0,206,2013,Electronic,Studio,53.0,1,74.0,spotify:album:4m2880jivSbbyEGAKfITCa,2.0,Male,3949.0,1997.0,38.5,16.0,4m2880jivSbbyEGAKfITCa
+Mott the Hoople,Mott the Hoople,Mott,366.0,370.0,,-135,1973,,Studio,29.0,35,33.0,spotify:album:3ApRy4edE6ZYi081aFpq4s,4.0,Male,7778.0,1969.0,28.5,4.0,3ApRy4edE6ZYi081aFpq4s
+"Springsteen, Bruce",Bruce Springsteen,"Greetings from Asbury Park, NJ",379.0,,,-122,1973,Singer-Songwriter/Heartland Rock,Studio,36.0,60,46.0,spotify:album:4hQ5RfHzq1SGJNfZWrpg7C,1.0,Male,1949.0,1973.0,24.0,0.0,4hQ5RfHzq1SGJNfZWrpg7C
+"Petty, Tom",Tom Petty,Full Moon Fever,,,298.0,203,1989,,Studio,75.0,3,74.0,spotify:album:5d71Imt5CIb7LpQwDMQ093,1.0,Male,1950.0,1976.0,39.0,13.0,5d71Imt5CIb7LpQwDMQ093
+"Browne, Jackson",Jackson Browne,For Everyman,457.0,450.0,,-44,1973,,Studio,38.0,43,49.0,spotify:album:12X80pgkHSjMDgAAS0HBdr,1.0,Male,1948.0,1972.0,25.0,1.0,12X80pgkHSjMDgAAS0HBdr
+ZZ Top,ZZ Top,Tres Hombres,498.0,490.0,,-3,1973,Blues/Blues Rock,Studio,81.0,8,68.0,spotify:album:0Em8m9kRctyH9S3MTXAHvY,3.0,Male,5847.0,1971.0,24.0,2.0,0Em8m9kRctyH9S3MTXAHvY
+Wailers,Bob Marley,Catch a Fire,123.0,126.0,140.0,-17,1973,Reggae,Studio,5.0,171,61.0,spotify:album:39kLAVdcgW7jbMcTEaY2qy,7.0,Male/Female,13627.0,1965.0,26.28571429,8.0,39kLAVdcgW7jbMcTEaY2qy
+"Withers, Bill",Bill Withers,Just As I Am,,,304.0,197,1971,Soul/Gospel/R&B,Studio,33.0,39,75.0,spotify:album:6N8uPmDqbgXD3ztkCCfxoo,1.0,Male,1938.0,1971.0,33.0,0.0,6N8uPmDqbgXD3ztkCCfxoo
+Sly & The Family Stone,Sly & The Family Stone,Fresh,186.0,186.0,,-315,1973,Funk/Disco,Studio,33.0,7,58.0,spotify:album:5Mtnj5JyvyXR6ui377dBnD,11.0,Male/Female,21410.0,1967.0,26.63636364,6.0,5Mtnj5JyvyXR6ui377dBnD
+Paul McCartney & Wings,Paul McCartney,Band on the Run,418.0,418.0,,-83,1973,,Studio,116.0,1,65.0,spotify:album:257oomaawruFknt5wYCPDh,5.0,Male/Female,9713.0,1970.0,30.4,3.0,257oomaawruFknt5wYCPDh
+"Mitchell, Joni",Joni Mitchell,Court and Spark,111.0,113.0,110.0,1,1974,,Studio,64.0,2,,,1.0,Female,1943.0,1968.0,31.0,6.0,NOS006
+LaBelle,LaBelle,Nightbirds,272.0,274.0,,-229,1974,Soul/Gospel/R&B,Studio,28.0,7,51.0,spotify:album:5Zx4eUC5dTg6aufiSLQ6uo,3.0,Female,5833.0,1963.0,29.66666667,11.0,5Zx4eUC5dTg6aufiSLQ6uo
+"Eno, Brian",Brian Eno,Here Come the Warm Jets,436.0,432.0,308.0,128,1974,,Studio,6.0,151,41.0,spotify:album:74jn28Kr29iyh8eZXSvnwi,1.0,Male,1948.0,1974.0,26.0,0.0,74jn28Kr29iyh8eZXSvnwi
+Big Star,Big Star,Radio City,403.0,405.0,359.0,44,1974,Singer-Songwriter/Heartland Rock,Studio,,201,37.0,spotify:album:3mtVgumHx6y9I2UvW4lUd5,3.0,Male,5853.0,1972.0,23.0,2.0,3mtVgumHx6y9I2UvW4lUd5
+"Young, Neil",Neil Young,On the Beach,,,311.0,190,1974,,Studio,18.0,16,,,1.0,Male,1945.0,1969.0,29.0,5.0,NOS114
+"John, Elton",Elton John,Greatest Hits,135.0,136.0,,-366,1974,Singer-Songwriter/Heartland Rock,Greatest Hits,104.0,1,,,1.0,Male,1947.0,1969.0,27.0,5.0,NOS125
+Stone Roses,The Stone Roses,The Stone Roses,,498.0,319.0,182,1989,Indie/Alternative Rock,Studio,26.0,86,65.0,spotify:album:0um9FI6BLBldL5POP4D4Cw,4.0,Male,7851.0,1989.0,26.25,0.0,0um9FI6BLBldL5POP4D4Cw
+Meters,The Meters,Rejuvenation,138.0,139.0,,-363,1974,Funk/Disco,Studio,,201,45.0,spotify:album:3OoFKxuziLv3B3NxhEJwOW,4.0,Male,7778.0,1969.0,29.5,5.0,3OoFKxuziLv3B3NxhEJwOW
+"Marley, Bob",Bob Marley,Natty Dread,182.0,181.0,,-319,1974,Reggae,Studio,28.0,92,57.0,spotify:album:1d8lF3nZpEIFeEbWmAt9Ey,1.0,Male,1945.0,1965.0,29.0,9.0,1d8lF3nZpEIFeEbWmAt9Ey
+"White, Barry",Barry White,Can't Get Enough,281.0,283.0,,-220,1974,Soul/Gospel/R&B,Studio,38.0,1,62.0,spotify:album:42Si9RbdXYGWQsfNTzjlnG,1.0,Male,1944.0,1973.0,30.0,1.0,42Si9RbdXYGWQsfNTzjlnG
+"Waits, Tom",Tom Waits,The Heart of Saturday Night,339.0,339.0,,-162,1974,,Studio,,201,47.0,spotify:album:2fnWxy7UoIazBiewjgchvm,1.0,Male,1949.0,1973.0,25.0,1.0,2fnWxy7UoIazBiewjgchvm
+"Browne, Jackson",Jackson Browne,Late for the Sky,372.0,375.0,,-129,1974,,Studio,29.0,14,45.0,spotify:album:0aiTqo8YZI0dKDgcCnkkzP,1.0,Male,1948.0,1972.0,26.0,2.0,0aiTqo8YZI0dKDgcCnkkzP
+Steely Dan,Steely Dan,Pretzel Logic,385.0,386.0,,-116,1974,,Studio,36.0,8,59.0,spotify:album:4XfN871nBIz6obaUDEzZXm,5.0,Male,9739.0,1972.0,26.2,2.0,4XfN871nBIz6obaUDEzZXm
+Vampire Weekend,Vampire Weekend,Modern Vampires of the City,,,328.0,173,2013,Indie/Alternative Rock,Studio,55.0,1,59.0,spotify:album:1GXMNFfoHF4sN7lG8gZq1j,4.0,Male,7935.0,2008.0,29.25,5.0,1GXMNFfoHF4sN7lG8gZq1j
+DJ Shadow,DJ Shadow,Entroducing,,,329.0,172,1996,,Studio,,201,55.0,spotify:album:4tUVkNYSFrrEqqrxBQW9PN,1.0,Male,1972.0,1996.0,24.0,0.0,4tUVkNYSFrrEqqrxBQW9PN
+Roxy Music,Roxy Music,Country Life,387.0,,,-114,1974,Punk/Post-Punk/New Wave/Power Pop,Studio,15.0,37,37.0,spotify:album:59RclwjkzMJTJZNxrfGdLC,6.0,Male,11690.0,1972.0,25.66666667,2.0,59RclwjkzMJTJZNxrfGdLC
+"Newman, Randy",Randy Newman,Good Old Boys,393.0,394.0,,-108,1974,,Studio,23.0,36,35.0,spotify:album:4UY90kcO4N9ZPBl4xPLvvU,1.0,Male,1943.0,1968.0,31.0,6.0,4UY90kcO4N9ZPBl4xPLvvU
+"Withers, Bill",Bill Withers,Still Bill,,,333.0,168,1972,Soul/Gospel/R&B,Studio,43.0,4,66.0,spotify:album:0sFuW4rH5mFZUjNKnckO3v,1.0,Male,1938.0,1971.0,34.0,1.0,0sFuW4rH5mFZUjNKnckO3v
+"Clapton, Eric",Eric Clapton,461 Ocean Boulevard,409.0,411.0,,-92,1974,Blues/Blues Rock,Studio,25.0,1,34.0,spotify:album:73cxqemPE6sVoCkwRuPU6E,1.0,Male,1945.0,1970.0,29.0,4.0,73cxqemPE6sVoCkwRuPU6E
+"Parsons, Gram",Gram Parsons,Grievous Angel,429.0,425.0,,-72,1974,Country/Folk/Country Rock/Folk Rock,Studio,3.0,195,44.0,spotify:album:6UQujMGmR5MbFsML9amCuN,1.0,Male,1946.0,1973.0,28.0,1.0,6UQujMGmR5MbFsML9amCuN
+"Thompson, Richard & Linda",Richard & Linda Thompson,I Want to See the Bright Lights Tonight,479.0,471.0,485.0,-6,1974,,Studio,,201,38.0,spotify:album:1K1Qdd60pW48wEgWGQLeRt,2.0,Male/Female,3896.0,1974.0,26.0,0.0,1K1Qdd60pW48wEgWGQLeRt
+"Smith, Patti",Patti Smith,Horses,44.0,44.0,26.0,18,1975,Punk/Post-Punk/New Wave/Power Pop,Studio,17.0,47,33.0,spotify:album:0OeuSeP8wp8n8OuTqYb61C,1.0,Female,1946.0,1975.0,29.0,0.0,0OeuSeP8wp8n8OuTqYb61C
+"Ronstadt, Linda",Linda Ronstadt,Heart Like a Wheel,164.0,,490.0,-326,1975,,Studio,51.0,1,57.0,spotify:album:7upKDUGJUjsvfIe6vuVB0b,1.0,Female,1946.0,1969.0,29.0,6.0,7upKDUGJUjsvfIe6vuVB0b
+Snoop Doggy Dogg,Snoop Dogg,Doggystyle,,,340.0,161,1993,Hip-Hop/Rap,Studio,72.0,1,72.0,spotify:album:5IFOummNcGXY3qCBWRchqP,1.0,Male,1971.0,1993.0,22.0,0.0,5IFOummNcGXY3qCBWRchqP
+"Dylan, Bob",Bob Dylan,Blood on the Tracks,16.0,16.0,9.0,7,1975,Country/Folk/Country Rock/Folk Rock,Studio,24.0,1,59.0,spotify:album:4WD4pslu83FF6oMa1e19mF,1.0,Male,1941.0,1962.0,34.0,13.0,4WD4pslu83FF6oMa1e19mF
+"Springsteen, Bruce",Bruce Springsteen,Born to Run,18.0,18.0,21.0,-3,1975,Singer-Songwriter/Heartland Rock,Studio,110.0,3,65.0,spotify:album:43YIoHKSrEw2GJsWmhZIpu,1.0,Male,1949.0,1973.0,26.0,2.0,43YIoHKSrEw2GJsWmhZIpu
+Queen,Queen,A Night at the Opera,230.0,231.0,128.0,102,1975,,Studio,56.0,4,40.0,spotify:album:7HVoV2lgVsmuiHsjbbUJB4,4.0,Male,7793.0,1973.0,26.75,2.0,7HVoV2lgVsmuiHsjbbUJB4
+Arctic Monkeys,Arctic Monkeys,AM,,,346.0,155,2013,Indie/Alternative Rock,Studio,275.0,6,91.0,spotify:album:78bpIziExqiI9qztvNFlQu,4.0,Male,7942.0,2006.0,27.5,7.0,78bpIziExqiI9qztvNFlQu
+GZA,GZA,Liquid Swords,,,347.0,154,1995,Hip-Hop/Rap,Studio,24.0,9,60.0,spotify:album:3k8xoyOXkGgZxUKgpmxz4P,1.0,Male,1966.0,1991.0,29.0,4.0,3k8xoyOXkGgZxUKgpmxz4P
+Led Zeppelin,Led Zeppelin,Physical Graffiti,70.0,73.0,144.0,-74,1975,Hard Rock/Metal,Studio,28.0,1,49.0,spotify:album:4Q7cPyiP8cMIlUEHAqeYfd,4.0,Male,7786.0,1969.0,28.5,6.0,4Q7cPyiP8cMIlUEHAqeYfd
+"Nelson, Willie",Willie Nelson,Red Headed Stranger,184.0,183.0,237.0,-53,1975,Country/Folk/Country Rock/Folk Rock,Studio,43.0,28,53.0,spotify:album:5aEtg4dxdBk4pj6SJ3hNsM,1.0,Male,1933.0,1962.0,42.0,13.0,5aEtg4dxdBk4pj6SJ3hNsM
+Pink Floyd,Pink Floyd,Wish You Were Here,209.0,211.0,264.0,-55,1975,,Studio,39.0,1,70.0,spotify:album:0bCAjiUamIFqKJsekOYuRw,4.0,Male,7776.0,1967.0,31.0,8.0,0bCAjiUamIFqKJsekOYuRw
+"Young, Neil",Neil Young,Tonight's the Night,331.0,330.0,302.0,29,1975,,Studio,12.0,25,,,1.0,Male,1945.0,1969.0,30.0,6.0,NOS113
+KISS,KISS,Alive!,159.0,159.0,305.0,-146,1975,Hard Rock/Metal,Live,9.0,110,44.0,spotify:album:6TRmLIsPKSPS71Cnq8FiMc,4.0,Male,7797.0,1974.0,25.75,1.0,6TRmLIsPKSPS71Cnq8FiMc
+"Dylan, Bob",Bob Dylan,The Basement Tapes,291.0,292.0,335.0,-44,1975,Country/Folk/Country Rock/Folk Rock,Studio,14.0,7,44.0,spotify:album:6BOlD6UGUg45IsUXPSplkY,1.0,Male,1941.0,1962.0,34.0,13.0,6BOlD6UGUg45IsUXPSplkY
+"Eno, Brian",Brian Eno,Another Green World,433.0,429.0,338.0,95,1975,,Studio,,201,49.0,spotify:album:6uoeezh45SYEb8lcT8gDTY,1.0,Male,1948.0,1974.0,27.0,1.0,6uoeezh45SYEb8lcT8gDTY
+Parliament,Parliament,Mothership Connection,274.0,276.0,363.0,-89,1975,Funk/Disco,Studio,37.0,13,57.0,spotify:album:4q1HNSka8CzuLvC8ydcsD2,12.0,Male,23368.0,1970.0,27.66666667,5.0,4q1HNSka8CzuLvC8ydcsD2
+"Earth, Wind & Fire","Earth, Wind & Fire",That's the Way of the World,493.0,486.0,420.0,73,1975,Funk/Disco,Studio,55.0,1,65.0,spotify:album:5tXZfxvr2VaWibD74nw8VL,8.0,Male,15620.0,1971.0,22.5,4.0,5tXZfxvr2VaWibD74nw8VL
+"Green, Al",Al Green,Greatest Hits,52.0,52.0,456.0,-404,1975,Soul/Gospel/R&B,Greatest Hits,21.0,17,43.0,spotify:album:6W0V8B0fJItvOwC8v114rZ,1.0,Male,1946.0,1967.0,29.0,8.0,6W0V8B0fJItvOwC8v114rZ
+My Chemical Romance,My Chemical Romance,The Black Parade,,,361.0,140,2006,Punk/Post-Punk/New Wave/Power Pop,Studio,58.0,2,80.0,spotify:album:0FZK97MXMm5mUQ8mtudjuK,5.0,Male,9894.0,2002.0,27.2,4.0,0FZK97MXMm5mUQ8mtudjuK
+"Vandross, Luther",Luther Vandross,Never Too Much,,,362.0,139,1981,Funk/Disco,Studio,36.0,19,64.0,spotify:album:1B4oPgG5ljWTRxsKcTHAYn,1.0,Male,1951.0,1981.0,30.0,0.0,1B4oPgG5ljWTRxsKcTHAYn
+"John, Elton",Elton John,Captain Fantastic and the Brown Dirt Cowboy,158.0,158.0,,-343,1975,Singer-Songwriter/Heartland Rock,Studio,43.0,1,54.0,spotify:album:4UcpKa4yD9AA3iEHI8MFSF,1.0,Male,1947.0,1969.0,28.0,6.0,4UcpKa4yD9AA3iEHI8MFSF
+Madvillain,Madvillain,Madvillainy,,,365.0,136,2004,Hip-Hop/Rap,Studio,1.0,179,73.0,spotify:album:19bQiwEKhXUBJWY6oV3KZk,2.0,Male,3944.0,2004.0,32.0,0.0,19bQiwEKhXUBJWY6oV3KZk
+Aerosmith,Aerosmith,Toys in the Attic,228.0,229.0,,-273,1975,Hard Rock/Metal,Studio,128.0,11,72.0,spotify:album:6As5aOEQjfxLIChIB3fQRD,5.0,Male,9751.0,1973.0,24.8,2.0,6As5aOEQjfxLIChIB3fQRD
+Drake,Drake,If You're Reading This It's Too Late,,,367.0,134,2015,Hip-Hop/Rap,Studio,201.0,1,77.0,spotify:album:0ptlfJfwGTy0Yvrk14JK1I,1.0,Male,1986.0,2010.0,29.0,5.0,0ptlfJfwGTy0Yvrk14JK1I
+Roxy Music,Roxy Music,Siren,371.0,374.0,,-130,1975,Punk/Post-Punk/New Wave/Power Pop,Studio,20.0,50,49.0,spotify:album:5Tpor3YZBVEJ9tWD5L31mH,6.0,Male,11690.0,1972.0,26.66666667,3.0,5Tpor3YZBVEJ9tWD5L31mH
+Mobb Deep,Mobb Deep,The Infamous,,,369.0,132,1995,Hip-Hop/Rap,Studio,18.0,18,71.0,spotify:album:1cCAb1vN8uUsdfEylVmTLs,2.0,Male,3948.0,1993.0,21.0,2.0,1cCAb1vN8uUsdfEylVmTLs
+Lil Wayne,Lil Wayne,Tha Carter II,,,370.0,131,2005,Hip-Hop/Rap,Studio,43.0,2,63.0,spotify:album:7slHgsEMuJfnuft5LAPyw6,1.0,Male,1982.0,1999.0,23.0,6.0,7slHgsEMuJfnuft5LAPyw6
+Fleetwood Mac,Fleetwood Mac,Fleetwood Mac,183.0,182.0,,-318,1975,Singer-Songwriter/Heartland Rock,Studio,166.0,1,50.0,spotify:album:6jTUmLtY779ZNYsyugOq2q,5.0,Male/Female,9732.0,1968.0,28.6,7.0,6jTUmLtY779ZNYsyugOq2q
+"Hayes, Isaac",Isaac Hayes,Hot Buttered Soul,,,373.0,128,1969,Soul/Gospel/R&B,Studio,81.0,8,34.0,spotify:album:71rxIr6MJYUzDG9ge6Jq3J,1.0,Male,1942.0,1968.0,27.0,1.0,71rxIr6MJYUzDG9ge6Jq3J
+"Wonder, Stevie",Stevie Wonder,Songs in the Key of Life,56.0,57.0,4.0,52,1976,Soul/Gospel/R&B,Studio,77.0,1,70.0,spotify:album:6YUCc2RiXcEKS9ibuZxjt0,1.0,Male,1950.0,1962.0,26.0,14.0,6YUCc2RiXcEKS9ibuZxjt0
+Ramones,Ramones,Ramones,33.0,33.0,47.0,-14,1976,Punk/Post-Punk/New Wave/Power Pop,Studio,18.0,111,41.0,spotify:album:3ToX9inehiXTv17hpaOyie,4.0,Male,7799.0,1976.0,26.25,0.0,3ToX9inehiXTv17hpaOyie
+Neutral Milk Hotel,Neutral Milk Hotel,In the Aeroplane Over the Sea,,,376.0,125,1998,Indie/Alternative Rock,Studio,,201,63.0,spotify:album:0vVekV45lOaVKs6RZQQNob,4.0,Male,7883.0,1996.0,27.25,2.0,0vVekV45lOaVKs6RZQQNob
+"Bowie, David",David Bowie,Station to Station,323.0,324.0,52.0,271,1976,,Studio,32.0,3,55.0,spotify:album:0MWrKayUshRuT8maG4ZAOU,1.0,Male,1947.0,1967.0,29.0,9.0,0MWrKayUshRuT8maG4ZAOU
+Rush,Rush,Moving Pictures,,,379.0,122,1981,Hard Rock/Metal,Studio,68.0,3,65.0,spotify:album:2xg7iIKoSqaDNpDbJnyCjY,3.0,Male,5858.0,1974.0,28.33333333,7.0,2xg7iIKoSqaDNpDbJnyCjY
+"Mingus, Charles",Charles Mingus,Mingus Ah Um,,,380.0,121,1959,Big Band/Jazz,Studio,,201,34.0,spotify:album:4Z8nWz3dGybOP7lhMZpcOo,1.0,Male,1922.0,1953.0,37.0,6.0,4Z8nWz3dGybOP7lhMZpcOo
+"Presley, Elvis",Elvis Presley,The Sun Sessions,11.0,11.0,78.0,-67,1976,Rock n' Roll/Rhythm & Blues,Compilation,11.0,76,,,1.0,Male,1935.0,1956.0,41.0,20.0,NOS004
+Tame Impala,Tame Impala,Currents,,,382.0,119,2015,Indie/Alternative Rock,Studio,132.0,4,84.0,spotify:album:79dL7FLiJFOO0EoehUHQBv,1.0,Male,1986.0,2010.0,29.0,5.0,79dL7FLiJFOO0EoehUHQBv
+Eagles,Eagles,Hotel California,37.0,37.0,118.0,-81,1976,Country/Folk/Country Rock/Folk Rock,Studio,158.0,1,76.0,spotify:album:2widuo17g5CEC66IbzveRu,5.0,Male,9735.0,1972.0,29.0,4.0,2widuo17g5CEC66IbzveRu
+Modern Lovers,The Modern Lovers,The Modern Lovers,381.0,382.0,288.0,93,1976,,Studio,,201,45.0,spotify:album:7ro1W6lc4tuTaRyA8rnVm1,4.0,Male,7799.0,1972.0,26.25,4.0,7ro1W6lc4tuTaRyA8rnVm1
+Aerosmith,Aerosmith,Rocks,176.0,176.0,366.0,-190,1976,Hard Rock/Metal,Studio,53.0,3,55.0,spotify:album:4ldiyfqRvKiIasHHuDftuP,5.0,Male,9751.0,1973.0,25.8,3.0,4ldiyfqRvKiIasHHuDftuP
+J. Dilla,J Dilla,Donuts,,,386.0,115,2006,Hip-Hop/Rap,Studio,,201,65.0,spotify:album:5fMlysqhFE0itGn4KezMBW,1.0,Male,1974.0,2001.0,32.0,5.0,5fMlysqhFE0itGn4KezMBW
+Radiohead,Radiohead,In Rainbows,,336.0,387.0,114,2007,Indie/Alternative Rock,Studio,52.0,1,76.0,spotify:album:5vkqYmiPBYLaalcmjujWxK,5.0,Male,9843.0,1993.0,38.4,14.0,5vkqYmiPBYLaalcmjujWxK
+D'Angelo,D'Angelo,Black Messiah,,,395.0,106,2014,Soul/Gospel/R&B,Studio,15.0,5,51.0,spotify:album:5Hfbag0SsHxafx1SySFSX6,1.0,Male,1974.0,1995.0,40.0,19.0,5Hfbag0SsHxafx1SySFSX6
+"Dylan, Bob",Bob Dylan,Desire,174.0,174.0,,-327,1976,Country/Folk/Country Rock/Folk Rock,Studio,35.0,1,58.0,spotify:album:1T8usYsiGEMPMQOLFgJEbE,1.0,Male,1941.0,1962.0,35.0,14.0,1T8usYsiGEMPMQOLFgJEbE
+"Wilson, Brian",Brian Wilson,Smile,,,399.0,102,2004,,Studio,17.0,13,36.0,spotify:album:4Uc6YCjpfyjj02rZfg2EUv,1.0,Male,1942.0,1988.0,62.0,16.0,4Uc6YCjpfyjj02rZfg2EUv
+"Kuti, Fela",Fela Kuti,Expensive Shit,,,402.0,99,1975,Afrobeat,Studio,,201,35.0,spotify:album:6zZXBV5eC1oISyUGZFfthw,1.0,Male,1938.0,1970.0,37.0,5.0,6zZXBV5eC1oISyUGZFfthw
+Ghostface Killah,Ghostface Killah,Supreme Clientele,,,403.0,98,2000,Hip-Hop/Rap,Studio,19.0,7,47.0,spotify:album:7eaQqVyq6xzAVgsxSzSP83,1.0,Male,1970.0,1996.0,30.0,4.0,7eaQqVyq6xzAVgsxSzSP83
+"Browne, Jackson",Jackson Browne,The Pretender,391.0,391.0,,-110,1976,,Studio,,201,46.0,spotify:album:1AqUcQKtf2AQ6rFRKIBei8,1.0,Male,1948.0,1972.0,28.0,4.0,1AqUcQKtf2AQ6rFRKIBei8
+Motorhead,Motörhead,Ace of Spades,,,408.0,93,1980,Hard Rock/Metal,Studio,,201,45.0,spotify:album:1LORPYoTiPGpJC37GqYSvC,3.0,Male,5849.0,1977.0,30.33333333,3.0,1LORPYoTiPGpJC37GqYSvC
+"Bowie, David",David Bowie,ChangesOneBowie,425.0,,,-76,1976,,Compilation,39.0,10,39.0,spotify:album:3aGkjugjzDWaETRbbRafoF,1.0,Male,1947.0,1967.0,29.0,9.0,3aGkjugjzDWaETRbbRafoF
+Beach Boys,The Beach Boys,Wild Honey,,,410.0,91,1967,,Studio,15.0,24,47.0,spotify:album:01uTaEF0YlcBgNwaSS9iIl,6.0,Male,11657.0,1962.0,24.16666667,5.0,01uTaEF0YlcBgNwaSS9iIl
+"Miller, Steve Band",Steve Miller,Fly Like an Eagle,450.0,445.0,,-51,1976,Blues/Blues Rock,Studio,97.0,3,72.0,spotify:album:0fjJOLqG3v7vXRYhz2wxPC,1.0,Male,1943.0,1968.0,33.0,8.0,0fjJOLqG3v7vXRYhz2wxPC
+KISS,KISS,Destroyer,496.0,489.0,,-5,1976,Hard Rock/Metal,Studio,78.0,11,55.0,spotify:album:59plsPcJYFlSA5ImekNQJ0,4.0,Male,7797.0,1974.0,26.75,2.0,59plsPcJYFlSA5ImekNQJ0
+Steely Dan,Steely Dan,Aja,145.0,145.0,63.0,82,1977,,Studio,60.0,3,57.0,spotify:album:1hOK2ey9W76x9GnftSRgrw,2.0,Male,3898.0,1972.0,28.0,5.0,1hOK2ey9W76x9GnftSRgrw
+Roots,The Roots,Things Fall Apart,,,416.0,85,1999,Hip-Hop/Rap,Studio,18.0,4,58.0,spotify:album:0qbl8aNaCUOvX8HGsZYLfh,8.0,Male,15755.0,1993.0,29.625,6.0,0qbl8aNaCUOvX8HGsZYLfh
+"Marley, Bob",Bob Marley,Exodus,169.0,169.0,71.0,98,1977,Reggae,Studio,24.0,20,75.0,spotify:album:2mBbV0Ad6B4ydHMZlzAY7S,1.0,Male,1945.0,1965.0,32.0,12.0,2mBbV0Ad6B4ydHMZlzAY7S
+Sex Pistols,Sex Pistols,Never Mind the Bollocks Here's the Sex Pistols,41.0,41.0,80.0,-39,1977,Punk/Post-Punk/New Wave/Power Pop,Studio,12.0,106,51.0,spotify:album:5fxYu3rqjCNTSPKN8mtEl2,5.0,Male,9780.0,1977.0,21.0,0.0,5fxYu3rqjCNTSPKN8mtEl2
+"Church, Eric",Eric Church,Chief,,,419.0,82,2011,Country/Folk/Country Rock/Folk Rock,Studio,154.0,1,71.0,spotify:album:5dtw6CoMhbrSj01YUvdQOF,1.0,Male,1977.0,2006.0,34.0,5.0,5dtw6CoMhbrSj01YUvdQOF
+Clash,The Clash,The Clash,77.0,81.0,102.0,-25,1977,Punk/Post-Punk/New Wave/Power Pop,Studio,6.0,126,54.0,spotify:album:49kzgMsxHU5CTeb2XmFHjo,5.0,Male,9773.0,1977.0,22.4,0.0,49kzgMsxHU5CTeb2XmFHjo
+Television,Television,Marquee Moon,128.0,130.0,107.0,21,1977,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,50.0,spotify:album:630o1rKTDsLeIPreOY1jqP,4.0,Male,7798.0,1977.0,27.5,0.0,630o1rKTDsLeIPreOY1jqP
+Various Artists,Bee Gees,Saturday Night Fever: The Original Movie Sound Track,131.0,132.0,163.0,-32,1977,Funk/Disco,Soundtrack,133.0,1,58.0,spotify:album:3xaCKtqadm4KnviPFKEjs7,3.0,Male,5844.0,1965.0,29.0,12.0,3xaCKtqadm4KnviPFKEjs7
+"Joel, Billy",Billy Joel,The Stranger,67.0,70.0,169.0,-102,1977,Singer-Songwriter/Heartland Rock,Studio,137.0,2,55.0,spotify:album:3IILMjMMnoN2sKzgesX8KV,1.0,Male,1949.0,1971.0,28.0,6.0,3IILMjMMnoN2sKzgesX8KV
+"Bowie, David",David Bowie,Low,249.0,251.0,206.0,43,1977,,Studio,19.0,11,56.0,spotify:album:2de6LD7eOW8zrlorbS28na,1.0,Male,1947.0,1967.0,30.0,10.0,2de6LD7eOW8zrlorbS28na
+Kraftwerk,Kraftwerk,Trans-Europe Express,253.0,256.0,238.0,15,1977,Electronic,Studio,119.0,10,38.0,spotify:album:0HHRIVjvBcnTepfeRVgS2f,4.0,Male,7792.0,1970.0,29.0,7.0,0HHRIVjvBcnTepfeRVgS2f
+Four Tops,Four Tops,Reach Out,,,429.0,72,1967,Soul/Gospel/R&B,Studio,21.0,11,58.0,spotify:album:4Jw0RycAqlXeAoymbc0CYp,4.0,Male,7745.0,1965.0,30.75,2.0,4Jw0RycAqlXeAoymbc0CYp
+Wire,Wire,Pink Flag,410.0,412.0,310.0,100,1977,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,57.0,spotify:album:4WXqZZ28geJSPtqLcCF56L,4.0,Male,7804.0,1977.0,26.0,0.0,4WXqZZ28geJSPtqLcCF56L
+Ramones,Ramones,Rocket to Russia,105.0,106.0,385.0,-280,1977,Punk/Post-Punk/New Wave/Power Pop,Studio,25.0,49,37.0,spotify:album:39H0vM2hB4QbzPHZON87t5,4.0,Male,7799.0,1976.0,27.25,1.0,39H0vM2hB4QbzPHZON87t5
+Usher,Usher,Confessions,,,432.0,69,2004,Soul/Gospel/R&B,Studio,103.0,1,79.0,spotify:album:1RM6MGv6bcl6NrAG8PGoZk,1.0,Male,1978.0,1994.0,26.0,10.0,1RM6MGv6bcl6NrAG8PGoZk
+"Costello, Elvis",Elvis Costello,My Aim Is True,168.0,168.0,430.0,-262,1977,Punk/Post-Punk/New Wave/Power Pop,Studio,36.0,32,54.0,spotify:album:1aucGNKimhgARC7iO2xLt2,1.0,Male,1954.0,1977.0,23.0,0.0,1aucGNKimhgARC7iO2xLt2
+Pet Shop Boys,Pet Shop Boys,Actually,,,435.0,66,1987,Electronic,Studio,45.0,25,31.0,spotify:album:0p5QwhEke5P9mFY4CY9u4j,2.0,Male,3913.0,1986.0,30.5,1.0,0p5QwhEke5P9mFY4CY9u4j
+2Pac,2Pac,All Eyez on Me,,,436.0,65,1996,Hip-Hop/Rap,Studio,100.0,1,79.0,spotify:album:78iX7tMceN0FsnmabAtlOC,1.0,Male,1971.0,1991.0,25.0,5.0,78iX7tMceN0FsnmabAtlOC
+Primal Scream,Primal Scream,Screamadelica,,,437.0,64,1991,Indie/Alternative Rock,Studio,,201,41.0,spotify:album:4TECsw2dFHZ1ULrT7OA3OL,6.0,Male,11780.0,1987.0,27.66666667,4.0,4TECsw2dFHZ1ULrT7OA3OL
+Blur,Blur,Parklife,,,438.0,63,1994,Indie/Alternative Rock,Studio,,201,48.0,spotify:album:0YS25Dr3hMtMFlVTfuvzl4,4.0,Male,7869.0,1991.0,26.75,3.0,0YS25Dr3hMtMFlVTfuvzl4
+"Brown, James",James Brown,Sex Machine,,,439.0,62,1970,Funk/Disco,Live,31.0,29,26.0,spotify:album:3CVie3TkZ0VHgT6mlwy7cp,1.0,Male,1933.0,1958.0,37.0,12.0,3CVie3TkZ0VHgT6mlwy7cp
+Weeknd,The Weeknd,Beauty Behind the Madness,,,442.0,59,2015,,Studio,294.0,1,85.0,spotify:album:0P3oVJBFOv3TDXlYRhGL7s,1.0,Male,1990.0,2013.0,25.0,2.0,0P3oVJBFOv3TDXlYRhGL7s
+"Bowie, David",David Bowie,Scary Monsters,,,443.0,58,1980,,Studio,27.0,12,58.0,spotify:album:5fxvWHvIDPIALfTfRiwyB0,1.0,Male,1947.0,1967.0,33.0,13.0,5fxvWHvIDPIALfTfRiwyB0
+Yes,Yes,Close to the Edge,,,445.0,56,1972,,Studio,32.0,3,31.0,spotify:album:252LyflX4wUeISSzgL392F,5.0,Male,9737.0,1969.0,24.6,3.0,252LyflX4wUeISSzgL392F
+Bad Bunny,Bad Bunny,X 100pre,,,447.0,54,2018,Latin,Studio,177.0,11,82.0,spotify:album:7CjJb2mikwAWA1V6kewFBF,1.0,Male,1994.0,2018.0,24.0,0.0,7CjJb2mikwAWA1V6kewFBF
+Suicide,Suicide,Suicide,446.0,441.0,498.0,-52,1977,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,41.0,spotify:album:46kw5FsFdJhNRL8wfHM9Bp,2.0,Male,3885.0,1977.0,34.5,0.0,46kw5FsFdJhNRL8wfHM9Bp
+"McCartney, Paul",Paul McCartney,Ram,,,450.0,51,1971,Indie/Alternative Rock,Studio,42.0,2,43.0,spotify:album:4ZLVPyXVXeMbnxyhxvsF7m,1.0,Male,1942.0,1970.0,29.0,1.0,4ZLVPyXVXeMbnxyhxvsF7m
+Nine Inch Nails,Nine Inch Nails,Pretty Hate Machine,,,453.0,48,1989,Indie/Alternative Rock,Studio,113.0,75,57.0,spotify:album:3umFHeEpc4yLXtrRcv9gLN,1.0,Male,1965.0,1989.0,24.0,0.0,3umFHeEpc4yLXtrRcv9gLN
+Can,Can,Ege Bamyasi,,,454.0,47,1972,,Studio,,201,40.0,spotify:album:3Qa2CdymyGvXkqoqIZykmT,5.0,Male,9711.0,1969.0,29.8,3.0,3Qa2CdymyGvXkqoqIZykmT
+"Clapton, Eric",Eric Clapton,Slowhand,325.0,325.0,,-176,1977,Blues/Blues Rock,Studio,74.0,2,37.0,spotify:album:2c0bqDdHYpcyd8eQp55tbO,1.0,Male,1945.0,1970.0,32.0,7.0,2c0bqDdHYpcyd8eQp55tbO
+Meat Loaf,Meat Loaf,Bat Out of Hell,343.0,343.0,,-158,1977,,Studio,82.0,14,63.0,spotify:album:6mvI80w5r78niBmwtu7RF9,1.0,Male,1947.0,1977.0,30.0,0.0,6mvI80w5r78niBmwtu7RF9
+"Isbell, Jason",Jason Isbell,Southeastern,,,458.0,43,2013,Country/Folk/Country Rock/Folk Rock,Studio,14.0,23,53.0,spotify:album:1bg476ZQn7hmcXaU05SHV4,1.0,Male,1979.0,2007.0,34.0,6.0,1bg476ZQn7hmcXaU05SHV4
+Kid Cudi,Kid Cudi,Man on the Moon: The End of the Day,,,459.0,42,2009,Hip-Hop/Rap,Studio,297.0,4,32.0,spotify:album:2ydhEMN7Cwl2Zjta7yqIgE,1.0,Male,1984.0,2009.0,25.0,0.0,2ydhEMN7Cwl2Zjta7yqIgE
+Bon Iver,Bon Iver,"For Emma, Forever Ago",,,461.0,40,2008,Indie/Alternative Rock,Studio,64.0,21,70.0,spotify:album:7EJ0OT5ZqybXxcYRa6mccM,1.0,Male,1981.0,2008.0,27.0,0.0,7EJ0OT5ZqybXxcYRa6mccM
+Cheap Trick,Cheap Trick,In Color,448.0,443.0,,-53,1977,Punk/Post-Punk/New Wave/Power Pop,Studio,12.0,73,58.0,spotify:album:2sXJQdHykPYcRQ7xFhwzMR,4.0,Male,7801.0,1977.0,26.75,0.0,2sXJQdHykPYcRQ7xFhwzMR
+Isley Brothers,The Isley Brothers,3 + 3,,,464.0,37,1973,Funk/Disco,Studio,37.0,8,51.0,spotify:album:27eI33obJuyKebMTxAJJam,6.0,Male,11673.0,1959.0,27.5,14.0,27eI33obJuyKebMTxAJJam
+King Sunny Ade,King Sunny Ade,Best of the Classic Years,,,465.0,36,2003,Afrobeat,Compilation,,201,28.0,spotify:album:6Y5SoiYENbNuTBc6mTUKG9,1.0,Male,1946.0,1982.0,57.0,21.0,6Y5SoiYENbNuTBc6mTUKG9
+Fleetwood Mac,Fleetwood Mac,Rumours,25.0,26.0,7.0,18,1977,Singer-Songwriter/Heartland Rock,Studio,134.0,1,79.0,spotify:album:1bt6q2SruMsBtcerNVtpZB,5.0,Male/Female,9732.0,1968.0,30.6,9.0,1bt6q2SruMsBtcerNVtpZB
+Maxwell,Maxwell,BLACKsummers'night,,,467.0,34,2009,Soul/Gospel/R&B,Studio,53.0,1,54.0,spotify:album:1cXFSOdjxmS13cOTtnNQAo,1.0,Male,1973.0,1996.0,36.0,13.0,1cXFSOdjxmS13cOTtnNQAo
+Talking Heads,Talking Heads,Talking Heads: 77,290.0,291.0,,-211,1977,Punk/Post-Punk/New Wave/Power Pop,Studio,29.0,97,51.0,spotify:album:0r7o2FeARRr23EZ0TJ0a8S,4.0,Male/Female,7802.0,1977.0,26.5,0.0,0r7o2FeARRr23EZ0TJ0a8S
+"Chao, Manu",Manu Chao,Clandestino,,,469.0,32,1998,Latin,Studio,,201,68.0,spotify:album:3xoAUqjKs7Ps7wR26VAMbq,1.0,Male,1961.0,1998.0,37.0,0.0,3xoAUqjKs7Ps7wR26VAMbq
+Juvenile,Juvenile,400 Degreez,,,470.0,31,1998,Hip-Hop/Rap,Studio,100.0,9,58.0,spotify:album:6wpqS71CJr3I0dLguYiZdJ,1.0,Male,1975.0,1995.0,23.0,3.0,6wpqS71CJr3I0dLguYiZdJ
+Daddy Yankee,Daddy Yankee,Barrio Fino,,,473.0,28,2004,Latin,Studio,54.0,26,80.0,spotify:album:4pLuE50wL9T26lSv42X0J2,1.0,Male,1977.0,1995.0,27.0,9.0,4pLuE50wL9T26lSv42X0J2
+"Springsteen, Bruce",Bruce Springsteen,Darkness on the Edge of Town,151.0,150.0,91.0,60,1978,Singer-Songwriter/Heartland Rock,Studio,97.0,5,57.0,spotify:album:4KT6G8fj8EEIfsyr75hbgc,1.0,Male,1949.0,1973.0,29.0,5.0,4KT6G8fj8EEIfsyr75hbgc
+Sparks,Sparks,Kimono My House,,,476.0,25,1974,,Studio,14.0,101,44.0,spotify:album:7KOmuu3cbJQEQYGt3XmLmY,5.0,Male,9749.0,1971.0,24.2,3.0,7KOmuu3cbJQEQYGt3XmLmY
+"Costello, Elvis",Elvis Costello,This Year's Model,98.0,98.0,121.0,-23,1978,Punk/Post-Punk/New Wave/Power Pop,Studio,17.0,30,52.0,spotify:album:4RLIesiAVONV4fOUlOSmr4,1.0,Male,1954.0,1977.0,24.0,1.0,4RLIesiAVONV4fOUlOSmr4
+"Holly, Buddy",Buddy Holly,20 Golden Greats,92.0,92.0,166.0,-74,1978,Rock n' Roll/Rhythm & Blues,Greatest Hits,12.0,55,29.0,spotify:album:2MwhKwYfaGXfCMNKJQr6VA,1.0,Male,1936.0,1957.0,42.0,21.0,2MwhKwYfaGXfCMNKJQr6VA
+Pharcyde,The Pharcyde,Bizarre Ride II the Pharcyde,,,482.0,19,1992,Hip-Hop/Rap,Studio,19.0,75,61.0,spotify:album:48kU5gP41TqZEw32Cwhsna,5.0,Male,9850.0,1992.0,22.0,0.0,48kU5gP41TqZEw32Cwhsna
+DEVO,DEVO,Q: Are We Not Men? A: We Are Devo!,447.0,442.0,252.0,195,1978,Punk/Post-Punk/New Wave/Power Pop,Studio,18.0,78,48.0,spotify:album:1u2Qni8cVRptDTaA00fmBC,5.0,Male,9756.0,1978.0,26.8,0.0,1u2Qni8cVRptDTaA00fmBC
+"Mayer, John",John Mayer,Continuum,,,486.0,15,2006,Blues/Blues Rock,Studio,128.0,2,74.0,spotify:album:1Xsprdt1q9rOzTic7b9zYM,1.0,Male,1977.0,2001.0,29.0,5.0,1Xsprdt1q9rOzTic7b9zYM
+Big Star,Big Star,Third/Sister Lovers,456.0,449.0,285.0,171,1978,Singer-Songwriter/Heartland Rock,Studio,,201,30.0,spotify:album:0NJYYhhvOATAkUipSJEBDb,2.0,Male,3902.0,1972.0,27.0,6.0,0NJYYhhvOATAkUipSJEBDb
+Van Halen,Van Halen,Van Halen,415.0,415.0,292.0,123,1978,Hard Rock/Metal,Studio,126.0,19,70.0,spotify:album:7DdEbYFPKTZ8KB4z6L4UnQ,4.0,Male,7816.0,1978.0,24.0,0.0,7DdEbYFPKTZ8KB4z6L4UnQ
+Cars,Cars,The Cars,282.0,284.0,353.0,-71,1978,Punk/Post-Punk/New Wave/Power Pop,Studio,136.0,18,67.0,spotify:album:4tJPWT4r4FSKwy784Qs1Fq,5.0,Male,9745.0,1978.0,29.0,0.0,4tJPWT4r4FSKwy784Qs1Fq
+"Styles, Harry",Harry Styles,Fine Line,,,491.0,10,2019,Indie/Alternative Rock,Studio,203.0,1,87.0,spotify:album:7xV2TzoaVc0ycW7fwBwAml,1.0,Male,1994.0,2017.0,25.0,2.0,7xV2TzoaVc0ycW7fwBwAml
+Funkadelic,Funkadelic,One Nation Under a Groove,177.0,177.0,360.0,-183,1978,Funk/Disco,Studio,22.0,16,,,9.0,Male,17541.0,1970.0,29.0,8.0,NOS116
+Boyz II Men,Boyz II Men,II,,,495.0,6,1991,Soul/Gospel/R&B,Studio,99.0,1,56.0,spotify:album:1IWhZEOwEoXbOB4a40XaR3,4.0,Male,7887.0,1991.0,19.25,0.0,1IWhZEOwEoXbOB4a40XaR3
+Rolling Stones,Rolling Stones,Some Girls,269.0,270.0,468.0,-199,1978,Blues/Blues Rock,Studio,82.0,1,70.0,spotify:album:1Jv2AqzhgsduUik2p4k3cS,5.0,Male,9710.0,1964.0,36.0,14.0,1Jv2AqzhgsduUik2p4k3cS
+"Gaye, Marvin",Marvin Gaye,"Here, My Dear",462.0,456.0,493.0,-31,1978,Soul/Gospel/R&B,Studio,26.0,21,38.0,spotify:album:1iVf41qWHZsAk9DwY43WnV,1.0,Male,1939.0,1961.0,39.0,17.0,1iVf41qWHZsAk9DwY43WnV
+"Nelson, Willie",Willie Nelson,Stardust,257.0,260.0,,-244,1978,Big Band/Jazz,Studio,117.0,30,48.0,spotify:album:38uGoW7jS8jjJMvZA26sRq,1.0,Male,1933.0,1962.0,45.0,16.0,38uGoW7jS8jjJMvZA26sRq
+"Joel, Billy",Billy Joel,52nd Street,352.0,354.0,,-149,1978,Singer-Songwriter/Heartland Rock,Studio,76.0,1,69.0,spotify:album:1HmCO8VK98AU6EXPOjGYyI,1.0,Male,1949.0,1971.0,29.0,7.0,1HmCO8VK98AU6EXPOjGYyI
+Cheap Trick,Cheap Trick,Cheap Trick at Budokan,430.0,426.0,,-71,1978,Punk/Post-Punk/New Wave/Power Pop,Live,53.0,4,44.0,spotify:album:5ttDbNMKXczvp0Z8QRgKs6,4.0,Male,7801.0,1977.0,27.75,1.0,5ttDbNMKXczvp0Z8QRgKs6
+Police,The Police,Outlandos d'Amour,434.0,428.0,,-67,1978,Punk/Post-Punk/New Wave/Power Pop,Studio,63.0,23,73.0,spotify:album:1H9g6j4Wwj6wh6p8YHVtkf,3.0,Male,5845.0,1978.0,29.66666667,0.0,1H9g6j4Wwj6wh6p8YHVtkf
+Blondie,Blondie,Parallel Lines,140.0,140.0,146.0,-6,1978,Punk/Post-Punk/New Wave/Power Pop,Studio,103.0,6,61.0,spotify:album:4M6s2jbhKWEcOdXZ8WiHts,6.0,Male/Female,11705.0,1976.0,27.16666667,2.0,4M6s2jbhKWEcOdXZ8WiHts
+Talking Heads,Talking Heads,More Songs About Buildings and Food,382.0,383.0,364.0,18,1978,Punk/Post-Punk/New Wave/Power Pop,Studio,42.0,29,42.0,spotify:album:39jsLMRmrTpfdq2vE4TCUe,4.0,Male/Female,7802.0,1977.0,27.5,1.0,39jsLMRmrTpfdq2vE4TCUe
+Clash,The Clash,London Calling,8.0,8.0,16.0,-8,1979,Punk/Post-Punk/New Wave/Power Pop,Studio,33.0,27,68.0,spotify:album:6FCzvataOZh68j8OKzOt9a,4.0,Male,7817.0,1977.0,24.75,2.0,6FCzvataOZh68j8OKzOt9a
+"Jackson, Michael",Michael Jackson,Off the Wall,68.0,68.0,36.0,32,1979,Funk/Disco,Studio,169.0,3,73.0,spotify:album:2ZytN2cY4Zjrr9ukb2rqTP,1.0,Male,1958.0,1972.0,21.0,7.0,2ZytN2cY4Zjrr9ukb2rqTP
+Pink Floyd,Pink Floyd,The Wall,87.0,87.0,129.0,-42,1979,,Studio,115.0,1,76.0,spotify:album:5Dbax7G8SWrP9xyzkOvy2F,4.0,Male,7776.0,1967.0,35.0,12.0,5Dbax7G8SWrP9xyzkOvy2F
+"Petty, Tom & the Heartbreakers",Tom Petty,Damn the Torpedoes,314.0,315.0,231.0,83,1979,,Studio,67.0,2,37.0,spotify:album:0qKA3aqubD47jfFVoPfsiy,5.0,Male,9756.0,1976.0,27.8,3.0,0qKA3aqubD47jfFVoPfsiy
+Buzzcocks,Buzzcocks,Singles Going Steady,358.0,360.0,250.0,108,1979,Punk/Post-Punk/New Wave/Power Pop,Compilation,,201,47.0,spotify:album:6TxgQwGrbG3XZLNPOEhg7E,5.0,Male,9783.0,1978.0,22.4,1.0,6TxgQwGrbG3XZLNPOEhg7E
+Gang of Four,Gang of Four,Entertainment!,490.0,483.0,273.0,217,1979,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,46.0,spotify:album:7LMOo068Ndv0wjTGUDtYqK,4.0,Male,7822.0,1979.0,23.5,0.0,7LMOo068Ndv0wjTGUDtYqK
+"Young, Neil",Neil Young,Rust Never Sleeps,350.0,351.0,296.0,54,1979,,Live,39.0,8,,,1.0,Male,1945.0,1969.0,34.0,10.0,NOS012
+AC/DC,AC/DC,Highway to Hell,199.0,200.0,,-302,1979,Hard Rock/Metal,Studio,83.0,17,76.0,spotify:album:10v912xgTZbjAtYfyKWJCS,5.0,Male,9757.0,1975.0,27.6,4.0,10v912xgTZbjAtYfyKWJCS
+Pulp,Pulp,Different Class,,,162.0,339,1995,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,64.0,spotify:album:3ly9T2L4pqTZijFgQssd3x,6.0,Male/Female,11788.0,1983.0,30.33333333,12.0,3ly9T2L4pqTZijFgQssd3x
+"Parker, Graham",Graham Parker,Squeezing Out Sparks,335.0,334.0,,-166,1979,,Studio,24.0,40,24.0,spotify:album:4ZImzDF35hQWiN5FdAqQbN,1.0,Male,1950.0,1976.0,29.0,3.0,4ZImzDF35hQWiN5FdAqQbN
+Police,The Police,Reggatta de Blanc,369.0,372.0,,-132,1979,Punk/Post-Punk/New Wave/Power Pop,Studio,100.0,25,70.0,spotify:album:2EpuND32cO7CX0gXZl2NB6,3.0,Male,5845.0,1978.0,30.66666667,1.0,2EpuND32cO7CX0gXZl2NB6
+Cure,The Cure,Boys Don't Cry,442.0,438.0,,-59,1979,Punk/Post-Punk/New Wave/Power Pop,Compilation,19.0,55,,,3.0,Male,5876.0,1979.0,20.33333333,0.0,NOS137
+Public Image Ltd.,Public Image Ltd.,Metal Box,469.0,461.0,,-32,1979,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,24.0,spotify:album:5votrp9PY49suw8xnXqyrm,4.0,Male,7823.0,1978.0,23.25,1.0,5votrp9PY49suw8xnXqyrm
+Cocteau Twins,Cocteau Twins,Heaven or Las Vegas,,,245.0,256,1990,,Studio,19.0,99,68.0,spotify:album:5lEphbceIgaK1XxWeSrC9E,3.0,Male/Female,5887.0,1982.0,27.66666667,8.0,5lEphbceIgaK1XxWeSrC9E
+Slits,The Slits,Cut,,,260.0,241,1979,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,35.0,spotify:album:0TfUvdJAj5ggwaLihQQ5qs,4.0,Male/Female,7832.0,1979.0,21.0,0.0,0TfUvdJAj5ggwaLihQQ5qs
+"Costello, Elvis",Elvis Costello,Armed Forces,482.0,475.0,,-19,1979,Punk/Post-Punk/New Wave/Power Pop,Studio,25.0,10,49.0,spotify:album:5w3q6GZbw0gsAtvl1c0rmu,1.0,Male,1954.0,1977.0,25.0,2.0,5w3q6GZbw0gsAtvl1c0rmu
+Breeders,The Breeders,Last Splash,,,293.0,208,1993,,Compilation,36.0,33,63.0,spotify:album:57F44c0MTziVzHPEuJtH9A,4.0,Male/Female,7851.0,1990.0,30.25,3.0,57F44c0MTziVzHPEuJtH9A
+B-52s,The B-52s,The B 52's / Play Loud,152.0,152.0,198.0,-46,1979,Punk/Post-Punk/New Wave/Power Pop,Studio,74.0,59,53.0,spotify:album:3eXETk1esvZPRluDCWH3GN,5.0,Male/Female,9762.0,1979.0,26.6,0.0,3eXETk1esvZPRluDCWH3GN
+AC/DC,AC/DC,Back in Black,73.0,77.0,84.0,-11,1980,Hard Rock/Metal,Studio,92.0,4,80.0,spotify:album:6mUdeDZCsExyJLMdAfDuwh,5.0,Male,9758.0,1975.0,28.4,5.0,6mUdeDZCsExyJLMdAfDuwh
+Joy Division,Joy Division,Closer,157.0,157.0,309.0,-152,1980,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,44.0,spotify:album:0KBdfMTMxi0oD1oVqApTjr,4.0,Male,7825.0,1979.0,23.75,1.0,0KBdfMTMxi0oD1oVqApTjr
+Clash,The Clash,Sandinista!,404.0,407.0,323.0,81,1980,Punk/Post-Punk/New Wave/Power Pop,Studio,20.0,24,53.0,spotify:album:2UxN3UKyS3Z5r0Sra8A5RF,4.0,Male,7817.0,1977.0,25.75,3.0,2UxN3UKyS3Z5r0Sra8A5RF
+X-Ray Spex,X-Ray Spex,Germ Free Adolescents,,,354.0,147,1978,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,49.0,spotify:album:7nZ0F572fluFD4tQCFf3z7,5.0,Male/Female,9780.0,1978.0,22.0,0.0,7nZ0F572fluFD4tQCFf3z7
+Sonic Youth,Sonic Youth,Goo,,,358.0,143,1990,Punk/Post-Punk/New Wave/Power Pop,Studio,15.0,96,55.0,spotify:album:5iYYQwB0oH9FVyVlaOXZdr,4.0,Male/Female,7829.0,1983.0,32.75,7.0,5iYYQwB0oH9FVyVlaOXZdr
+Prince,Prince,Dirty Mind,204.0,206.0,326.0,-122,1980,,Studio,52.0,45,40.0,spotify:album:4JsSbaggaprB1AfDylXnxO,1.0,Male,1958.0,1978.0,22.0,2.0,4JsSbaggaprB1AfDylXnxO
+"Springsteen, Bruce",Bruce Springsteen,The River,250.0,253.0,,-251,1980,Singer-Songwriter/Heartland Rock,Studio,107.0,1,64.0,spotify:album:6YNIEeDWqC09YIWzhoSVLg,1.0,Male,1949.0,1973.0,31.0,7.0,6YNIEeDWqC09YIWzhoSVLg
+Yeah Yeah Yeahs,Yeah Yeah Yeahs,Fever to Tell,,,377.0,124,2003,Punk/Post-Punk/New Wave/Power Pop,Studio,28.0,55,45.0,spotify:album:0EabZMx74C2wyXhvMMO1eI,3.0,Male/Female,5930.0,2003.0,26.33333333,0.0,0EabZMx74C2wyXhvMMO1eI
+U2,U2,Boy,417.0,417.0,,-84,1980,Punk/Post-Punk/New Wave/Power Pop,Studio,48.0,63,38.0,spotify:album:2co53OwPjlTvPDQTpErBtU,4.0,Male,7842.0,1980.0,19.5,0.0,2co53OwPjlTvPDQTpErBtU
+Talking Heads,Talking Heads,Remain in Light,126.0,129.0,39.0,87,1980,Punk/Post-Punk/New Wave/Power Pop,Studio,27.0,19,50.0,spotify:album:1JvXxLsm0PxlGH4LXzqMGq,4.0,Male/Female,7802.0,1977.0,29.5,3.0,1JvXxLsm0PxlGH4LXzqMGq
+Blondie,Blondie,Blondie,,,401.0,100,1977,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,41.0,spotify:album:54V45InMvJ6uVtRtO6h1Co,5.0,Male/Female,9758.0,1976.0,25.4,1.0,54V45InMvJ6uVtRtO6h1Co
+Magnetic Fields,The Magnetic Fields,69 Love Songs,,465.0,406.0,95,1999,,Studio,,201,57.0,spotify:album:2GuROKcqyHdpIDcgxml1C7,4.0,Male/Female,7870.0,1991.0,31.5,8.0,2GuROKcqyHdpIDcgxml1C7
+Pretenders,Pretenders,Pretenders,155.0,155.0,152.0,3,1980,Punk/Post-Punk/New Wave/Power Pop,Studio,78.0,9,53.0,spotify:album:6AFFu3ilmlEDz1I9ZaNOZw,4.0,Male/Female,7810.0,1979.0,27.5,1.0,6AFFu3ilmlEDz1I9ZaNOZw
+Chic,Chic,Risque,,,414.0,87,1979,Funk/Disco,Studio,17.0,5,49.0,spotify:album:7rAk4WPpYlYr0fElVfXTOF,5.0,Male/Female,9760.0,1977.0,27.0,2.0,7rAk4WPpYlYr0fElVfXTOF
+Yo La Tengo,Yo La Tengo,I Can Hear the Heart Beating as One,,,423.0,78,1997,,Studio,,201,58.0,spotify:album:3V18DIKvRuwdxc2LE4wuac,3.0,Male/Female,5886.0,1986.0,35.0,11.0,3V18DIKvRuwdxc2LE4wuac
+LCD Soundsystem,LCD Soundsystem,Sound of Silver,,395.0,433.0,68,2007,Punk/Post-Punk/New Wave/Power Pop,Studio,3.0,46,55.0,spotify:album:1R8kkopLT4IAxzMMkjic6X,5.0,Male/Female,9873.0,2005.0,32.4,2.0,1R8kkopLT4IAxzMMkjic6X
+X,X,Los Angeles,286.0,287.0,320.0,-34,1980,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,37.0,spotify:album:1qs5rB2gsrAWDLrUlyjFUD,4.0,Male/Female,7812.0,1980.0,27.0,0.0,1qs5rB2gsrAWDLrUlyjFUD
+Go Gos,The Go-Go's,Beauty and the Beat,413.0,414.0,400.0,13,1981,Punk/Post-Punk/New Wave/Power Pop,Studio,72.0,1,56.0,spotify:album:1L4HE00En7eNK74voVZums,5.0,Female,9785.0,1981.0,24.0,0.0,1L4HE00En7eNK74voVZums
+Belle & Sebastian,Belle & Sebastian,If You're Feeling Sinister,,,481.0,20,1996,,Studio,,201,45.0,spotify:album:3e9VtbXnl6tqrFKrnNyxaI,8.0,Male/Female,15774.0,1996.0,24.25,0.0,3e9VtbXnl6tqrFKrnNyxaI
+Black Flag,Black Flag,Damaged,340.0,340.0,487.0,-147,1981,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,51.0,spotify:album:34aFnrFRBlErcbU6moRZR3,5.0,Male,9785.0,1981.0,24.0,0.0,34aFnrFRBlErcbU6moRZR3
+Rufus,Rufus,Ask Rufus,,,499.0,2,1977,Funk/Disco,Studio,25.0,12,37.0,spotify:album:3ZJJdnvxztzpOvwvzUzUxC,6.0,Male/Female,11706.0,1973.0,26.0,4.0,3ZJJdnvxztzpOvwvzUzUxC
+Arcade Fire,Arcade Fire,Funeral,,151.0,500.0,1,2004,Indie/Alternative Rock,Studio,15.0,123,61.0,spotify:album:6ZB8qaR9JNuS0Q0bG1nbcH,6.0,Male/Female,11862.0,2004.0,27.0,0.0,6ZB8qaR9JNuS0Q0bG1nbcH
+Rolling Stones,Rolling Stones,Tattoo You,211.0,213.0,,-290,1981,Blues/Blues Rock,Studio,58.0,1,70.0,spotify:album:15XNBzVWARPMlu0sEbfBjJ,5.0,Male,9710.0,1964.0,39.0,17.0,15XNBzVWARPMlu0sEbfBjJ
+Various Artists,Various Artists,The Indestructible Beat of Soweto,,388.0,497.0,4,1985,,Compilation,,201,25.0,spotify:album:1DIr8JMRBnm1cZMYIGKb8t,,,,,,,1DIr8JMRBnm1cZMYIGKb8t
+"Johnson, Robert",Robert Johnson,The Complete Recordings,,22.0,,-501,1990,Blues/Blues Rock,Compilation,31.0,80,32.0,spotify:album:6QwHn86Rw53qli3Y6b41Rd,1.0,Male,1911.0,1937.0,79.0,53.0,6QwHn86Rw53qli3Y6b41Rd
+Police,The Police,Ghost in the Machine,322.0,323.0,,-179,1981,Punk/Post-Punk/New Wave/Power Pop,Studio,109.0,2,68.0,spotify:album:5jkwdY6jS1Hzi8epr6HW7h,3.0,Male,5845.0,1978.0,32.66666667,3.0,5jkwdY6jS1Hzi8epr6HW7h
+Echo and The Bunnymen,Echo and The Bunnymen,Heaven Up Here,471.0,463.0,,-30,1981,Punk/Post-Punk/New Wave/Power Pop,Studio,2.0,184,24.0,spotify:album:29rkfL25uKOkVOhyr1CmXJ,4.0,Male,7836.0,1980.0,22.0,1.0,29rkfL25uKOkVOhyr1CmXJ
+X,X,Wild Gift,334.0,333.0,,-167,1981,Punk/Post-Punk/New Wave/Power Pop,Studio,5.0,165,34.0,spotify:album:2ECSVdWu5RCvYqIRGA0pyR,4.0,Male/Female,7812.0,1980.0,28.0,1.0,2ECSVdWu5RCvYqIRGA0pyR
+"Jackson, Michael",Michael Jackson,Thriller,20.0,20.0,12.0,8,1982,Soul/Gospel/R&B,Studio,122.0,1,77.0,spotify:album:2ANVost0y2y52ema1E9xAZ,1.0,Male,1958.0,1972.0,24.0,10.0,2ANVost0y2y52ema1E9xAZ
+"Berry, Chuck",Chuck Berry,The Great Twenty-Eight,21.0,21.0,51.0,-30,1982,Rock n' Roll/Rhythm & Blues,Greatest Hits,,201,33.0,spotify:album:4hQtcgvaybCqBsTrfiL1jC,1.0,Male,1926.0,1957.0,56.0,25.0,4hQtcgvaybCqBsTrfiL1jC
+Prince,Prince,1999,163.0,163.0,130.0,33,1982,,Studio,153.0,9,52.0,spotify:album:34MHuXONazzgSxI0cThpAg,1.0,Male,1958.0,1978.0,24.0,4.0,34MHuXONazzgSxI0cThpAg
+"Springsteen, Bruce",Bruce Springsteen,Nebraska,224.0,226.0,150.0,74,1982,Country/Folk/Country Rock/Folk Rock,Studio,29.0,3,51.0,spotify:album:6yskFQZNlLYhkchAxELHi6,1.0,Male,1949.0,1973.0,33.0,9.0,6yskFQZNlLYhkchAxELHi6
+Roxy Music,Roxy Music,Avalon,307.0,,336.0,-29,1982,Punk/Post-Punk/New Wave/Power Pop,Studio,27.0,53,62.0,spotify:album:3JXODSjT9mUz2lIb4YIErw,3.0,Male,5842.0,1972.0,34.66666667,10.0,3JXODSjT9mUz2lIb4YIErw
+"Costello, Elvis",Elvis Costello,Imperial Bedroom,166.0,166.0,,-335,1982,Punk/Post-Punk/New Wave/Power Pop,Studio,24.0,30,42.0,spotify:album:1pK8MLyjgvt8pNVkQCBnSg,1.0,Male,1954.0,1977.0,28.0,5.0,1pK8MLyjgvt8pNVkQCBnSg
+"Thompson, Richard & Linda",Richard & Linda Thompson,Shoot Out the Lights,333.0,332.0,,-168,1982,,Studio,,201,26.0,spotify:album:4xX94uM6Kf972DJurGKnbb,2.0,Male/Female,3896.0,1974.0,34.0,8.0,4xX94uM6Kf972DJurGKnbb
+"Lauper, Cyndi",Cyndi Lauper,She's So Unusual,494.0,487.0,184.0,310,1983,Punk/Post-Punk/New Wave/Power Pop,Studio,96.0,4,75.0,spotify:album:1FvdZ1oizXwF9bxogujoF0,1.0,Female,1953.0,1983.0,30.0,0.0,1FvdZ1oizXwF9bxogujoF0
+Police,The Police,Synchronicity,455.0,448.0,159.0,296,1983,Punk/Post-Punk/New Wave/Power Pop,Studio,75.0,1,79.0,spotify:album:5W9OT0a5iZlBr83a9WMKFY,3.0,Male,5845.0,1978.0,34.66666667,5.0,5W9OT0a5iZlBr83a9WMKFY
+R.E.M.,R.E.M.,Murmur,197.0,197.0,165.0,32,1983,Punk/Post-Punk/New Wave/Power Pop,Studio,30.0,36,42.0,spotify:album:4Mw9Gcu1LT7JaipXdwrq1Q,4.0,Male,7832.0,1983.0,25.0,0.0,4Mw9Gcu1LT7JaipXdwrq1Q
+U2,U2,War,221.0,223.0,,-280,1983,Punk/Post-Punk/New Wave/Power Pop,Studio,180.0,12,65.0,spotify:album:6GaqU0TlYBKHUiSJ0AT9A2,4.0,Male,7842.0,1980.0,22.5,3.0,6GaqU0TlYBKHUiSJ0AT9A2
+Def Leppard,Def Leppard,Pyromania,384.0,,,-117,1983,Hard Rock/Metal,Studio,116.0,2,66.0,spotify:album:5ab6RIlAGwbVAacV1JIr2d,6.0,Male,11759.0,1980.0,23.16666667,3.0,5ab6RIlAGwbVAacV1JIr2d
+ZZ Top,ZZ Top,Eliminator,396.0,398.0,,-105,1983,Blues/Blues Rock,Studio,183.0,9,69.0,spotify:album:5LMGAYhn2ywaxGZdtmXGpw,3.0,Male,5847.0,1971.0,34.0,12.0,5LMGAYhn2ywaxGZdtmXGpw
+Eurythmics,Eurythmics,Touch,500.0,492.0,,-1,1983,Punk/Post-Punk/New Wave/Power Pop,Studio,43.0,7,37.0,spotify:album:4m9XbflfyP66irnWo3hwZs,2.0,Male/Female,3906.0,1981.0,30.0,2.0,4m9XbflfyP66irnWo3hwZs
+"Marley, Bob",Bob Marley,Legend: The Best of Bob Marley and The Wailers,46.0,46.0,48.0,-2,1984,Reggae,Greatest Hits,36.0,54,56.0,spotify:album:04VRfesff9bgDA2Q8J2oDo,1.0,Male,1945.0,1965.0,39.0,19.0,04VRfesff9bgDA2Q8J2oDo
+"Williams, Hank",Hank Williams,40 Greatest Hits,129.0,94.0,132.0,-3,1984,Country/Folk/Country Rock/Folk Rock,Greatest Hits,15.0,152,42.0,spotify:album:6zIYEv6soMoaZiypsHB5dd,1.0,Male,1923.0,1951.0,61.0,33.0,6zIYEv6soMoaZiypsHB5dd
+"Springsteen, Bruce",Bruce Springsteen,Born in the U.S.A.,85.0,86.0,142.0,-57,1984,Singer-Songwriter/Heartland Rock,Studio,139.0,1,77.0,spotify:album:0PMasrHdpaoIRuHuhHp72O,1.0,Male,1949.0,1973.0,35.0,11.0,0PMasrHdpaoIRuHuhHp72O
+Replacements,The Replacements,Let It Be,239.0,241.0,156.0,83,1984,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,30.0,spotify:album:2sOLW5TSgXiLZBacdHxO6m,4.0,Male,7845.0,1981.0,22.75,3.0,2sOLW5TSgXiLZBacdHxO6m
+Minutemen,Minutemen,Double Nickels on the Dime,411.0,413.0,267.0,144,1984,,Studio,,201,52.0,spotify:album:5viZ5HyYtV0wafK7DoXmgF,3.0,Male,5873.0,1981.0,26.33333333,3.0,5viZ5HyYtV0wafK7DoXmgF
+Run D.M.C.,Run-DMC,Run D.M.C.,240.0,242.0,378.0,-138,1984,Hip-Hop/Rap,Studio,65.0,53,26.0,spotify:album:05n0d2kfwGPhKpTonLHRpY,3.0,Male,5893.0,1984.0,19.66666667,0.0,05n0d2kfwGPhKpTonLHRpY
+Los Lobos,Los Lobos,How Will the Wolf Survive?,461.0,455.0,431.0,30,1984,Blues/Blues Rock,Studio,34.0,47,35.0,spotify:album:5dl01XDIMXrmjJ22obqfhQ,5.0,Male,9767.0,1978.0,30.6,6.0,5dl01XDIMXrmjJ22obqfhQ
+Smiths,The Smiths,The Smiths,481.0,473.0,,-20,1984,Punk/Post-Punk/New Wave/Power Pop,Studio,11.0,150,72.0,spotify:album:6cI1XoZsOhkyrCwtuI70CN,4.0,Male,7849.0,1984.0,21.75,0.0,6cI1XoZsOhkyrCwtuI70CN
+Prince and the Revolution,Prince,Purple Rain,72.0,76.0,8.0,64,1984,,Studio,72.0,1,71.0,spotify:album:7nXJ5k4XgRj5OLg9m8V3zc,6.0,Male/Female,11758.0,1978.0,24.33333333,6.0,7nXJ5k4XgRj5OLg9m8V3zc
+Talking Heads,Talking Heads,Stop Making Sense,345.0,345.0,,-156,1984,Punk/Post-Punk/New Wave/Power Pop,Live,118.0,41,57.0,spotify:album:4FR8Z6TvIsC56NLyNomNRE,4.0,Male/Female,7802.0,1977.0,33.5,7.0,4FR8Z6TvIsC56NLyNomNRE
+"Houston, Whitney",Whitney Houston,Whitney Houston,254.0,257.0,249.0,5,1985,Soul/Gospel/R&B,Studio,162.0,1,69.0,spotify:album:2MH37enG6IPvNK5QFLyKes,1.0,Female,1963.0,1985.0,22.0,0.0,2MH37enG6IPvNK5QFLyKes
+"Cooke, Sam",Sam Cooke,"Live at the Harlem Square Club, 1963",443.0,439.0,240.0,203,1985,Soul/Gospel/R&B,Live,8.0,134,37.0,spotify:album:3nTXqOEHr6AfTb1WSaB4Pm,1.0,Male,1931.0,1958.0,54.0,27.0,3nTXqOEHr6AfTb1WSaB4Pm
+"Waits, Tom",Tom Waits,Rain Dogs,397.0,399.0,357.0,40,1985,,Studio,7.0,181,53.0,spotify:album:51CvLH7MxsLuFgTwVvzApx,1.0,Male,1949.0,1973.0,36.0,12.0,51CvLH7MxsLuFgTwVvzApx
+Dire Straits,Dire Straits,Brothers in Arms,351.0,352.0,418.0,-67,1985,Singer-Songwriter/Heartland Rock,Studio,97.0,1,60.0,spotify:album:7jvcSnCnugLcisBCNBm60s,6.0,Male,11712.0,1978.0,33.0,7.0,7jvcSnCnugLcisBCNBm60s
+Husker Du,Hüsker Dü,New Day Rising,495.0,488.0,428.0,67,1985,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,36.0,spotify:album:2eOu9QDLP2MoO04ZtII2Vm,3.0,Male,5880.0,1983.0,25.0,2.0,2eOu9QDLP2MoO04ZtII2Vm
+Replacements,The Replacements,Tim,136.0,137.0,,-365,1985,Punk/Post-Punk/New Wave/Power Pop,Studio,7.0,183,34.0,spotify:album:1yO2d1lmmu0tkDf3trvOm7,4.0,Male,7845.0,1981.0,23.75,4.0,1yO2d1lmmu0tkDf3trvOm7
+Jesus and Mary Chain,The Jesus and Mary Chain,Psychocandy,268.0,269.0,,-233,1985,Indie/Alternative Rock,Studio,4.0,188,45.0,spotify:album:0PnzJO3D4i85ALVJPaDpru,4.0,Male,7845.0,1985.0,23.75,0.0,0PnzJO3D4i85ALVJPaDpru
+Smiths,The Smiths,Meat Is Murder,295.0,296.0,,-206,1985,Punk/Post-Punk/New Wave/Power Pop,Studio,32.0,110,62.0,spotify:album:5DM1qCdgGt2zbknnsVn1Ca,4.0,Male,7849.0,1984.0,22.75,1.0,5DM1qCdgGt2zbknnsVn1Ca
+LL Cool J,LL Cool J,Radio,478.0,470.0,,-23,1985,Hip-Hop/Rap,Studio,38.0,46,42.0,spotify:album:4sevefzBUFvJYAzijVBQ2a,1.0,Male,1968.0,1985.0,17.0,0.0,4sevefzBUFvJYAzijVBQ2a
+Pogues,The Pogues,Rum Sodomy & the Lash,445.0,440.0,,-56,1985,,Studio,,201,17.0,spotify:album:5uy9pvgfvVAlZnegK6fPLU,7.0,Male/Female,13699.0,1984.0,28.0,1.0,5uy9pvgfvVAlZnegK6fPLU
+"Simon, Paul",Paul Simon,Graceland,81.0,71.0,46.0,35,1986,,Studio,97.0,3,49.0,spotify:album:4WoQ94qzwQj28n3nlSOVLB,1.0,Male,1941.0,1965.0,45.0,21.0,4WoQ94qzwQj28n3nlSOVLB
+Metallica,Metallica,Master of Puppets,167.0,167.0,97.0,70,1986,Hard Rock/Metal,Studio,72.0,29,51.0,spotify:album:5gzLOflH95LkKYE6XSXE9k,4.0,Male,7850.0,1983.0,23.5,3.0,5gzLOflH95LkKYE6XSXE9k
+Smiths,The Smiths,The Queen Is Dead,216.0,218.0,113.0,103,1986,Punk/Post-Punk/New Wave/Power Pop,Studio,37.0,70,75.0,spotify:album:5Y0p2XCgRRIjna91aQE8q7,4.0,Male,7849.0,1984.0,23.75,2.0,5Y0p2XCgRRIjna91aQE8q7
+Beastie Boys,Beastie Boys,Licensed to Ill,217.0,219.0,192.0,25,1986,Hip-Hop/Rap,Studio,68.0,1,69.0,spotify:album:11oR0ZuqB3ucZwb5TGbZxb,3.0,Male,5895.0,1986.0,21.0,0.0,11oR0ZuqB3ucZwb5TGbZxb
+Run D.M.C.,Run-DMC,Raising Hell,120.0,123.0,209.0,-89,1986,Hip-Hop/Rap,Studio,71.0,3,65.0,spotify:album:7AFsTiojVaB2I58oZ1tMRg,3.0,Male,5893.0,1984.0,21.66666667,2.0,7AFsTiojVaB2I58oZ1tMRg
+"Gabriel, Peter",Peter Gabriel,So,187.0,187.0,297.0,-110,1986,,Studio,76.0,2,49.0,spotify:album:2ikq6LspaBbUG2qyiV5qdx,1.0,Male,1950.0,1977.0,36.0,9.0,2ikq6LspaBbUG2qyiV5qdx
+"Brown, James",James Brown,In the Jungle Groove,330.0,329.0,,-171,1986,Funk/Disco,Compilation,,201,39.0,spotify:album:4IxN6AdKM6psncLNIwLWUs,1.0,Male,1933.0,1958.0,53.0,28.0,4IxN6AdKM6psncLNIwLWUs
+"Earle, Steve",Steve Earle,Guitar Town,489.0,482.0,,-12,1986,,Studio,20.0,89,51.0,spotify:album:3bEnaGjQRqfoqNkAQtO1Uy,1.0,Male,1955.0,1986.0,31.0,0.0,3bEnaGjQRqfoqNkAQtO1Uy
+Prince,Prince,Sign O' The Times,93.0,93.0,45.0,48,1987,,Studio,54.0,6,48.0,spotify:album:2QuHyvguNhl5kfdoE17RRe,1.0,Male,1958.0,1978.0,29.0,9.0,2QuHyvguNhl5kfdoE17RRe
+Eric B. & Rakim,Eric B. & Rakim,Paid in Full,227.0,228.0,61.0,166,1987,Hip-Hop/Rap,Studio,38.0,58,51.0,spotify:album:3miZDfDnP7SmOXAJXWdFmz,2.0,Male,3931.0,1987.0,21.5,0.0,3miZDfDnP7SmOXAJXWdFmz
+Guns N' Roses,Guns N' Roses,Appetite for Destruction,61.0,62.0,62.0,-1,1987,Hard Rock/Metal,Studio,147.0,1,83.0,spotify:album:28yHV3Gdg30AiB8h8em1eW,5.0,Male,9818.0,1987.0,23.4,0.0,28yHV3Gdg30AiB8h8em1eW
+U2,U2,The Joshua Tree,26.0,27.0,135.0,-109,1987,Indie/Alternative Rock,Studio,103.0,1,60.0,spotify:album:5vBZRYu2GLA65nfxBvG1a7,4.0,Male,7842.0,1980.0,26.5,7.0,5vBZRYu2GLA65nfxBvG1a7
+"Michael, George",George Michael,Faith,480.0,472.0,151.0,329,1987,,Studio,87.0,1,69.0,spotify:album:34K1Kvskt9arWy8E1Gz3Lw,1.0,Male,1963.0,1987.0,24.0,0.0,34K1Kvskt9arWy8E1Gz3Lw
+"Jackson, Michael",Michael Jackson,Bad,202.0,203.0,194.0,8,1987,Soul/Gospel/R&B,Studio,87.0,1,69.0,spotify:album:3Us57CjssWnHjTUIXBuIeH,1.0,Male,1958.0,1972.0,29.0,15.0,3Us57CjssWnHjTUIXBuIeH
+Boogie Down Productions,Boogie Down Productions,Criminal Minded,444.0,,239.0,205,1987,Hip-Hop/Rap,Studio,,201,24.0,spotify:album:3AJ15ysr4Hz5p0N2tnNb1F,3.0,Male,5897.0,1987.0,21.33333333,0.0,3AJ15ysr4Hz5p0N2tnNb1F
+New Order,New Order,Substance 1987,361.0,363.0,,-140,1987,Punk/Post-Punk/New Wave/Power Pop,Compilation,60.0,36,66.0,spotify:album:6iHuSGy6pq4tNGFV3ZVPtl,4.0,Male,7830.0,1981.0,29.5,6.0,6iHuSGy6pq4tNGFV3ZVPtl
+Smiths,The Smiths,Louder Than Bombs,365.0,369.0,,-136,1987,Punk/Post-Punk/New Wave/Power Pop,Compilation,25.0,62,76.0,spotify:album:45StnugV9WQMQwk4rRoTy8,4.0,Male,7849.0,1984.0,24.75,3.0,45StnugV9WQMQwk4rRoTy8
+R.E.M.,R.E.M.,Document,470.0,462.0,,-31,1987,Indie/Alternative Rock,Studio,33.0,10,60.0,spotify:album:6gMv3MgFlieOM6Uz5GZBzy,4.0,Male,7832.0,1983.0,29.0,4.0,6gMv3MgFlieOM6Uz5GZBzy
+Def Leppard,Def Leppard,Hysteria,472.0,464.0,,-29,1987,Hard Rock/Metal,Studio,133.0,1,72.0,spotify:album:1ja2qzCrh6bZykcojbZs82,5.0,Male,9799.0,1980.0,27.2,7.0,1ja2qzCrh6bZykcojbZs82
+"Springsteen, Bruce",Bruce Springsteen,Tunnel of Love,475.0,467.0,,-26,1987,Singer-Songwriter/Heartland Rock,Studio,45.0,1,57.0,spotify:album:5Qcef60m4gcckV24PmPYVq,1.0,Male,1949.0,1973.0,38.0,14.0,5Qcef60m4gcckV24PmPYVq
+Public Enemy,Public Enemy,Yo! Bum Rush the Show,497.0,,,-4,1987,Hip-Hop/Rap,Studio,12.0,125,38.0,spotify:album:2T6GmdIEdFRG9enKTM9uTZ,4.0,Male,7845.0,1987.0,25.75,0.0,2T6GmdIEdFRG9enKTM9uTZ
+"Chapman, Tracey",Tracey Chapman,Tracy Chapman,261.0,263.0,256.0,5,1988,,Studio,61.0,1,77.0,spotify:album:6hmmX5UP4rIvOpGSaPerV8,1.0,Female,1964.0,1988.0,24.0,0.0,6hmmX5UP4rIvOpGSaPerV8
+Public Enemy,Public Enemy,It Takes a Nation of Millions to Hold Us Back,48.0,48.0,15.0,33,1988,Hip-Hop/Rap,Studio,51.0,42,31.0,spotify:album:1Rj1daFzMlYzLv7lJl14hz,4.0,Male,7845.0,1987.0,26.75,1.0,1Rj1daFzMlYzLv7lJl14hz
+N.W.A,N.W.A,Straight Outta Compton,144.0,144.0,70.0,74,1988,Hip-Hop/Rap,Studio,81.0,37,71.0,spotify:album:0Y7qkJVZ06tS2GUCDptzyW,6.0,Male,11793.0,1988.0,22.5,0.0,0Y7qkJVZ06tS2GUCDptzyW
+Jane's Addiction,Jane's Addiction,Nothing's Shocking,309.0,312.0,,-192,1988,Hard Rock/Metal,Studio,35.0,103,57.0,spotify:album:4DVBJPJyizvHfJQt5pYaCa,4.0,Male,7858.0,1988.0,23.5,0.0,4DVBJPJyizvHfJQt5pYaCa
+EPMD,EPMD,Strictly Business,459.0,453.0,,-42,1988,Hip-Hop/Rap,Studio,23.0,80,46.0,spotify:album:2HOl8gDiGGpt7wsIDi9jy5,3.0,Male,5904.0,1988.0,20.0,0.0,2HOl8gDiGGpt7wsIDi9jy5
+Sonic Youth,Sonic Youth,Daydream Nation,329.0,328.0,171.0,158,1988,Punk/Post-Punk/New Wave/Power Pop,Studio,,201,39.0,spotify:album:3BYlBcND6PeKoW6ZODjZO3,4.0,Male/Female,7829.0,1983.0,30.75,5.0,3BYlBcND6PeKoW6ZODjZO3
+Pixies,Pixies,Surfer Rosa,315.0,317.0,390.0,-75,1988,Indie/Alternative Rock,Studio,,201,70.0,spotify:album:50j4Wm1b9hLpSpPIA39Vp9,4.0,Male/Female,7852.0,1988.0,25.0,0.0,50j4Wm1b9hLpSpPIA39Vp9
+Madonna,Madonna,Like a Prayer,237.0,239.0,331.0,-94,1989,,Studio,77.0,1,58.0,spotify:album:48AGkmM7iO4jrELRnNZGPV,1.0,Female,1958.0,1983.0,31.0,6.0,48AGkmM7iO4jrELRnNZGPV
+"Jackson, Janet",Janet Jackson,Rhythm Nation 1814,275.0,277.0,339.0,-64,1989,Soul/Gospel/R&B,Studio,108.0,1,54.0,spotify:album:4OD3LU6001esAtFshDX46M,1.0,Female,1966.0,1982.0,23.0,7.0,4OD3LU6001esAtFshDX46M
+"O'Connor, Sinead",Sinead O'Connor,I Do Not Want What I Haven't Got,406.0,408.0,457.0,-51,1989,,Studio,52.0,1,67.0,spotify:album:0fV9DAddjwNZcmCP1Q8b01,1.0,Female,1966.0,1987.0,23.0,2.0,0fV9DAddjwNZcmCP1Q8b01
+"Raitt, Bonnie",Bonnie Raitt,Nick of Time,229.0,230.0,492.0,-263,1989,Country/Folk/Country Rock/Folk Rock,Studio,185.0,1,45.0,spotify:album:6wxpS5o0ty5CLqyH5fIRln,1.0,Female,1949.0,1971.0,40.0,18.0,6wxpS5o0ty5CLqyH5fIRln
+De La Soul,De La Soul,3 Feet High and Rising,346.0,346.0,103.0,243,1989,Hip-Hop/Rap,Studio,20.0,24,56.0,spotify:album:34LxHI9x14qXUOS8AWRrYD,3.0,Male,5907.0,1989.0,20.0,0.0,34LxHI9x14qXUOS8AWRrYD
+Cure,The Cure,Disintegration,326.0,326.0,116.0,210,1989,Punk/Post-Punk/New Wave/Power Pop,Studio,55.0,12,47.0,spotify:album:0A13JySVHzBoRZFk2o89Wl,6.0,Male,11747.0,1979.0,31.16666667,10.0,0A13JySVHzBoRZFk2o89Wl
+Beastie Boys,Beastie Boys,Paul's Boutique,156.0,156.0,125.0,31,1989,Hip-Hop/Rap,Studio,15.0,14,57.0,spotify:album:1kmyirVya5fRxdjsPFDM05,3.0,Male,5895.0,1986.0,24.0,3.0,1kmyirVya5fRxdjsPFDM05
+"Henley, Don",Don Henley,The End of the Innocence,389.0,389.0,,-112,1989,Singer-Songwriter/Heartland Rock,Studio,148.0,8,57.0,spotify:album:12lDqJuZIqMk6DNe1fInFl,1.0,Male,1947.0,1982.0,42.0,7.0,12lDqJuZIqMk6DNe1fInFl
+Pixies,Pixies,Doolittle,226.0,227.0,141.0,85,1989,Indie/Alternative Rock,Studio,27.0,98,73.0,spotify:album:0DQyTVcDhK9wm0f6RaErWO,4.0,Male/Female,7852.0,1988.0,26.0,1.0,0DQyTVcDhK9wm0f6RaErWO
+Madonna,Madonna,The Immaculate Collection,278.0,184.0,138.0,140,1990,,Greatest Hits,141.0,2,61.0,spotify:album:5MzwGwnO9gkh0z6Nl4FF8h,1.0,Female,1958.0,1983.0,32.0,7.0,5MzwGwnO9gkh0z6Nl4FF8h
+Depeche Mode,Depeche Mode,Violator,342.0,342.0,167.0,175,1990,,Studio,74.0,7,61.0,spotify:album:5g3Yi15plTSMaq6tYiuw8p,4.0,Male,7843.0,1981.0,29.25,9.0,5g3Yi15plTSMaq6tYiuw8p
+Public Enemy,Public Enemy,Fear of a Black Planet,300.0,302.0,176.0,124,1990,Hip-Hop/Rap,Studio,27.0,10,48.0,spotify:album:0aFNb4RDk2hmKKLa0bzXNz,3.0,Male,5885.0,1987.0,28.33333333,3.0,0aFNb4RDk2hmKKLa0bzXNz
+Jane's Addiction,Jane's Addiction,Ritual de lo Habitual,453.0,,,-48,1990,Hard Rock/Metal,Studio,60.0,19,48.0,spotify:album:2Jkbi83HTSfqEd0CBdYwpU,4.0,Male,7858.0,1988.0,25.5,2.0,2Jkbi83HTSfqEd0CBdYwpU
+Various Artists,Various Artists,"The Best of the Girl Groups, Volume 1",422.0,421.0,,-79,1990,Soul/Gospel/R&B,Compilation,,201,,,,,,,,,NOS136
+Nirvana,Nirvana,Nevermind,17.0,17.0,6.0,11,1991,Indie/Alternative Rock,Studio,252.0,1,77.0,spotify:album:2guirTSEqLizK7j9i1MTTZ,3.0,Male,5901.0,1989.0,24.0,2.0,2guirTSEqLizK7j9i1MTTZ
+A Tribe Called Quest,A Tribe Called Quest,The Low End Theory,154.0,153.0,43.0,111,1991,Hip-Hop/Rap,Studio,51.0,45,64.0,spotify:album:1p12OAWwudgMqfMzjMvl2a,4.0,Male,7890.0,1990.0,18.5,1.0,1p12OAWwudgMqfMzjMvl2a
+"Brown, James",James Brown,Star Time,79.0,75.0,54.0,25,1991,Funk/Disco,Compilation,,201,54.0,spotify:album:2yuTyv0L51qvYuI5RIktlA,1.0,Male,1933.0,1958.0,58.0,33.0,2yuTyv0L51qvYuI5RIktlA
+U2,U2,Achtung Baby,62.0,63.0,124.0,-62,1991,Indie/Alternative Rock,Studio,97.0,1,70.0,spotify:album:0ta5VdkJcpdVnNrn7g4cZe,4.0,Male,7842.0,1980.0,30.5,11.0,0ta5VdkJcpdVnNrn7g4cZe
+Pearl Jam,Pearl Jam,Ten,207.0,209.0,160.0,47,1991,Indie/Alternative Rock,Studio,250.0,2,76.0,spotify:album:5B4PYA7wNN4WdEXdIJu58a,5.0,Male,9825.0,1991.0,26.0,0.0,5B4PYA7wNN4WdEXdIJu58a
+Red Hot Chili Peppers,Red Hot Chili Peppers,Blood Sugar Sex Magik,310.0,310.0,186.0,124,1991,Indie/Alternative Rock,Studio,97.0,3,45.0,spotify:album:1DCI2yWmV4UI7Aga71yx9B,4.0,Male,7855.0,1984.0,27.25,7.0,1DCI2yWmV4UI7Aga71yx9B
+"Charles, Ray",Ray Charles,The Birth of Soul,53.0,54.0,210.0,-157,1991,Soul/Gospel/R&B,Compilation,,201,29.0,spotify:album:3RPMCDSd1yj37hlqbizmeT,1.0,Male,1930.0,1949.0,61.0,42.0,3RPMCDSd1yj37hlqbizmeT
+Metallica,Metallica,Metallica,252.0,255.0,235.0,17,1991,Hard Rock/Metal,Studio,281.0,1,73.0,spotify:album:55fq75UfkYbGMq4CncCtOH,4.0,Male,7851.0,1983.0,28.25,8.0,55fq75UfkYbGMq4CncCtOH
+"Spector, Phil",Phil Spector,Back to Mono (1958-1969),64.0,65.0,489.0,-425,1991,Soul/Gospel/R&B,Compilation,,201,,,1.0,Male,1939.0,1959.0,52.0,32.0,NOS123
+"Hooker, John Lee",John Lee Hooker,The Ultimate Collection: 1948-1990,375.0,377.0,,-126,1991,Blues/Blues Rock,Compilation,,201,,,1.0,Male,1917.0,1959.0,74.0,32.0,NOS135
+"Brown, James",James Brown,Greatest Hits,414.0,,,-87,1991,,Greatest Hits,,201,,6MjOv3BeIjmht2ymtRih3s,1.0,Male,1933.0,1958.0,58.0,33.0,6MjOv3BeIjmht2ymtRih3s
+My Bloody Valentine,My Bloody Valentine,Loveless,219.0,221.0,73.0,146,1991,Indie/Alternative Rock,Studio,,201,63.0,spotify:album:3GH4IiI6jQAIvnHVdb5FB6,4.0,Male/Female,7850.0,1988.0,28.5,3.0,3GH4IiI6jQAIvnHVdb5FB6
+Massive Attack,Massive Attack,Blue Lines,395.0,397.0,241.0,154,1991,Electronic,Studio,,201,60.0,spotify:album:5mAPk4qeNqVLtNydaWbWlf,6.0,Male/Female,11775.0,1991.0,28.5,0.0,5mAPk4qeNqVLtNydaWbWlf
+"Turner, Ike & Tina",Ike & Tina Turner,Proud Mary: The Best of Ike and Tina Turner,212.0,214.0,392.0,-180,1991,Soul/Gospel/R&B,Greatest Hits,,201,39.0,spotify:album:2UCdfQEDgzWtbzpaD4Mo47,2.0,Male/Female,3870.0,1961.0,56.0,30.0,2UCdfQEDgzWtbzpaD4Mo47
+Dr. Dre,Dr. Dre,The Chronic,137.0,138.0,37.0,100,1992,Hip-Hop/Rap,Studio,86.0,3,71.0,spotify:album:2V5rhszUpCudPcb01zevOt,1.0,Male,1965.0,1992.0,27.0,0.0,2V5rhszUpCudPcb01zevOt
+R.E.M.,R.E.M.,Automatic for the People,247.0,249.0,96.0,151,1992,Indie/Alternative Rock,Studio,75.0,2,70.0,spotify:album:0BiNb8HYR4JvuxUa31Z58Q,4.0,Male,7832.0,1983.0,34.0,9.0,0BiNb8HYR4JvuxUa31Z58Q
+Pavement,Pavement,Slanted and Enchanted,134.0,135.0,199.0,-65,1992,Indie/Alternative Rock,Studio,,201,53.0,spotify:album:7o14zVcXSRk7clV6QCEdOD,3.0,Male,5885.0,1992.0,30.33333333,0.0,7o14zVcXSRk7clV6QCEdOD
+Rage Against the Machine,Rage Against the Machine,Rage Against the Machine,368.0,365.0,221.0,147,1992,Hard Rock/Metal,Studio,89.0,45,54.0,spotify:album:4LaRYkT4oy47wEuQgkLBul,4.0,Male,7870.0,1992.0,24.5,0.0,4LaRYkT4oy47wEuQgkLBul
+"Mayfield, Curtis",Curtis Mayfield,The Anthology: 1961-1977,179.0,178.0,,-322,1992,Soul/Gospel/R&B,Compilation,,201,,,1.0,Male,1942.0,1970.0,50.0,22.0,NOS127
+"Wilson, Jackie",Jackie Wilson,Mr. Excitement!,235.0,236.0,,-266,1992,Soul/Gospel/R&B,Compilation,,201,,,1.0,Male,1934.0,1958.0,58.0,34.0,NOS131
+"Phair, Liz",Liz Phair,Exile in Guyville,328.0,327.0,56.0,272,1993,Indie/Alternative Rock,Studio,1.0,196,47.0,spotify:album:7sCpW2cLGcRk1zf9zi0Yqd,1.0,Female,1967.0,1993.0,26.0,0.0,7sCpW2cLGcRk1zf9zi0Yqd
+"Harvey, PJ",PJ Harvey,Rid of Me,405.0,406.0,153.0,252,1993,Indie/Alternative Rock,Studio,1.0,158,46.0,spotify:album:2fDJpBJhtloxzUENHlU9JB,1.0,Female,1969.0,1992.0,24.0,1.0,2fDJpBJhtloxzUENHlU9JB
+Wu Tang Clan,Wu-Tang Clan,Enter the Wu-Tang: 36 Chambers,386.0,387.0,27.0,359,1993,,Studio,42.0,41,41.0,spotify:album:6acGx168JViE5LLFR1rGRE,9.0,Male,17723.0,1993.0,23.77777778,0.0,6acGx168JViE5LLFR1rGRE
+Nirvana,Nirvana,In Utero,439.0,435.0,173.0,266,1993,Indie/Alternative Rock,Studio,87.0,1,76.0,spotify:album:7wOOA7l306K8HfBKfPoafr,3.0,Male,5901.0,1989.0,26.0,4.0,7wOOA7l306K8HfBKfPoafr
+"Lewis, Jerry Lee",Jerry Lee Lewis,All Killer No Filler! The Jerry Lee Lewis Anthology,242.0,245.0,325.0,-83,1993,Rock n' Roll/Rhythm & Blues,Compilation,,201,,,1.0,Male,1935.0,1958.0,58.0,35.0,NOS115
+Smashing Pumpkins,The Smashing Pumpkins,Siamese Dream,360.0,362.0,341.0,19,1993,Indie/Alternative Rock,Studio,89.0,10,52.0,spotify:album:3YDm8Vu6IOjjVdLNHlJtj0,4.0,Male/Female,7867.0,1991.0,26.25,2.0,3YDm8Vu6IOjjVdLNHlJtj0
+"Blige, Mary J.",Mary J. Blige,My Life,279.0,281.0,126.0,153,1994,Soul/Gospel/R&B,Studio,46.0,7,60.0,spotify:album:1OQ5l5rHKqUumPpn559zJC,1.0,Female,1971.0,1992.0,23.0,2.0,1OQ5l5rHKqUumPpn559zJC
+TLC,TLC,CrazySexyCool,377.0,379.0,218.0,159,1994,Soul/Gospel/R&B,Studio,99.0,3,68.0,spotify:album:5eg56dCpFn32neJak2vk0f,3.0,Female,5912.0,1992.0,23.33333333,2.0,5eg56dCpFn32neJak2vk0f
+Notorious B.I.G.,The Notorious B.I.G.,Ready to Die,133.0,134.0,22.0,111,1994,Hip-Hop/Rap,Studio,59.0,15,76.0,spotify:album:2HTbQ0RHwukKVXAlTmCZP2,1.0,Male,1972.0,1994.0,22.0,0.0,2HTbQ0RHwukKVXAlTmCZP2
+Nas,Nas,Illmatic,400.0,402.0,44.0,356,1994,Hip-Hop/Rap,Studio,19.0,12,71.0,spotify:album:3kEtdS2pH6hKcMU9Wioob1,1.0,Male,1973.0,1994.0,21.0,0.0,3kEtdS2pH6hKcMU9Wioob1
+Nine Inch Nails,Nine Inch Nails,The Downward Spiral,200.0,201.0,122.0,78,1994,Indie/Alternative Rock,Studio,115.0,2,62.0,spotify:album:3nJnyDV8fwFpffo0EyHQto,4.0,Male,7873.0,1989.0,25.75,5.0,3nJnyDV8fwFpffo0EyHQto
+"Buckley, Jeff",Jeff Buckley,Grace,303.0,304.0,147.0,156,1994,,Studio,7.0,149,70.0,spotify:album:7yQtjAjhtNi76KRu05XWFS,1.0,Male,1966.0,1994.0,28.0,0.0,7yQtjAjhtNi76KRu05XWFS
+Nirvana,Nirvana,MTV Unplugged in New York,311.0,313.0,279.0,32,1994,Indie/Alternative Rock,Live,81.0,1,73.0,spotify:album:1To7kv722A8SpZF789MZy7,3.0,Male,5901.0,1989.0,27.0,5.0,1To7kv722A8SpZF789MZy7
+Weezer,Weezer,Weezer,297.0,299.0,294.0,3,1994,,Studio,76.0,16,76.0,spotify:album:1xpGyKyV26uPstk1Elgp9Q,4.0,Male,7876.0,1994.0,25.0,0.0,1xpGyKyV26uPstk1Elgp9Q
+Green Day,Green Day,Dookie,193.0,193.0,375.0,-182,1994,Punk/Post-Punk/New Wave/Power Pop,Studio,113.0,2,78.0,spotify:album:4uG8q3GPuWHQlRbswMIRS6,3.0,Male,5916.0,1990.0,22.0,4.0,4uG8q3GPuWHQlRbswMIRS6
+Pavement,Pavement,Crooked Rain Crooked Rain,210.0,212.0,434.0,-224,1994,Indie/Alternative Rock,Studio,121.0,4,52.0,spotify:album:1XFNz6KIvLyIsLFOiLRKqP,5.0,Male,9827.0,1992.0,28.6,2.0,1XFNz6KIvLyIsLFOiLRKqP
+Soundgarden,Soundgarden,Superunknown,336.0,335.0,,-165,1994,Indie/Alternative Rock,Studio,75.0,1,64.0,spotify:album:4K8bxkPDa5HENw0TK7WxJh,4.0,Male,7854.0,1988.0,30.5,6.0,4K8bxkPDa5HENw0TK7WxJh
+"Cash, Johnny",Johnny Cash,American Recordings,364.0,366.0,,-137,1994,Country/Folk/Country Rock/Folk Rock,Studio,9.0,110,45.0,spotify:album:19rYWxZfMdEOxTDODFjLyb,1.0,Male,1932.0,1957.0,62.0,37.0,19rYWxZfMdEOxTDODFjLyb
+Pearl Jam,Pearl Jam,Vitalogy,493.0,485.0,,-8,1994,Indie/Alternative Rock,Studio,55.0,1,61.0,spotify:album:5pd9B3KQWKshHw4lnsSLNy,6.0,Male,11789.0,1991.0,29.16666667,3.0,5pd9B3KQWKshHw4lnsSLNy
+Hole,Hole,Live Through This,466.0,460.0,106.0,360,1994,Indie/Alternative Rock,Studio,68.0,52,62.0,spotify:album:2Rwf2nPYZQ9aIe4QXACTC7,4.0,Male/Female,7861.0,1991.0,28.75,3.0,2Rwf2nPYZQ9aIe4QXACTC7
+Portishead,Portishead,Dummy,419.0,419.0,131.0,288,1994,Electronic,Studio,17.0,79,70.0,spotify:album:3539EbNgIdEDGBKkUf4wno,3.0,Male/Female,5893.0,1994.0,29.66666667,0.0,3539EbNgIdEDGBKkUf4wno
+Various Artists,Various Artists,The Sun Records Collection,308.0,311.0,,-193,1994,,Compilation,,201,,,,,,,,,NOS133
+"Morrissette, Alanis",Alanis Morissette,Jagged Little Pill,327.0,,69.0,258,1995,Indie/Alternative Rock,Studio,113.0,1,58.0,spotify:album:09AwlP99cHfKVNKv4FC8VW,1.0,Female,1974.0,1991.0,21.0,4.0,09AwlP99cHfKVNKv4FC8VW
+Bjork,Bjork,Post,373.0,376.0,289.0,84,1995,,Studio,20.0,32,52.0,spotify:album:2Ul7B1LEHxXzYubtkTMENs,1.0,Female,1965.0,1977.0,30.0,18.0,2Ul7B1LEHxXzYubtkTMENs
+"Harvey, PJ",PJ Harvey,To Bring You My Love,435.0,,,-66,1995,Indie/Alternative Rock,Studio,15.0,40,54.0,spotify:album:2yMg8ronKfVDHngnlLNnl8,1.0,Female,1969.0,1992.0,26.0,3.0,2yMg8ronKfVDHngnlLNnl8
+Oasis,Oasis,(What's the Story) Morning Glory?,376.0,378.0,157.0,219,1995,Indie/Alternative Rock,Studio,76.0,4,67.0,spotify:album:2u30gztZTylY4RG7IvfXs8,5.0,Male,9847.0,1994.0,25.6,1.0,2u30gztZTylY4RG7IvfXs8
+Radiohead,Radiohead,The Bends,110.0,111.0,276.0,-166,1995,Indie/Alternative Rock,Studio,24.0,88,77.0,spotify:album:35UJLpClj5EDrhpNIi4DFg,5.0,Male,9843.0,1993.0,26.4,2.0,35UJLpClj5EDrhpNIi4DFg
+Temptations,The Temptations,Anthology: The Best of The Temptations,398.0,400.0,371.0,27,1995,Soul/Gospel/R&B,Greatest Hits,,201,,,9.0,Male,17473.0,1964.0,53.55555556,31.0,NOS117
+No Doubt,No Doubt,Tragic Kingdom,441.0,,,-60,1995,Punk/Post-Punk/New Wave/Power Pop,Studio,90.0,1,73.0,spotify:album:3VekjWskUut57hx6W9wqL8,5.0,Male/Female,9843.0,1992.0,26.4,3.0,3VekjWskUut57hx6W9wqL8
+Smashing Pumpkins,The Smashing Pumpkins,Mellon Collie and the Infinite Sadness,487.0,,,-14,1995,Indie/Alternative Rock,Studio,93.0,1,60.0,spotify:album:4bPT6Q8ppaSNppk1kbEbLl,4.0,Male/Female,7867.0,1991.0,28.25,4.0,4bPT6Q8ppaSNppk1kbEbLl
+Jay-Z,Jay-Z,Reasonable Doubt,248.0,250.0,67.0,181,1996,Hip-Hop/Rap,Studio,18.0,23,58.0,spotify:album:3YPK0bNOuayhmSrs0sIIBR,1.0,Male,1969.0,1996.0,27.0,0.0,NOS002
+Beck,Beck,Odelay,305.0,306.0,424.0,-119,1996,Indie/Alternative Rock,Studio,86.0,16,51.0,spotify:album:1Pus5h1qGedCn4CtOuPVtp,1.0,Male,1970.0,1993.0,26.0,3.0,1Pus5h1qGedCn4CtOuPVtp
+Fugees,Fugees,The Score,477.0,469.0,134.0,343,1996,Hip-Hop/Rap,Studio,64.0,1,43.0,spotify:album:4z6F5s3RVaOsekuaegbLfD,3.0,Male/Female,5916.0,1994.0,24.0,2.0,4z6F5s3RVaOsekuaegbLfD
+"Jackson, Janet",Janet Jackson,The Velvet Rope,256.0,259.0,318.0,-62,1997,Soul/Gospel/R&B,Studio,74.0,1,62.0,spotify:album:1uFp52Q9EXLNA6DTRYnpTj,1.0,Female,1966.0,1982.0,31.0,15.0,1uFp52Q9EXLNA6DTRYnpTj
+Radiohead,Radiohead,OK Computer,162.0,162.0,42.0,120,1997,Indie/Alternative Rock,Studio,55.0,21,79.0,spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE,5.0,Male,9843.0,1993.0,28.4,4.0,6dVIqQ8qmQ5GBnJ9shOYGE
+Notorious B.I.G.,The Notorious B.I.G.,Life After Death,483.0,476.0,179.0,304,1997,Hip-Hop/Rap,Studio,79.0,1,75.0,spotify:album:7dRdaGSxgcBdJnrOviQRuB,1.0,Male,1972.0,1994.0,25.0,3.0,7dRdaGSxgcBdJnrOviQRuB
+Buena Vista Social Club,Buena Vista Social Club,Buena Vista Social Club,260.0,,,-241,1997,Latin,Studio,19.0,80,67.0,spotify:album:5qcOy8sMqROZ0VEfK8LJZt,2.0,Male,3901.0,1997.0,46.5,0.0,5qcOy8sMqROZ0VEfK8LJZt
+"Dylan, Bob",Bob Dylan,Time Out of Mind,408.0,410.0,,-93,1997,Singer-Songwriter/Heartland Rock,Studio,29.0,10,48.0,spotify:album:185DHT5SvszXRrezx3lOjt,1.0,Male,1941.0,1962.0,56.0,35.0,185DHT5SvszXRrezx3lOjt
+Various Artists,Various Artists,Anthology of American Folk Music,276.0,278.0,,-225,1997,Country/Folk/Country Rock/Folk Rock,Compilation,,201,,,,,,,,,NOS132
+"Hill, Lauryn",Lauryn Hill,The Miseducation of Lauryn Hill,312.0,314.0,10.0,302,1998,Hip-Hop/Rap,Studio,81.0,1,75.0,spotify:album:1BZoqf8Zje5nGdwZhOjAtD,1.0,Female,1975.0,1998.0,23.0,0.0,1BZoqf8Zje5nGdwZhOjAtD
+"Williams, Lucinda",Lucinda Williams,Car Wheels on a Gravel Road,304.0,305.0,98.0,206,1998,Country/Folk/Country Rock/Folk Rock,Studio,20.0,65,50.0,spotify:album:3iC6dJobZulVXp0F4Bojig,1.0,Female,1953.0,1979.0,45.0,19.0,3iC6dJobZulVXp0F4Bojig
+Madonna,Madonna,Ray of Light,363.0,367.0,222.0,141,1998,Electronic,Studio,78.0,2,63.0,spotify:album:6cuNyrSmRjBeekioLdLkvI,1.0,Female,1958.0,1983.0,40.0,15.0,6cuNyrSmRjBeekioLdLkvI
+Massive Attack,Massive Attack,Mezzanine,412.0,,383.0,29,1998,Electronic,Studio,7.0,60,66.0,spotify:album:49MNmJhZQewjt06rpwp6QR,5.0,Male,9804.0,1991.0,37.2,7.0,49MNmJhZQewjt06rpwp6QR
+"Redding, Otis",Otis Redding,"Dreams to Remember: The Otis Redding Anthology, Otis Redding",147.0,,,-354,1998,,Compilation,,201,,,1.0,Male,1941.0,1964.0,57.0,34.0,NOS126
+"Williams, Hank",Hank Williams,The Complete Hank Williams,225.0,,,-276,1998,,Compilation,,201,52.0,spotify:album:3A125M77Q1pkNik2HvB1MN,1.0,Male,1923.0,1951.0,75.0,47.0,3A125M77Q1pkNik2HvB1MN
+Mamas and the Papas,The Mamas and the Papas,Greatest Hits,423.0,,,-78,1998,,Greatest Hits,,201,39.0,spotify:album:5QDnv80dApH8LKRmVwrTI0,4.0,Male/Female,7760.0,1966.0,58.0,32.0,5QDnv80dApH8LKRmVwrTI0
+Various Artists,Various Artists,"Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968",196.0,196.0,405.0,-209,1998,,Compilation,,201,,,,,,,,,NOS119
+Red Hot Chili Peppers,Red Hot Chili Peppers,Californication,399.0,401.0,286.0,113,1999,Indie/Alternative Rock,Studio,101.0,3,64.0,spotify:album:0fLhefnjlIV3pGNF9Wo8CD,4.0,Male,7855.0,1984.0,35.25,15.0,0fLhefnjlIV3pGNF9Wo8CD
+Eminem,Eminem,The Slim Shady LP,273.0,275.0,352.0,-79,1999,Hip-Hop/Rap,Studio,105.0,2,73.0,spotify:album:0vE6mttRTBXRe9rKghyr1l,1.0,Male,1972.0,1996.0,27.0,3.0,0vE6mttRTBXRe9rKghyr1l
+"Diamond, Neil",Neil Diamond,The Neil Diamond Collection,222.0,224.0,,-279,1999,,Greatest Hits,,201,,,1.0,Male,1951.0,1966.0,48.0,33.0,NOS129
+Moby,Moby,Play,341.0,341.0,,-160,1999,Electronic,Studio,94.0,38,58.0,spotify:album:724hO8VLcKOz9b0y18wA8c,1.0,Male,1965.0,1992.0,34.0,7.0,724hO8VLcKOz9b0y18wA8c
+"Waits, Tom",Tom Waits,Mule Variations,416.0,416.0,,-85,1999,,Studio,9.0,30,47.0,spotify:album:7cAcex6xw4fP67ltgn1gm3,1.0,Male,1949.0,1973.0,50.0,26.0,7cAcex6xw4fP67ltgn1gm3
+Rage Against the Machine,Rage Against the Machine,The Battle of Los Angeles,426.0,,,-75,1999,Hard Rock/Metal,Studio,51.0,1,69.0,spotify:album:2eia0myWFgoHuttJytCxgX,4.0,Male,7870.0,1992.0,31.5,7.0,2eia0myWFgoHuttJytCxgX
+"Cline, Patsy",Patsy Cline,The Ultimate Collection,234.0,235.0,229.0,5,2000,Country/Folk/Country Rock/Folk Rock,Greatest Hits,,201,,,1.0,Female,1932.0,1957.0,68.0,43.0,NOS010
+Madonna,Madonna,Music,452.0,,,-49,2000,Electronic,Studio,55.0,1,43.0,spotify:album:3e3PxWKqv7lyZaR5d02abW,1.0,Female,1958.0,1983.0,42.0,17.0,3e3PxWKqv7lyZaR5d02abW
+Radiohead,Radiohead,Kid A,428.0,67.0,20.0,408,2000,Indie/Alternative Rock,Studio,28.0,1,70.0,spotify:album:6GjwtEZcfenmOf6l18N7T7,5.0,Male,9843.0,1993.0,31.4,7.0,6GjwtEZcfenmOf6l18N7T7
+D'Angelo,D'Angelo,Voodoo,488.0,481.0,28.0,460,2000,Soul/Gospel/R&B,Studio,33.0,1,59.0,spotify:album:2lO9yuuIDgBpSJzxTh3ai8,1.0,Male,1974.0,1995.0,26.0,5.0,2lO9yuuIDgBpSJzxTh3ai8
+OutKast,OutKast,Stankonia,359.0,361.0,64.0,295,2000,Hip-Hop/Rap,Studio,46.0,2,74.0,spotify:album:2tm3Ht61kqqRZtIYsBjxEj,2.0,Male,3950.0,1994.0,25.0,6.0,2tm3Ht61kqqRZtIYsBjxEj
+Eminem,Eminem,The Marshall Mathers LP,302.0,244.0,145.0,157,2000,Hip-Hop/Rap,Studio,173.0,1,82.0,spotify:album:6t7956yu5zYf5A829XRiHC,1.0,Male,1972.0,1996.0,28.0,4.0,6t7956yu5zYf5A829XRiHC
+U2,U2,All That You Can't Leave Behind,139.0,280.0,,-362,2000,Indie/Alternative Rock,Studio,94.0,3,60.0,spotify:album:7gskILm9UyDvFlmmAoqn2g,4.0,Male,7842.0,1980.0,39.5,20.0,7gskILm9UyDvFlmmAoqn2g
+"Ross, Diana & the Supremes",The Supremes,Anthology,431.0,423.0,452.0,-21,2001,Soul/Gospel/R&B,Greatest Hits,,201,,,5.0,Female,9713.0,1962.0,58.4,39.0,NOS121
+Jay-Z,Jay-Z,The Blueprint,464.0,252.0,50.0,414,2001,Hip-Hop/Rap,Studio,35.0,1,63.0,spotify:album:69CmkikTHkGKdkrUZTtyWl,1.0,Male,1969.0,1996.0,32.0,5.0,69CmkikTHkGKdkrUZTtyWl
+Strokes,The Strokes,Is This It,367.0,199.0,114.0,253,2001,Indie/Alternative Rock,Studio,58.0,33,67.0,spotify:album:2k8KgmDp9oHrmu0MIj4XDE,5.0,Male,9897.0,2001.0,21.6,0.0,2k8KgmDp9oHrmu0MIj4XDE
+"Dylan, Bob",Bob Dylan,"""Love and Theft""",467.0,385.0,411.0,56,2001,Singer-Songwriter/Heartland Rock,Studio,26.0,5,35.0,spotify:album:4BcfuxQ4EO07Y53yr6YhAJ,1.0,Male,1941.0,1962.0,60.0,39.0,4BcfuxQ4EO07Y53yr6YhAJ
+"Waters, Muddy",Muddy Waters,The Anthology,38.0,38.0,483.0,-445,2001,Blues/Blues Rock,Compilation,,201,,,1.0,Male,1913.0,1947.0,88.0,54.0,NOS122
+ABBA,ABBA,The Definitive Collection,180.0,179.0,303.0,-123,2001,,Studio,186.0,1,50.0,spotify:album:34lTW6LuORpuIiYfqsetuq,4.0,Male/Female,7786.0,1973.0,54.5,28.0,34lTW6LuORpuIiYfqsetuq
+No Doubt,No Doubt,Rock Steady,316.0,,,-185,2001,Punk/Post-Punk/New Wave/Power Pop,Studio,76.0,9,61.0,spotify:album:0KFPnm4Ow2L9BuivmWT3pu,4.0,Male/Female,7876.0,1992.0,32.0,9.0,0KFPnm4Ow2L9BuivmWT3pu
+"Scaggs, Boz",Boz Scaggs,Boz Scaggs,,496.0,,-501,1969,,Studio,171.0,5,36.0,spotify:album:4i1GgeitxAC8fy48Cwcl54,1.0,Male,1944.0,1965.0,25.0,4.0,4i1GgeitxAC8fy48Cwcl54
+"Dury, Ian and the Blockheads",Ian Dury and the Blockheads,New Boots & Panties!!,,,,-501,1977,,Studio,5.0,168,36.0,spotify:album:4GqPVPXNmpFMpoRnafIfLR,4.0,Male,7790.0,1975.0,29.5,2.0,4GqPVPXNmpFMpoRnafIfLR
+"Raitt, Bonnie",Bonnie Raitt,Give It Up,,495.0,,-501,1972,Country/Folk/Country Rock/Folk Rock,Studio,15.0,131,48.0,spotify:album:6ry5iI1ik4H2DvoiWhluYh,1.0,Female,1949.0,1971.0,23.0,1.0,6ry5iI1ik4H2DvoiWhluYh
+"King, B.B.",B.B. King,Live in Cook County Jail,,499.0,,-501,1971,Blues/Blues Rock,Live,33.0,25,40.0,spotify:album:3mCS3cMduOlki845XA4gDZ,1.0,Male,1925.0,1956.0,46.0,15.0,3mCS3cMduOlki845XA4gDZ
+"Ronstadt, Linda",Linda Ronstadt,The Very Best of Linda Ronstadt,324.0,164.0,,-177,2002,,Greatest Hits,3.0,165,,,1.0,Female,1946.0,1969.0,56.0,33.0,NOS134
+"Dylan, Bob",Bob Dylan,Modern Times,,204.0,,-501,2006,Singer-Songwriter/Heartland Rock,Studio,27.0,1,38.0,spotify:album:6y2WHyqRUCeHrjMXvjnRmD,1.0,Male,1941.0,1962.0,65.0,44.0,6y2WHyqRUCeHrjMXvjnRmD
+"Springsteen, Bruce",Bruce Springsteen,The Rising,,424.0,,-501,2002,Singer-Songwriter/Heartland Rock,Studio,37.0,1,55.0,spotify:album:23vzCh5cDn0LzdGmGWrT1d,1.0,Male,1949.0,1973.0,53.0,29.0,23vzCh5cDn0LzdGmGWrT1d
+Radiohead,Radiohead,Amnesiac,,320.0,,-501,2001,Indie/Alternative Rock,Studio,16.0,2,63.0,spotify:album:1HrMmB5useeZ0F5lHrMvl0,5.0,Male,9843.0,1993.0,32.4,8.0,1HrMmB5useeZ0F5lHrMvl0
+"Lynn, Loretta",Loretta Lynn,All Time Greatest Hits,485.0,478.0,,-16,2002,Country/Folk/Country Rock/Folk Rock,Greatest Hits,,201,26.0,spotify:album:1xszIYZw0waqfnGk6le7hg,1.0,Female,1932.0,1963.0,70.0,39.0,1xszIYZw0waqfnGk6le7hg
+Coldplay,Coldplay,A Rush of Blood to the Head,473.0,466.0,324.0,149,2002,Indie/Alternative Rock,Studio,104.0,5,82.0,spotify:album:0RHX9XECH8IVI3LNgWDpmQ,4.0,Male,7910.0,2000.0,24.5,2.0,0RHX9XECH8IVI3LNgWDpmQ
+Vampire Weekend,Vampire Weekend,Vampire Weekend,,430.0,,-501,2008,Indie/Alternative Rock,Studio,53.0,17,67.0,spotify:album:7n8NJkGKAl2np1bXiRn0CY,4.0,Male,7935.0,2008.0,24.25,0.0,7n8NJkGKAl2np1bXiRn0CY
+M.I.A.,M.I.A.,Kala,,393.0,,-501,2007,Electronic,Studio,45.0,18,69.0,spotify:album:2xoj2gYed3IYmGWn3owSfu,1.0,Female,1975.0,2005.0,32.0,2.0,2xoj2gYed3IYmGWn3owSfu
+Arctic Monkeys,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",,371.0,,-501,2006,Indie/Alternative Rock,Studio,19.0,24,76.0,spotify:album:50Zz8CkIhATKUlQMbHO3k1,4.0,Male,7943.0,2006.0,20.25,0.0,50Zz8CkIhATKUlQMbHO3k1
+MGMT,MGMT,Oracular Spectacular,,494.0,,-501,2007,Indie/Alternative Rock,Studio,111.0,38,74.0,spotify:album:6mm1Skz3JE6AXneya9Nyiv,2.0,Male,3965.0,2007.0,24.5,0.0,6mm1Skz3JE6AXneya9Nyiv
+White Stripes,The White Stripes,White Blood Cells,,497.0,,-501,2001,Blues/Blues Rock,Studio,52.0,61,68.0,spotify:album:6Xvc1TfpVEhDeHhmTQEtp0,2.0,Male/Female,3949.0,1999.0,26.5,2.0,6Xvc1TfpVEhDeHhmTQEtp0
+My Morning Jacket,My Morning Jacket,Z,,457.0,,-501,2005,Indie/Alternative Rock,Studio,6.0,67,51.0,spotify:album:1UgdV58y1OX2oiTBbTFvlh,5.0,Male,9882.0,1999.0,28.6,6.0,1UgdV58y1OX2oiTBbTFvlh
+Creedence Clearwater Revival,Creedence Clearwater Revival,Chronicle: The 20 Greatest Hits,,59.0,,-501,1976,Blues/Blues Rock,Greatest Hits,14.0,100,64.0,spotify:album:03GKkfyog7hnllilFS3jIV,4.0,Male,7776.0,1968.0,32.0,8.0,03GKkfyog7hnllilFS3jIV
+Eminem,Eminem,The Eminem Show,317.0,,,-184,2002,Hip-Hop/Rap,Studio,104.0,1,87.0,spotify:album:2cWBwpqMsDJC1ZUwz813lo,1.0,Male,1972.0,1996.0,30.0,6.0,2cWBwpqMsDJC1ZUwz813lo
+"Wolf, Peter",Peter Wolf,Sleepless,432.0,427.0,,-69,2002,,Studio,,201,30.0,spotify:album:6XZwHDglhO4A0C5Pa4xO4Q,1.0,Male,1946.0,1984.0,56.0,18.0,6XZwHDglhO4A0C5Pa4xO4Q
+Beck,Beck,Sea Change,440.0,436.0,,-61,2002,Indie/Alternative Rock,Studio,26.0,8,51.0,spotify:album:5ieP11rJQvuYz0Ov3k03cy,1.0,Male,1970.0,1993.0,32.0,9.0,5ieP11rJQvuYz0Ov3k03cy
+"Cooke, Sam",Sam Cooke,Portrait of a Legend 1951-1964,106.0,107.0,307.0,-201,2003,Soul/Gospel/R&B,Greatest Hits,1.0,135,55.0,spotify:album:4jiO2jRz7g50ESvYYKsKwZ,1.0,Male,1931.0,1958.0,72.0,45.0,4jiO2jRz7g50ESvYYKsKwZ
+White Stripes,The White Stripes,Elephant,390.0,390.0,449.0,-59,2003,Blues/Blues Rock,Studio,57.0,6,76.0,spotify:album:6D9urpsOWWKtYvF6PaorGE,2.0,Male/Female,3949.0,1999.0,28.5,4.0,6D9urpsOWWKtYvF6PaorGE
+"Chao, Manu",Manu Chao,Proxima estacion: Esperanza,,474.0,,-501,2001,Latin,Studio,,201,73.0,spotify:album:4t1LLdXiWTfoywqricztFo,1.0,Male,1961.0,1998.0,40.0,3.0,4t1LLdXiWTfoywqricztFo
+Beach Boys,The Beach Boys,The Smile Sessions,,381.0,,-501,2011,,Compilation,,201,41.0,spotify:album:01TG7VOg4F90jXv3a1yCgA,6.0,Male,11657.0,1962.0,68.16666667,49.0,01TG7VOg4F90jXv3a1yCgA

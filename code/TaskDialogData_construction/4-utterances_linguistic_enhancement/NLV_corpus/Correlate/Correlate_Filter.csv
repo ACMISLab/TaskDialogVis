@@ -1,0 +1,83 @@
+Dataset Name,Question
+life-expectancy-by-state.csv,can you tell me the tendency of the number of vehicles in japan and korea between 2000 and 2010 ?
+life-expectancy-by-state.csv,how did the number of vehicles change between 2000 and 2010 in the countries of japan and korea ?
+life-expectancy-by-state.csv,"considering the number of vehicles in japan and korea between 2000 and 2010 , what is the tendency ?"
+life-expectancy-by-state.csv,"in japan and korea , what was the trend for the number of vehicles between 2000 and 2010 ?"
+life-expectancy-by-state.csv,what is the tendency number of vehicles in japan and korea in the time frame of 2000 to 2010 ?
+life-expectancy-by-state.csv,in japan and korea between 2000 and 2010 what is the number of vehicles in these countries ?
+life-expectancy-by-state.csv,"in japan and korea between 200 and 2010 , what is the tendency of the number of vehicles ?"
+life-expectancy-by-state.csv,what was the number of vehicle tendencies in japan and korea between 2000 -2010 ?
+life-expectancy-by-state.csv,what is the propensity of the number of vehicles in japan and korea from the year 2000 to 2010 ?
+life-expectancy-by-state.csv,"in japan and korea , how many vehicles were there between 2000 and 2010 ?"
+life-expectancy-by-state.csv,what number of cars were in japan and korea between 2000 and 2010 ?
+life-expectancy-by-state.csv,how many vehicles were there in japan and korea between 2000 and 2010 ?
+life-expectancy-by-state.csv,what is the fluctuation of distribution of vehicles in japan and korea starting with with the years 2000 through 2010 ?
+life-expectancy-by-state.csv,"from 2000 to 2010 , in japan and korea , what were the number of vehicles in the populous ?"
+life-expectancy-by-state.csv,how many vehicles on average were there in japan and korea between 2000 and 2010 ?
+life-expectancy-by-state.csv,what is the average number of cars in japan and korea between 2000 -2010 ?
+life-expectancy-by-state.csv,what is the type and number of the total vehicles in japan and korea during 2000 to 2010 ?
+marry.csv,does the area with a large number of separated people also have a large number of divorced people ?
+marry.csv,is the area with a larger population of separated people also include having a large divorced population ?
+marry.csv,"in areas where there are many separated people , are there also a lot of divorced people ?"
+marry.csv,does the area with lots of separated people also have lots of divorced people ?
+marry.csv,is the region with a lot of separated people also have a lot of divorced people ?
+marry.csv,"looking at the area with a large number of seperated people , does it have a large number of divorced people ?"
+marry.csv,"in areas with a lot of separated people , are there also a large number of divorced people ?"
+marry.csv,"is it true that if the location has a huge number of separated people , it would equate to a huge number of divorced people as well ?"
+marry.csv,does the location share a similar substantial amount when comparing separated and divorced individuals ?
+marry.csv,can you tell what area has a larger number of separated people also have the large number of divorced people ?
+marry.csv,can you show me if an area with a large number of separated people also have a large number of divorced people .
+marry.csv,"in the same area , do you large numbers of both separated people and divorced people ?"
+marry.csv,tell me if the are with the larger amount of separated people also have a large amount of divorced people .
+marry.csv,"if you look at a certain area , do you think that there will be a large number of both separated and divorced people ?"
+marry.csv,this area has a large number of separated people - does it also have a large number of divorced people ?
+marry.csv,does a county with a large population of separated people also have a large population of divorced people
+marry.csv,areas with a large number of separated people also have a large number of divorced people .
+Suicide.csv,has the gdp of china increased or decreased in the last 10 years ?
+Suicide.csv,"in the last 10 years , has the gdp of china gone up or gone down ?"
+Suicide.csv,"if we look for china 's gdp over the last 10 years , has it increased or decreased ?"
+Suicide.csv,"in the past 10 years , has china 's gdp gone up or down ?"
+Suicide.csv,"over the last 10 years , has the gdp of china increased or decreased ?"
+Suicide.csv,has the gdp for china gone up or down over the last decade ?
+Suicide.csv,can you tell me if the gdp of china increased or decreased in the last 10 years ?
+Suicide.csv,"taking into account the last 10 years , has china 's gdp gone up or down ?"
+Suicide.csv,over the last 10 years had there been and increase or decrease in china 's gdp ?
+Suicide.csv,has there been an increase or decrease in the gdp of china over the last 10 years
+Suicide.csv,show me if the gdp of china increased or decreased in the last 10 years .
+Suicide.csv,"in the last 10 years , has china 's gdp risen or fallen ?"
+Suicide.csv,"china 's gdp rate has changed in the past ten years - has it increased , or decreased ?"
+Suicide.csv,is china gdp higher or lower than a decade ago ?
+Suicide.csv,"for the gdp of china , has it gone up or down over the last decade ?"
+googleplaystore.csv,"for paid apps , is there a linear relationship between the price and the installations ?"
+googleplaystore.csv,do price and installations for paid apps have a linear relationship ?
+googleplaystore.csv,is there a linear relationship between price and installations of a paid app
+googleplaystore.csv,does a linear relationship exist between installations and price for paid apps ?
+googleplaystore.csv,does the price and the installation have a linear relationship for paid apps ?
+googleplaystore.csv,"with apps that are purchased , is there a linear correlation between the price of the app and the number of installations ?"
+googleplaystore.csv,is there a linear relationship between price and paid app installations ?
+googleplaystore.csv,is there a linear relationship between an app 's price and its installations ?
+googleplaystore.csv,is there a linear relationship between the price and installation of a paid app ?
+googleplaystore.csv,what is the linear relationship between price and installations for paid apps ?
+googleplaystore.csv,do the price and installations have a linear relationship for paid apps ?
+googleplaystore.csv,is there a correlation between paid apps and their cost and the installation ?
+googleplaystore.csv,"what is the linear relationship between the installations and the price for paid apps , if any ?"
+googleplaystore.csv,"for the paid apps , is the price and the number of installations directly proportional ?"
+googleplaystore.csv,is there a direct link between price and installations for paid apps ?
+googleplaystore.csv,"for paid apps , is the relationship between the price and the installations proportional ?"
+googleplaystore.csv,"for paid apps , does the rating negatively correlate with the price ?"
+googleplaystore.csv,is there a negative correlation between the rating of paid apps and their price ?
+googleplaystore.csv,is there a negative correlation between ratings and the price among paid apps ?
+googleplaystore.csv,is there a negative correlation with the price on paid apps
+googleplaystore.csv,is there a negative correlation between the price of the app and its rating ?
+googleplaystore.csv,is there any correlation between negative ratings and the price of the app ?
+googleplaystore.csv,is there an inverse correlation between the price of apps and their rating ?
+googleplaystore.csv,is there a correlation between price and rating with paid apps ?
+googleplaystore.csv,do paid app ratings negatively correlate with its cost ?
+googleplaystore.csv,do ratings negatively correlate with price for paid apps ?
+googleplaystore.csv,does the rating correlate negatively with the price when it comes to paid apps ?
+googleplaystore.csv,do you think that apps who that are rated negatively receive negative ratings because of their price ?
+googleplaystore.csv,"for apps that are paid for , do ratings negatively correlate with the cost of the app ?"
+googleplaystore.csv,does the price show an inverse relationship to an apps rating regarding whether the app is paid for ?
+googleplaystore.csv,does the cost of a paid app cause reviews to be more negative ?
+googleplaystore.csv,do the negative ratings have to do with the price for the paid apps ?
+googleplaystore.csv,"does the price , for paid apps , neggativley affect its ratings ?"

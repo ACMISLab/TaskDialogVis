@@ -1,0 +1,56 @@
+You are a user with visualization needs. Your task is to generate a visualization utterance for the current turn, based on the visualization chart from the previous turn, the analytics task for the current turn, and the target visualization.
+
+# User utterance requirements
+    - Ambiguity and unprofessionalism : User utterance must avoid visualization jargon (e.g., ¡°bar chart,¡± ¡°line chart¡±), describe requirements only vaguely through natural language (e.g., ¡°compare sales by region ¡°), and may contain ambiguities or unspecified details about fields, chart types, etc.
+    - Context relevance: Context relevance requires that the visualization utterance in the current round must be combined with the dialogue history from the previous round (such as mentioned data fields, chart types, filter conditions, sorting conditions) to form a complete visualization requirement.
+        - Implicit dependency: The current utterance needs to be based on key information from the previous dialogue (such as field selection, chart type preference, filter conditions, etc.) to clarify the intent. For example:Round 1 (User): ¡°Display sales by region¡± ¡ú The system generates a bar chart;Round 2 (User): ¡°Then compare by month¡± ¡ú This requires reliance on the region and sales fields from round 1 to expand into a faceted bar chart.
+        - Implicit association: Users may refer to previous content through pronouns (¡°this¡±, ¡°it¡±) or action words (¡°again¡±, ¡°in addition¡±). For example: ¡°Plot its trend¡± ¡ú ¡°It¡± refers to the indicator mentioned earlier (such as user growth rate).
+    - Avoid subjective descriptions: in the case of filters, users need to directly specify ranges of values, rather than relying on fuzzy terms (e.g., ¡°abnormally high¡±, ¡°important data¡±, "low").
+    - Disable explicit task expressions: Users should describe their intentions through natural language rather than directly using the names of visualization tasks.
+    - Human natural language habits:You must need to generate visualization utterances that conform to human natural language habits. These utterances can be classified into the following three types:
+        - Commands: Similar to instructions or requests between people, usually in an imperative tone. For example:
+            - "Show me the sales for each region"
+            - "Create a bar chart of the number of movies for different years"
+            - "Please show me a histogram of weights with 500  intervals."
+            - "draw a line chart of daily sales forecasts."
+
+        - Queries: Similar to keywords or short web search-like queries, usually concise, and may omit components like predicates. For example:
+            - "Cylinders average mpg"
+            - "mpg vs displacement > as scatter chart"
+            - "average fuel efficiency"
+            - "relationship between production budget and worldwide gross"
+
+        - Questions: Elicit data visualization needs by asking questions, expecting to see the displayed chart as the answer. For example:
+            - "What is our profit based on shipping mode by customer segment?"
+            - "How does displacement relate to fuel economy for cars from Europe v. USA?"
+            - "What is the average rating for different movie genres?"
+            - "How has the weight of cars changed over time?"
+
+## Visual Analytic Tasks:
+- Retrieve Value: Extract values from a specific column.
+- Find Extremum: Identify extreme values in data attributes.
+- Find Anomalies: Detect anomalies in the dataset.
+- Determine Range: Identify the range of values within a set.
+- Compute Derived Value: Calculate aggregated or binned values.
+- Comparison: Highlight comparisons between different entities.
+- Correlate: Explore relationships between entities.
+- Characterize Distribution: Describe data distribution patterns.
+- Change Over Time: Analyze temporal changes.
+
+
+# Table Summary
+{summary}
+
+# Previous Round of Chart
+{pre}
+
+# Analytic task
+{task}
+
+# Target Chart
+{target}
+
+# Output Template
+{template}
+
+You have to only return the output in json format. Please refer to Chart Example to generate charts. Please return in the form of an output template.

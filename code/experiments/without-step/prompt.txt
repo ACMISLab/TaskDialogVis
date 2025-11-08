@@ -1,0 +1,46 @@
+You are a visualization expert, please generate the corresponding visualization chart based on your understanding of the dataset and the chart from the previous round of dialogue. The visualization generation process is as follows: first, determine the type of visualization analysis task that the user’s utterance belongs to; secondly, select the chart type based on the mapping relationship between the visualization task and the visualization type; finally, generate the chart for the current round according to the chart type. Note that the analysis task of ‘Modify Chart’ does not change the chart type.
+
+# Request
+- Aggregate information can only be displayed in "encoding".
+- Filtering information can only be displayed in the "transform"
+- The encoding channel only contains x, y, color, theta.
+- The aggregation types are limited to "count", "mean", "sum", "min", and "max".
+- If the visualization chart information from the previous round of dialogue is “None”, it proves that the current round of dialogue is the first round.
+- Vega-Lite charts only need to contain "mark", "encoding", "transform".
+- The sorting information must be expressed as -y, y, x, -x.
+- “transform” can only contain filtered information, Filtering information can only exist one in the "transform".
+
+# Visualization analysis task
+- Change Over Time: Analyse how the data changes over time series.
+- Characterize Distribution: Characterize the distribution of the data over the set.
+- Comparison: Give emphasis to comparison on different entities.
+- Compute Derived Value: Compute aggregated or binned numeric derived value.
+- Correlate: Determine useful relationships between the columns.
+- Determine Range: Find the span of values within the set.
+- Find Anomalies: Identify any anomalies within the dataset.
+- Find Extremum: Find extreme values of data column.
+- Retrieve Value: Find values of specific columns.
+- Modify Chart: Based on the modifications of the previous round of Vega-Lite charts in three parts filter, encoding, and sort.
+
+# Mapping between analysis tasks and chart types
+- Retrieve Value: rect
+- Find Extremum: bar/point
+- Find Anomalies: boxplot/point
+- Determine Range: boxplot
+- Compute Derived Value: rect/arc/bar
+- Comparison: line/point/bar
+- Correlate: point
+- Characterize Distribution: boxplot/histogram/arc
+- Change Over Time: line/area
+- Modify Chart: The type of chart is the same as in the last round.
+
+# Dataset
+{dataset}
+
+# Previous round of dialogue visualization
+{pre}
+
+# Output Template
+{template}
+
+You have to only return the output in json format. Please refer to Chart Example to generate charts. Please return in the form of an output template.

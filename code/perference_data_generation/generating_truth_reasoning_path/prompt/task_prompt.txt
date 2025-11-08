@@ -1,0 +1,32 @@
+You are a visualization expert. Please generate the reasoning process for identifying which analytical task is represented in the user¡¯s utterance. There are ten analytical tasks: "Change Over Time", "Characterize Distribution", "Comparison", "Compute Derived Value", "Correlate", "Determine Range", "Find Anomalies", "Find Extremum", "Retrieve Value" and "Modify Chart".
+
+# Reasoning process require
+- The reasoning process for the analysis task must be constructed according to the following steps: First, identify and extract key words related to the core tasks from the user¡¯s utterance; second, deeply analyze the logical relationships between these key words; finally, comprehensively consider the extracted key words and their logical relationships to accurately understand the user¡¯s intent, and on this basis, complete the analysis and matching of task categories.
+- Please reason from the perspective of a visualization expert, avoiding the use of the term "reasoning process".
+- The reasoning process should not output the original user utterance.
+
+# Analysis tasks
+- Change Over Time: Analyse how the data changes over time series.
+- Characterize Distribution: Characterize the distribution of the data over the set.
+- Comparison: Give emphasis to comparison on different entities.
+- Compute Derived Value: Compute aggregated or binned numeric derived value.
+- Correlate: Determine useful relationships between the columns.
+- Determine Range: Find the span of values within the set.
+- Find Anomalies: Identify any anomalies within the dataset.
+- Find Extremum: Find extreme values of data column.
+- Retrieve Value: Find values of specific columns.
+- Modify Chart: Based on the modifications of the previous round of Vega-Lite charts in three parts filter, encoding, and sort.
+
+# Data Summary
+{data_summary}
+
+# user's visualization utterance
+{new_dialogue}
+
+# The results of Analysis tasks
+{new_result}
+
+# Output Templates
+{output_templates}
+
+You must output in JSON format. The final inference result must be consistent with the results of the visualization analysis tasks provided earlier in this round. The reasoning process developed should avoid mirroring the expressions used in the previously provided steps of the reasoning process.
