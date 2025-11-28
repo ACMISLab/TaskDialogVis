@@ -74,6 +74,11 @@ The training pipeline consists of the following stages:
 
 This two-pronged approach ensures that TaskDialogViz not only understands the user's intent but also follows a robust and logical path to generate the correct visualization.
 
+## Demonstration Video
+
+You can find the video illustrating the demo here:
+https://youtu.be/CqEGvp2pWRA?si=yP6BxqDrcjPgfM8m
+
 ## Data Usage
 
 see `./data/` dir
