@@ -44,7 +44,7 @@ Here is a detailed breakdown of each directory:
 
 ## How *TaskDialogData* was Created
 
-The TaskDialogData dataset was constructed using a sophisticated four-step, LLM-driven pipeline to ensure each dialogue is logically coherent, contextually relevant, and linguistically natural.
+The TaskDialogData dataset was constructed using a sophisticated four-step, LLM-driven pipeline to ensure each dialogue is logically coherent, contextually relevant, and linguistically natu![]()ral.
 
 1. **Target Visualization Generation**: We first generate the final, complex visualization (V_target) that serves as the end goal of a dialogue. An Answer Set Programming (ASP) solver creates a core chart, which is then enriched by an LLM with advanced features like sorting and filtering.
 2. **Seed Visualization Generation**: A simpler, foundational visualization (V_seed) is created to act as the conversation's starting point. This seed is intentionally distinct from the target to necessitate a multi-turn, exploratory interaction.
@@ -78,6 +78,10 @@ This two-pronged approach ensures that TaskDialogViz not only understands the us
 
 You can find the video illustrating the demo here:
 https://youtu.be/CqEGvp2pWRA?si=yP6BxqDrcjPgfM8m
+
+## How to use system
+
+![System use](.\demo.png)
 
 ## Data Usage
 
