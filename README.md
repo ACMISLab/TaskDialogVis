@@ -81,7 +81,7 @@ https://youtu.be/CqEGvp2pWRA?si=yP6BxqDrcjPgfM8m
 
 ## How to use system
 
-![System use](.\demo.png)
+![System use](demo.png)
 
 ## Data Usage
 
